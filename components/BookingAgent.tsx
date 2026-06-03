@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import Image from 'next/image'
 import { usePathname } from 'next/navigation'
 import { CalendarDays, X, ChevronRight, Clock, Loader2 } from 'lucide-react'
 
@@ -182,7 +183,9 @@ export function BookingAgent() {
           }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
               {companyLogo ? (
-                <img src={companyLogo} alt="" style={{ height: 22, width: 'auto', objectFit: 'contain' }} />
+                <div style={{ position: 'relative', height: 22, width: 80, flexShrink: 0 }}>
+                  <Image src={companyLogo} alt="" fill style={{ objectFit: 'contain' }} />
+                </div>
               ) : (
                 <CalendarDays size={18} />
               )}

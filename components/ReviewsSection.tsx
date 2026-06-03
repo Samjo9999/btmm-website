@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { Star } from 'lucide-react'
 import { PercentStars } from '@/components/PercentStars'
 
@@ -50,11 +50,7 @@ export function ReviewsSection({ companyId, serviceId }: ReviewsSectionProps) {
   const [submitted, setSubmitted] = useState(false)
   const [formData, setFormData] = useState({ name: '', rating: 0, comment: '' })
 
-  useEffect(() => {
-    fetchReviews()
-  }, [companyId, serviceId])
-
-  async function fetchReviews() {
+  const fetchReviews = useCallback(async () => {
     try {
       const params = new URLSearchParams({ company_id: companyId })
       if (serviceId) params.set('service_id', serviceId)
@@ -70,7 +66,11 @@ export function ReviewsSection({ companyId, serviceId }: ReviewsSectionProps) {
     } finally {
       setLoading(false)
     }
-  }
+  }, [companyId, serviceId])
+
+  useEffect(() => {
+    fetchReviews()
+  }, [fetchReviews])
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()

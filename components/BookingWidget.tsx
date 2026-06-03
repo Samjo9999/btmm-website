@@ -149,7 +149,7 @@ function BookingWidgetInner({ companyId, serviceId, locationId, accentColor = 'v
       if (quickServiceId) setSelectedService(quickServiceId)
       setStep('details')
     }
-  }, [isQuickBook, quickDate, quickTime, quickEnd, quickServiceId])
+  }, [isQuickBook, quickDate, quickTime, quickEnd, quickServiceId, setStep])
 
   // Services laden
   useEffect(() => {

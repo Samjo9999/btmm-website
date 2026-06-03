@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Presse – Back to Balance",
+    "description": "Informations presse et matériaux pour les rédactions sur Back to Balance – l'alternative économique coopérative de Fribourg."
+  },
+  "hero": {
+    "titel": "Presse",
+    "untertitel": "Informations et matériaux pour les rédactions",
+    "kontakt_button": "Contact presse"
+  },
+  "kurzprofil": {
+    "titel": "Profil",
+    "beschreibung": "[ESPACE RÉSERVÉ] Back to Balance est une alternative économique organisée en coopérative qui combine travail à valeur égale, infrastructure partagée et collaboration internationale au sein d'un système commun.",
+    "rechtsform_label": "Forme juridique",
+    "rechtsform": "Coopérative enregistrée prévue (eG) + association de soutien (e.V.)",
+    "gruendungsort_label": "Lieu de fondation",
+    "gruendungsort": "Fribourg-en-Brisgau, Allemagne",
+    "gruendungsjahr_label": "Année de fondation",
+    "gruendungsjahr": "2026 (prévu)",
+    "website_label": "Site web",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "Messages clés",
+    "gleichwuerdig": {
+      "titel": "Travail à valeur égale",
+      "text": "Chaque heure compte de manière égale – indépendamment de la qualification."
+    },
+    "infrastruktur": {
+      "titel": "Infrastructure partagée",
+      "text": "Les coûts sont partagés, pas supportés seul."
+    },
+    "international": {
+      "titel": "Vision internationale",
+      "text": "Des cellules décentralisées sous un système commun."
+    }
+  },
+  "downloads": {
+    "titel": "Téléchargements et médiathèque",
+    "logo_png": "Logo (PNG)",
+    "logo_svg": "Logo (SVG)",
+    "konzept_pdf": "Concept (PDF)",
+    "satzung_pdf": "Statuts (PDF)",
+    "herunterladen": "Télécharger"
+  },
+  "kontakt": {
+    "titel": "Contact presse",
+    "name_label": "Personne de contact",
+    "name": "[ESPACE RÉSERVÉ]",
+    "email_label": "E-mail",
+    "email": "[ESPACE RÉSERVÉ]",
+    "hinweis": "Nous répondons généralement sous 2 jours ouvrables."
+  }
+}

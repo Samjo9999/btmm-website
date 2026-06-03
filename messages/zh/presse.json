@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "新闻 – Back to Balance",
+    "description": "关于Back to Balance的新闻信息和编辑部材料——来自弗莱堡的合作经济替代方案。"
+  },
+  "hero": {
+    "titel": "新闻",
+    "untertitel": "面向编辑部的信息和材料",
+    "kontakt_button": "新闻联系"
+  },
+  "kurzprofil": {
+    "titel": "简介",
+    "beschreibung": "[占位符] Back to Balance是一种合作组织的经济替代方案，将平等价值的劳动、共享基础设施和国际合作结合在一个共同体系中。",
+    "rechtsform_label": "法律形式",
+    "rechtsform": "计划中的注册合作社 (eG) + 支持协会 (e.V.)",
+    "gruendungsort_label": "创立地点",
+    "gruendungsort": "德国弗莱堡",
+    "gruendungsjahr_label": "创立年份",
+    "gruendungsjahr": "2026（计划中）",
+    "website_label": "网站",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "核心信息",
+    "gleichwuerdig": {
+      "titel": "平等价值的劳动",
+      "text": "每小时同等计算——不论资质。"
+    },
+    "infrastruktur": {
+      "titel": "共享基础设施",
+      "text": "成本共同承担，不由个人独自承受。"
+    },
+    "international": {
+      "titel": "国际愿景",
+      "text": "统一体系下的去中心化单元。"
+    }
+  },
+  "downloads": {
+    "titel": "下载与媒体库",
+    "logo_png": "标志 (PNG)",
+    "logo_svg": "标志 (SVG)",
+    "konzept_pdf": "概念 (PDF)",
+    "satzung_pdf": "章程 (PDF)",
+    "herunterladen": "下载"
+  },
+  "kontakt": {
+    "titel": "新闻联系",
+    "name_label": "联系人",
+    "name": "[占位符]",
+    "email_label": "电子邮件",
+    "email": "[占位符]",
+    "hinweis": "我们通常在2个工作日内回复。"
+  }
+}

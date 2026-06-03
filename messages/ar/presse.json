@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "الصحافة – Back to Balance",
+    "description": "معلومات صحفية ومواد للمحررين حول Back to Balance – البديل الاقتصادي التعاوني من فرايبورغ."
+  },
+  "hero": {
+    "titel": "الصحافة",
+    "untertitel": "معلومات ومواد للمحررين",
+    "kontakt_button": "اتصال صحفي"
+  },
+  "kurzprofil": {
+    "titel": "نبذة",
+    "beschreibung": "[عنصر نائب] Back to Balance هو بديل اقتصادي منظم تعاونياً يجمع بين العمل المتساوي القيمة والبنية التحتية المشتركة والتعاون الدولي في نظام مشترك.",
+    "rechtsform_label": "الشكل القانوني",
+    "rechtsform": "تعاونية مسجلة مخطط لها (eG) + جمعية دعم (e.V.)",
+    "gruendungsort_label": "مكان التأسيس",
+    "gruendungsort": "فرايبورغ، ألمانيا",
+    "gruendungsjahr_label": "سنة التأسيس",
+    "gruendungsjahr": "2026 (مخطط)",
+    "website_label": "الموقع الإلكتروني",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "الرسائل الرئيسية",
+    "gleichwuerdig": {
+      "titel": "عمل متساوي القيمة",
+      "text": "كل ساعة تُحسب بالتساوي – بغض النظر عن المؤهلات."
+    },
+    "infrastruktur": {
+      "titel": "بنية تحتية مشتركة",
+      "text": "التكاليف مشتركة، وليست على عاتق فرد واحد."
+    },
+    "international": {
+      "titel": "رؤية دولية",
+      "text": "خلايا لامركزية تحت نظام مشترك."
+    }
+  },
+  "downloads": {
+    "titel": "التنزيلات والمكتبة الإعلامية",
+    "logo_png": "الشعار (PNG)",
+    "logo_svg": "الشعار (SVG)",
+    "konzept_pdf": "المفهوم (PDF)",
+    "satzung_pdf": "النظام الأساسي (PDF)",
+    "herunterladen": "تحميل"
+  },
+  "kontakt": {
+    "titel": "اتصال صحفي",
+    "name_label": "جهة الاتصال",
+    "name": "[عنصر نائب]",
+    "email_label": "البريد الإلكتروني",
+    "email": "[عنصر نائب]",
+    "hinweis": "نرد عادةً خلال يومي عمل."
+  }
+}

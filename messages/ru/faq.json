@@ -1,0 +1,45 @@
+{
+  "titel": "Часто задаваемые вопросы",
+  "untertitel": "Ответы на самые важные вопросы",
+  "kategorien": {
+    "allgemein": "Общее",
+    "mitgliedschaft": "Членство",
+    "koerperarbeit": "Телесная работа",
+    "spenden": "Пожертвования",
+    "app": "Приложение"
+  },
+  "fragen": {
+    "was_ist_btb": {
+      "frage": "Что такое Back to Balance?",
+      "antwort": "Альтернативная экономическая модель с телесной работой и сообществом."
+    },
+    "wie_mitmachen": {
+      "frage": "Как участвовать?",
+      "antwort": "Как сторонник, спонсор или полноправный участник."
+    },
+    "was_kostet": {
+      "frage": "Сколько это стоит?",
+      "antwort": "Сторонник от 50€/год, спонсор от 1000€/год."
+    },
+    "was_sind_coins": {
+      "frage": "Что такое BtB-Coins?",
+      "antwort": "Внутренняя валюта. 1 Coin = 1 час."
+    },
+    "koerperarbeit_unterschied": {
+      "frage": "Что такое телесная работа BtB?",
+      "antwort": "Соматическое сопровождение, не терапия."
+    },
+    "spenden_wohin": {
+      "frage": "Куда идёт моё пожертвование?",
+      "antwort": "На создание инфраструктуры."
+    },
+    "app_login": {
+      "frage": "Где приложение?",
+      "antwort": "app.backtobalance.online"
+    },
+    "zelle_gruenden": {
+      "frage": "Основать свою ячейку?",
+      "antwort": "Да! Свяжитесь с нами."
+    }
+  }
+}

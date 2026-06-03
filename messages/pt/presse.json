@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Imprensa – Back to Balance",
+    "description": "Informações de imprensa e materiais para redações sobre Back to Balance – a alternativa econômica cooperativa de Freiburg."
+  },
+  "hero": {
+    "titel": "Imprensa",
+    "untertitel": "Informações e materiais para redações",
+    "kontakt_button": "Contato de imprensa"
+  },
+  "kurzprofil": {
+    "titel": "Perfil",
+    "beschreibung": "[ESPAÇO RESERVADO] Back to Balance é uma alternativa econômica organizada cooperativamente que combina trabalho de igual valor, infraestrutura compartilhada e colaboração internacional em um sistema comum.",
+    "rechtsform_label": "Forma jurídica",
+    "rechtsform": "Cooperativa registrada planejada (eG) + associação de apoio (e.V.)",
+    "gruendungsort_label": "Local de fundação",
+    "gruendungsort": "Freiburg, Alemanha",
+    "gruendungsjahr_label": "Ano de fundação",
+    "gruendungsjahr": "2026 (planejado)",
+    "website_label": "Site",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "Mensagens-chave",
+    "gleichwuerdig": {
+      "titel": "Trabalho de igual valor",
+      "text": "Cada hora conta igualmente – independentemente da qualificação."
+    },
+    "infrastruktur": {
+      "titel": "Infraestrutura compartilhada",
+      "text": "Os custos são compartilhados, não assumidos sozinho."
+    },
+    "international": {
+      "titel": "Visão internacional",
+      "text": "Células descentralizadas sob um sistema comum."
+    }
+  },
+  "downloads": {
+    "titel": "Downloads e mediateca",
+    "logo_png": "Logo (PNG)",
+    "logo_svg": "Logo (SVG)",
+    "konzept_pdf": "Conceito (PDF)",
+    "satzung_pdf": "Estatuto (PDF)",
+    "herunterladen": "Baixar"
+  },
+  "kontakt": {
+    "titel": "Contato de imprensa",
+    "name_label": "Pessoa de contato",
+    "name": "[ESPAÇO RESERVADO]",
+    "email_label": "E-mail",
+    "email": "[ESPAÇO RESERVADO]",
+    "hinweis": "Normalmente respondemos em até 2 dias úteis."
+  }
+}

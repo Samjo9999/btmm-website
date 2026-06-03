@@ -1,0 +1,88 @@
+{
+  "landing": {
+    "titel": "Body Work",
+    "untertitel": "Holistic Support in Freiburg",
+    "text": "Back to Balance is a holistic method that helps your body find its way back to balance. Through gentle oscillations, a reset is created on all joint levels – from the toes to the tip of the nose. An unconscious learning process is initiated, and changes can take place.",
+    "text2": "Many people report deep relaxation, improved joint mobility and enhanced quality of life after a session. Noticeable changes are possible in 1–3 sessions.",
+    "cta_termin": "Book appointment",
+    "cta_methode": "Learn about the method"
+  },
+  "methode": {
+    "titel": "The Method",
+    "untertitel": "How Back to Balance Works",
+    "text1": "Back to Balance is a profound and holistic wellness method. It works with gentle oscillations that reach the entire musculoskeletal system – every joint, every connection, from the toes to the tip of the nose. The body is brought into relaxation and an unconscious learning process is initiated.",
+    "text2": "The focus is not on eliminating individual symptoms, but on strengthening the body's natural self-regulation. Usually we take care too late, when the body is already overloaded and expresses this through pain. Back to Balance nurtures the joints – before it is too late. And when complaints already exist, the method can support lasting relief.",
+    "prinzipien_titel": "Three Core Principles",
+    "prinzip1_titel": "Gentle Oscillations",
+    "prinzip1_text": "Through targeted, gentle impulses, the entire body is set into a natural oscillation. The joints are mobilised and tension can release.",
+    "prinzip2_titel": "Holistic Reset",
+    "prinzip2_text": "Back to Balance does not only work locally at one point, but on all joint levels simultaneously. The body is addressed as an interconnected system.",
+    "prinzip3_titel": "Unconscious Learning Process",
+    "prinzip3_text": "The oscillations initiate a process that continues to work even after the session. The body learns to regulate itself and integrate new movement patterns."
+  },
+  "ablauf": {
+    "titel": "What to Expect",
+    "untertitel": "Course of a Session",
+    "schritt1_titel": "Arrival and Conversation",
+    "schritt1_text": "Each session begins with a short conversation. Where do you have complaints? What are your expectations? This allows us to tailor the session individually to your needs.",
+    "schritt2_titel": "The Application",
+    "schritt2_text": "You lie clothed on a comfortable treatment table. Through gentle oscillations, your body is brought into relaxation. The method works on all joint levels – a profound reset for the entire musculoskeletal system.",
+    "schritt3_titel": "Noticeable Change",
+    "schritt3_text": "Many people already feel a clear change during the session: deeper relaxation, more mobility, a feeling of lightness. Lasting improvements are possible in 1–3 sessions.",
+    "schritt4_titel": "After-effect",
+    "schritt4_text": "The effect often continues to unfold in the days after the session. The learning process that was initiated continues to work unconsciously – your body integrates the new impulses into everyday life."
+  },
+  "fuer_wen": {
+    "titel": "How Can Body Work Help?",
+    "text": "Back to Balance can be particularly beneficial for a wide range of musculoskeletal complaints and stress-related conditions. The method is suitable for people of all ages.",
+    "indikationen_titel": "Particularly Beneficial For",
+    "indikation1": "Back pain, lumbago and sciatica",
+    "indikation2": "Headaches and neck tension",
+    "indikation3": "Knee problems and restricted mobility",
+    "indikation4": "Everyday stress, chronic tension and exhaustion",
+    "indikation5": "Birth preparation and postnatal recovery",
+    "indikation6": "General musculoskeletal complaints",
+    "indikation7": "Prevention – before the body signals through pain",
+    "vorbeugung_titel": "Prevention Instead of Aftercare",
+    "vorbeugung_text": "Usually we take care too late, when the body is already overloaded and expresses this through pain. Back to Balance nurtures the joints – regular sessions can help prevent complaints and enhance overall well-being.",
+    "nicht_fuer_titel": "Important Notice",
+    "nicht_fuer_text": "This wellness method does not replace medical or psychotherapeutic treatment. For acute health complaints, please consult a doctor or naturopath. If you are in a difficult financial situation, please do not hesitate to talk to us about it."
+  },
+  "preise": {
+    "titel": "Prices",
+    "untertitel": "Transparent and Fair",
+    "erstsitzung_titel": "Introductory Session",
+    "einzelsitzung_titel": "Individual Session",
+    "paket3_titel": "3-Session Package",
+    "dauer": "Duration",
+    "minuten": "minutes",
+    "preis_extern": "Price",
+    "mitglieder_hinweis": "BtB members exchange sessions via BtB Coins – no cash flow needed.",
+    "buchung_hinweis": "Book online or via the contact form",
+    "finanzen_hinweis": "If you are in a difficult financial situation, please do not hesitate to talk to us about it."
+  },
+  "termine": {
+    "titel": "Book Appointment",
+    "untertitel": "Online Booking",
+    "text": "Book your appointment directly online or contact us with any questions. We take time for individual consultation.",
+    "calendly_text": "Choose a suitable time:"
+  },
+  "ueber": {
+    "titel": "About the Practitioner",
+    "name": "Samjo",
+    "vollname": "Johannes-Samuel Gartzke",
+    "text1": "Johannes-Samuel Gartzke – known as Samjo – grew up on the happyfarm in the Black Forest, a farm in Oberkirch that has combined self-sufficiency, craftsmanship, body work and community living since 2003. From a training in systemic body work, Back to Balance was born: a holistic method that perceives the human being as a whole.",
+    "text2": "The body is a system – everything is connected, everything influences everything else. This principle shapes every session. Back to Balance is more than a technique: it is the conviction that the body knows what it needs – and that gentle, targeted impulses help it find its way back to balance.",
+    "qualifikationen_titel": "Background & Qualifications",
+    "qualifikation1": "Training in systemic body work",
+    "qualifikation2": "Raised with a holistic lifestyle on the happyfarm (since 2003)",
+    "qualifikation3": "Founder of the Back to Balance Universe – Freiburg"
+  },
+  "kontakt": {
+    "titel": "Contact & Directions",
+    "untertitel": "How to Reach Us",
+    "formular_titel": "Write to Us",
+    "anfahrt_titel": "Directions",
+    "adresse_titel": "Address"
+  }
+}

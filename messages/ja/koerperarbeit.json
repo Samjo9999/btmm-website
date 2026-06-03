@@ -1,0 +1,81 @@
+{
+  "landing": {
+    "titel": "ボディワーク",
+    "untertitel": "Freiburgでのソマティック・サポート",
+    "text": "BtBメソッドによる総合的なソマティック・サポート。",
+    "cta_termin": "予約する",
+    "cta_methode": "メソッドを知る"
+  },
+  "methode": {
+    "titel": "BtBメソッド",
+    "untertitel": "BtBボディワークとは？",
+    "text1": "身体と意識のための統合的アプローチ。",
+    "text2": "症状の除去ではなく自己調整力の強化。",
+    "prinzipien_titel": "基本原則",
+    "prinzip1_titel": "ソマティック・プレゼンス",
+    "prinzip1_text": "今この瞬間への完全な注意。",
+    "prinzip2_titel": "導くのではなく寄り添う",
+    "prinzip2_text": "身体のリズムに従います。",
+    "prinzip3_titel": "統合",
+    "prinzip3_text": "体験が永続的に定着します。"
+  },
+  "ablauf": {
+    "titel": "何が待っているか",
+    "untertitel": "セッションの流れ",
+    "schritt1_titel": "到着",
+    "schritt1_text": "静かな到着と簡単な会話。",
+    "schritt2_titel": "プロセス",
+    "schritt2_text": "身体とのワーク。",
+    "schritt3_titel": "統合",
+    "schritt3_text": "最後に統合の時間。",
+    "schritt4_titel": "余韻",
+    "schritt4_text": "効果はその後数日間にわたって広がります。"
+  },
+  "fuer_wen": {
+    "titel": "どんな方に？",
+    "text": "より深い身体とのつながりを求めるすべての方に。",
+    "indikationen_titel": "テーマ",
+    "indikation1": "ストレスと疲労",
+    "indikation2": "身体の緊張",
+    "indikation3": "より豊かな活力",
+    "indikation4": "変化のプロセス",
+    "indikation5": "身体とのつながり",
+    "nicht_fuer_titel": "注意事項",
+    "nicht_fuer_text": "医療行為の代替にはなりません。"
+  },
+  "preise": {
+    "titel": "料金",
+    "untertitel": "透明で公正",
+    "erstsitzung_titel": "初回セッション",
+    "einzelsitzung_titel": "個別セッション",
+    "paket3_titel": "3回パッケージ",
+    "dauer": "所要時間",
+    "minuten": "分",
+    "preis_extern": "料金",
+    "mitglieder_hinweis": "BtBメンバーはBtB-Coinsを使用します。",
+    "buchung_hinweis": "オンラインまたはお問い合わせで予約可能"
+  },
+  "termine": {
+    "titel": "予約する",
+    "untertitel": "オンライン予約",
+    "text": "オンラインで予約してください。",
+    "calendly_text": "日時を選択："
+  },
+  "ueber": {
+    "titel": "ガイドについて",
+    "name": "Samjo",
+    "text1": "TODO",
+    "text2": "TODO",
+    "qualifikationen_titel": "資格",
+    "qualifikation1": "TODO",
+    "qualifikation2": "TODO",
+    "qualifikation3": "TODO"
+  },
+  "kontakt": {
+    "titel": "お問い合わせ・アクセス",
+    "untertitel": "ご連絡方法",
+    "formular_titel": "お問い合わせフォーム",
+    "anfahrt_titel": "アクセス",
+    "adresse_titel": "住所"
+  }
+}

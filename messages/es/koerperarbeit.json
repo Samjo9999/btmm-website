@@ -1,0 +1,81 @@
+{
+  "landing": {
+    "titel": "Trabajo corporal",
+    "untertitel": "Acompañamiento somático en Freiburg",
+    "text": "El trabajo corporal según el método BtB es una forma integral de acompañamiento somático. Combina un trabajo corporal suave con una profunda comprensión del organismo humano.",
+    "cta_termin": "Reservar cita",
+    "cta_methode": "Conocer el método"
+  },
+  "methode": {
+    "titel": "El método BtB",
+    "untertitel": "¿Qué es el trabajo corporal BtB?",
+    "text1": "El trabajo corporal BtB es un enfoque integrativo que une sensaciones corporales, movimiento y consciencia. El proceso sigue el ritmo natural del cuerpo.",
+    "text2": "El foco no está en eliminar síntomas, sino en fortalecer la capacidad de autorregulación. El cuerpo sabe lo que necesita: nosotros le ayudamos a reencontrarse.",
+    "prinzipien_titel": "Principios fundamentales",
+    "prinzip1_titel": "Presencia somática",
+    "prinzip1_text": "Atención plena a las sensaciones corporales en el momento presente.",
+    "prinzip2_titel": "Acompañamiento en vez de dirección",
+    "prinzip2_text": "Seguimos el ritmo del cuerpo en lugar de empujarlo en una dirección determinada.",
+    "prinzip3_titel": "Integración",
+    "prinzip3_text": "Las experiencias corporales se integran en la consciencia global y se anclan de forma duradera."
+  },
+  "ablauf": {
+    "titel": "Qué te espera",
+    "untertitel": "Desarrollo de una sesión",
+    "schritt1_titel": "Llegada",
+    "schritt1_text": "Cada sesión comienza con una llegada tranquila. Hablamos brevemente sobre las sensaciones actuales y las expectativas.",
+    "schritt2_titel": "El proceso",
+    "schritt2_text": "En el núcleo de la sesión trabajamos con el cuerpo. Esto puede incluir tacto suave, movimiento guiado o ejercicios de percepción consciente.",
+    "schritt3_titel": "Integración",
+    "schritt3_text": "Al final de cada sesión nos tomamos tiempo para la integración. ¿Qué se experimentó? ¿Qué se lleva el cuerpo?",
+    "schritt4_titel": "Resonancia",
+    "schritt4_text": "El efecto de una sesión a menudo se despliega en los días siguientes. El descanso y el autocuidado son una parte importante del proceso."
+  },
+  "fuer_wen": {
+    "titel": "¿Para quién es el trabajo corporal?",
+    "text": "El trabajo corporal según el método BtB es adecuado para todas las personas que desean más conexión con su cuerpo, experimentan tensión crónica o agotamiento, o se encuentran en un proceso de cambio.",
+    "indikationen_titel": "Posibles temas",
+    "indikation1": "Estrés crónico y agotamiento",
+    "indikation2": "Tensiones corporales y dolores",
+    "indikation3": "Búsqueda de más vitalidad y energía vital",
+    "indikation4": "Apoyo en procesos de cambio",
+    "indikation5": "Conexión más profunda con el propio cuerpo",
+    "nicht_fuer_titel": "Ten en cuenta",
+    "nicht_fuer_text": "El trabajo corporal no sustituye un tratamiento médico o psicoterapéutico. En caso de enfermedades agudas o crisis psicológicas, por favor consulta primero a un médico o terapeuta."
+  },
+  "preise": {
+    "titel": "Precios",
+    "untertitel": "Transparentes y justos",
+    "erstsitzung_titel": "Primera sesión",
+    "einzelsitzung_titel": "Sesión individual",
+    "paket3_titel": "Paquete de 3",
+    "dauer": "Duración",
+    "minuten": "minutos",
+    "preis_extern": "Precio",
+    "mitglieder_hinweis": "Los miembros de BtB intercambian sesiones a través de BtB-Coins, sin necesidad de dinero.",
+    "buchung_hinweis": "Reserva online o mediante el formulario de contacto"
+  },
+  "termine": {
+    "titel": "Reservar cita",
+    "untertitel": "Reserva online",
+    "text": "Reserva tu cita directamente online a través de Calendly o contáctanos para cualquier consulta.",
+    "calendly_text": "Elige un horario que te convenga:"
+  },
+  "ueber": {
+    "titel": "Sobre el acompañante",
+    "name": "Samjo",
+    "text1": "TODO: Samjo – formación, trayectoria, enfoque. Marcador de posición.",
+    "text2": "TODO: Historia personal y motivación. Marcador de posición.",
+    "qualifikationen_titel": "Formación y cualificaciones",
+    "qualifikation1": "TODO: Cualificación 1",
+    "qualifikation2": "TODO: Cualificación 2",
+    "qualifikation3": "TODO: Cualificación 3"
+  },
+  "kontakt": {
+    "titel": "Contacto y cómo llegar",
+    "untertitel": "Así nos encuentras",
+    "formular_titel": "Escríbenos",
+    "anfahrt_titel": "Cómo llegar",
+    "adresse_titel": "Dirección"
+  }
+}

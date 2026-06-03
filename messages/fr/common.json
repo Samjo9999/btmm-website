@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "konzept": "Concept",
+    "koerperarbeit": "Travail corporel",
+    "angebote": "Offres",
+    "mitmachen": "Participer",
+    "spenden": "Dons",
+    "app": "Appli",
+    "zellen": "Cellules",
+    "faq": "FAQ",
+    "dokumente": "Documents",
+    "presse": "Presse",
+    "login": "Connexion"
+  },
+  "footer": {
+    "impressum": "Mentions légales",
+    "datenschutz": "Confidentialité",
+    "kontakt": "Contact",
+    "tagline": "Une économie qui porte.",
+    "copyright": "© 2024 Back to Balance. Tous droits réservés."
+  },
+  "actions": {
+    "mehr_erfahren": "En savoir plus",
+    "jetzt_mitmachen": "Participer maintenant",
+    "termin_buchen": "Prendre rendez-vous",
+    "kontakt_aufnehmen": "Nous contacter",
+    "jetzt_spenden": "Faire un don maintenant",
+    "app_entdecken": "Découvrir l'appli",
+    "senden": "Envoyer",
+    "laden": "Chargement...",
+    "zurueck": "Retour",
+    "herunterladen": "Télécharger"
+  },
+  "form": {
+    "name": "Nom",
+    "email": "E-mail",
+    "nachricht": "Message",
+    "telefon": "Téléphone (facultatif)",
+    "betreff": "Objet",
+    "pflichtfeld": "Champ obligatoire",
+    "senden": "Envoyer le message",
+    "erfolg": "Message envoyé avec succès ! Nous vous recontacterons sous peu.",
+    "fehler": "Erreur lors de l'envoi. Veuillez réessayer ou nous écrire directement."
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "hi": "हिन्दी",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "fr": "Français"
+  }
+}

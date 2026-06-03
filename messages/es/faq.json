@@ -1,0 +1,45 @@
+{
+  "titel": "Preguntas frecuentes",
+  "untertitel": "Respuestas a las preguntas más importantes sobre Back to Balance",
+  "kategorien": {
+    "allgemein": "General",
+    "mitgliedschaft": "Membresía",
+    "koerperarbeit": "Trabajo corporal",
+    "spenden": "Donaciones",
+    "app": "App"
+  },
+  "fragen": {
+    "was_ist_btb": {
+      "frage": "¿Qué es Back to Balance?",
+      "antwort": "Back to Balance (BtB) es un proyecto comunitario que desarrolla y pone en práctica un modelo económico alternativo. Combina la cooperación económica con el trabajo corporal somático y la construcción de comunidades locales."
+    },
+    "wie_mitmachen": {
+      "frage": "¿Cómo puedo participar?",
+      "antwort": "Puedes unirte como miembro de apoyo de la asociación (desde 50€/año) o, una vez completada la fundación, como miembro activo de la cooperativa. Escríbenos a través del formulario de contacto en /mitmachen."
+    },
+    "was_kostet": {
+      "frage": "¿Cuánto cuesta la membresía?",
+      "antwort": "La membresía de apoyo en la asociación cuesta desde 50€ al año. La membresía activa en la cooperativa está aún en fase de fundación. Regístrate para recibir novedades."
+    },
+    "was_sind_coins": {
+      "frage": "¿Qué son los BtB-Coins?",
+      "antwort": "Los BtB-Coins son la moneda interna de la comunidad. Los miembros pueden intercambiar servicios con ellos, por ejemplo, trabajo corporal por asesoría, sin flujo de dinero. Los Coins se gestionan a través de la app de BtB."
+    },
+    "koerperarbeit_unterschied": {
+      "frage": "¿En qué se diferencia el trabajo corporal BtB de otros enfoques?",
+      "antwort": "El trabajo corporal BtB no es una terapia ni una oferta de bienestar. Es un acompañamiento somático que entiende el cuerpo como un portador de información autónomo. Trabajamos con lo que es, no con lo que debería ser."
+    },
+    "spenden_wohin": {
+      "frage": "¿A dónde va mi donación?",
+      "antwort": "Tu donación se destina a la construcción de la infraestructura de BtB: desarrollo técnico, constitución legal de la cooperativa y los primeros proyectos comunitarios. El estado de las donaciones es visible en tiempo real en la web."
+    },
+    "app_login": {
+      "frage": "¿Cómo accedo a la app de BtB?",
+      "antwort": "La app de BtB funciona en app.backtobalance.online y solo es accesible para miembros. La web y la app son sistemas separados: el login te lleva a la app."
+    },
+    "zelle_gruenden": {
+      "frage": "¿Puedo fundar mi propia célula?",
+      "antwort": "¡Sí! BtB vive de las células locales. Si quieres fundar una célula en tu ciudad o localidad, ponte en contacto con nosotros. Te acompañamos en todo el proceso."
+    }
+  }
+}

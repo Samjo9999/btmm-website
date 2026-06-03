@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Press – Back to Balance",
+    "description": "Press information and materials for editorial teams about Back to Balance – the cooperative economic alternative from Freiburg."
+  },
+  "hero": {
+    "titel": "Press",
+    "untertitel": "Information and materials for editorial teams",
+    "kontakt_button": "Press contact"
+  },
+  "kurzprofil": {
+    "titel": "Profile",
+    "beschreibung": "[PLACEHOLDER] Back to Balance is a cooperatively organized economic alternative that combines equal-value work, shared infrastructure, and international collaboration within a common system.",
+    "rechtsform_label": "Legal form",
+    "rechtsform": "Planned registered cooperative (eG) + support association (e.V.)",
+    "gruendungsort_label": "Founded in",
+    "gruendungsort": "Freiburg im Breisgau, Germany",
+    "gruendungsjahr_label": "Founding year",
+    "gruendungsjahr": "2026 (planned)",
+    "website_label": "Website",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "Key messages",
+    "gleichwuerdig": {
+      "titel": "Equal-value work",
+      "text": "Every hour counts equally – regardless of qualification."
+    },
+    "infrastruktur": {
+      "titel": "Shared infrastructure",
+      "text": "Costs are shared, not borne alone."
+    },
+    "international": {
+      "titel": "International vision",
+      "text": "Decentralized cells under a common system."
+    }
+  },
+  "downloads": {
+    "titel": "Downloads & Media",
+    "logo_png": "Logo (PNG)",
+    "logo_svg": "Logo (SVG)",
+    "konzept_pdf": "Concept (PDF)",
+    "satzung_pdf": "Articles of Association (PDF)",
+    "herunterladen": "Download"
+  },
+  "kontakt": {
+    "titel": "Press contact",
+    "name_label": "Contact person",
+    "name": "[PLACEHOLDER]",
+    "email_label": "Email",
+    "email": "[PLACEHOLDER]",
+    "hinweis": "We usually respond within 2 business days."
+  }
+}

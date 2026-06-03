@@ -1,0 +1,45 @@
+{
+  "titel": "الأسئلة الشائعة",
+  "untertitel": "إجابات على أهم الأسئلة حول Back to Balance",
+  "kategorien": {
+    "allgemein": "عام",
+    "mitgliedschaft": "العضوية",
+    "koerperarbeit": "العمل الجسدي",
+    "spenden": "التبرعات",
+    "app": "التطبيق"
+  },
+  "fragen": {
+    "was_ist_btb": {
+      "frage": "ما هو Back to Balance؟",
+      "antwort": "Back to Balance (BtB) هو مشروع مجتمعي يطوّر ويختبر نموذجًا اقتصاديًا بديلًا."
+    },
+    "wie_mitmachen": {
+      "frage": "كيف يمكنني المشاركة؟",
+      "antwort": "يمكنك الانضمام كعضو داعم في الجمعية (ابتداءً من 50 يورو/سنة) أو كعضو فعّال في التعاونية."
+    },
+    "was_kostet": {
+      "frage": "كم تكلف العضوية؟",
+      "antwort": "عضوية الدعم في الجمعية تبدأ من 50 يورو سنويًا."
+    },
+    "was_sind_coins": {
+      "frage": "ما هي BtB-Coins؟",
+      "antwort": "BtB-Coins هي العملة الداخلية للمجتمع. 1 Coin = ساعة عمل واحدة."
+    },
+    "koerperarbeit_unterschied": {
+      "frage": "ما الذي يميّز العمل الجسدي وفق BtB؟",
+      "antwort": "العمل الجسدي وفق BtB هو مرافقة جسدية وليس علاجًا."
+    },
+    "spenden_wohin": {
+      "frage": "أين تذهب تبرعاتي؟",
+      "antwort": "في بناء البنية التحتية لـ BtB."
+    },
+    "app_login": {
+      "frage": "كيف أصل إلى تطبيق BtB؟",
+      "antwort": "تطبيق BtB يعمل على app.backtobalance.online."
+    },
+    "zelle_gruenden": {
+      "frage": "هل يمكنني تأسيس خلية خاصة بي؟",
+      "antwort": "نعم! تواصل معنا."
+    }
+  }
+}

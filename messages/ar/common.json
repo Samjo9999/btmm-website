@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "konzept": "المفهوم",
+    "koerperarbeit": "العمل الجسدي",
+    "angebote": "العروض",
+    "mitmachen": "المشاركة",
+    "spenden": "التبرع",
+    "app": "التطبيق",
+    "zellen": "الخلايا",
+    "faq": "الأسئلة الشائعة",
+    "dokumente": "الوثائق",
+    "presse": "الصحافة",
+    "login": "تسجيل الدخول"
+  },
+  "footer": {
+    "impressum": "بيانات النشر",
+    "datenschutz": "حماية البيانات",
+    "kontakt": "اتصل بنا",
+    "tagline": "اقتصاد يحمل الجميع.",
+    "copyright": "© 2024 Back to Balance. جميع الحقوق محفوظة."
+  },
+  "actions": {
+    "mehr_erfahren": "اعرف المزيد",
+    "jetzt_mitmachen": "شارك الآن",
+    "termin_buchen": "احجز موعدًا",
+    "kontakt_aufnehmen": "تواصل معنا",
+    "jetzt_spenden": "تبرع الآن",
+    "app_entdecken": "اكتشف التطبيق",
+    "senden": "إرسال",
+    "laden": "جارٍ التحميل...",
+    "zurueck": "رجوع",
+    "herunterladen": "تحميل"
+  },
+  "form": {
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "nachricht": "الرسالة",
+    "telefon": "الهاتف (اختياري)",
+    "betreff": "الموضوع",
+    "pflichtfeld": "حقل إلزامي",
+    "senden": "إرسال الرسالة",
+    "erfolg": "تم إرسال الرسالة بنجاح! سنتواصل معك قريبًا.",
+    "fehler": "حدث خطأ أثناء الإرسال. يرجى المحاولة مرة أخرى أو مراسلتنا مباشرة."
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "hi": "हिन्दी",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "fr": "Français"
+  }
+}

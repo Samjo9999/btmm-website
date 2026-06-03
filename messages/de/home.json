@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "tagline": "Wirtschaft, die trägt.",
+    "untertitel": "Back to Balance verbindet wirtschaftliche Stärke mit menschlicher Würde – für eine Welt, in der Arbeit und Leben im Gleichgewicht stehen.",
+    "cta_konzept": "Konzept kennenlernen",
+    "cta_mitmachen": "Jetzt mitmachen"
+  },
+  "was_ist_btb": {
+    "titel": "Was ist Back to Balance?",
+    "wirtschaft_titel": "Wirtschaft",
+    "wirtschaft_text": "Ein Wirtschaftsmodell, das auf gegenseitiger Unterstützung statt auf Konkurrenz aufbaut. Gemeinsame Ressourcen stärken jeden Einzelnen.",
+    "gemeinschaft_titel": "Gemeinschaft",
+    "gemeinschaft_text": "Lokale Zellen bilden das Herzstück von BtB. Menschen kommen zusammen, unterstützen sich und gestalten gemeinsam ihre wirtschaftliche Zukunft.",
+    "nachhaltigkeit_titel": "Nachhaltigkeit",
+    "nachhaltigkeit_text": "Kein Greenwashing, keine Kompromisse. Kein Amazon, kein Nestlé, kein Apple. BtB wirtschaftet regional, reparierbar und transparent — mit Konzernen, deren Geschäftsmodell auf Ausbeutung beruht, wird kategorisch nicht gehandelt."
+  },
+  "stats": {
+    "titel": "BtB in Zahlen",
+    "gruendungsmitglieder": "Gründungsmitglieder",
+    "gruendungsmitglieder_ziel": "von 7",
+    "aktive_zellen": "Aktive Zellen",
+    "gespendete_euro": "Gespendete Euro",
+    "gespendete_euro_hinweis": "Live-Daten aus Supabase"
+  },
+  "angebote_teaser": {
+    "titel": "Unsere Angebote",
+    "text": "Somatische Körperarbeit für mehr Gleichgewicht und Vitalität. Individuelle Begleitung, die dem Rhythmus Ihres Körpers folgt – ohne Druck, ohne Eile.",
+    "text2": "Entdecken Sie tiefe Entspannung und nachhaltige Veränderung in einem geschützten, professionellen Rahmen in Freiburg. In 1–3 Sitzungen sind spürbare Veränderungen möglich.",
+    "cta": "Angebote entdecken"
+  },
+  "app_teaser": {
+    "titel": "Die BtB-App",
+    "untertitel": "Dein digitales Werkzeug für die Gemeinschaft",
+    "pool_titel": "Pool",
+    "pool_text": "Gemeinsame Ressourcen, die jedem Mitglied zugutekommen.",
+    "coins_titel": "BtB-Coins",
+    "coins_text": "Interne Währung für den Tausch von Leistungen innerhalb der Gemeinschaft.",
+    "workspace_titel": "Workspace",
+    "workspace_text": "Gemeinsamer digitaler Arbeitsraum für Projekte und Zusammenarbeit.",
+    "cta": "App entdecken",
+    "hinweis": "Nur für Mitglieder"
+  },
+  "spenden_teaser": {
+    "titel": "Unterstütze BtB",
+    "text": "Deine Spende hilft uns, die Infrastruktur aufzubauen, die eine gerechtere Wirtschaft ermöglicht. Jeder Beitrag zählt.",
+    "cta": "Jetzt spenden"
+  },
+  "zellen_karte": {
+    "titel": "BtB-Zellen weltweit",
+    "text": "Überall auf der Welt entstehen BtB-Zellen – lokale Gemeinschaften, die gemeinsam wirtschaften."
+  },
+  "hero_poetisch": "Wie ein Wald, in dem jeder Baum vom Netzwerk der Wurzeln getragen wird – so entsteht ein Wirtschaftssystem, das jeden stärkt, der Teil davon ist.",
+  "hero_subtitel2": "Ein Universum im Entstehen — Freiburg — Deutschland — Weltweit",
+  "was_ist_btb_sub": "Drei Säulen – ein Ganzes",
+  "infinity": {
+    "text": "Das bestehende System dreht sich im Kreis – immer schneller, immer enger. Back to Balance ist der Moment, in dem die Schleife aufbricht und etwas Neues entsteht."
+  },
+  "zellen_alle": "Alle Zellen ansehen"
+}

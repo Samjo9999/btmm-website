@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "konzept": "コンセプト",
+    "koerperarbeit": "ボディワーク",
+    "angebote": "サービス",
+    "mitmachen": "参加する",
+    "spenden": "寄付",
+    "app": "アプリ",
+    "zellen": "セル",
+    "faq": "FAQ",
+    "dokumente": "ドキュメント",
+    "presse": "プレス",
+    "login": "ログイン"
+  },
+  "footer": {
+    "impressum": "サイト運営者情報",
+    "datenschutz": "プライバシーポリシー",
+    "kontakt": "お問い合わせ",
+    "tagline": "支え合う経済。",
+    "copyright": "© 2024 Back to Balance. All rights reserved."
+  },
+  "actions": {
+    "mehr_erfahren": "詳しく見る",
+    "jetzt_mitmachen": "今すぐ参加する",
+    "termin_buchen": "予約する",
+    "kontakt_aufnehmen": "お問い合わせ",
+    "jetzt_spenden": "今すぐ寄付する",
+    "app_entdecken": "アプリを見る",
+    "senden": "送信",
+    "laden": "読み込み中...",
+    "zurueck": "戻る",
+    "herunterladen": "ダウンロード"
+  },
+  "form": {
+    "name": "名前",
+    "email": "メールアドレス",
+    "nachricht": "メッセージ",
+    "telefon": "電話番号（任意）",
+    "betreff": "件名",
+    "pflichtfeld": "必須項目",
+    "senden": "メッセージを送信",
+    "erfolg": "メッセージが正常に送信されました！まもなくご連絡いたします。",
+    "fehler": "送信エラーが発生しました。もう一度お試しいただくか、直接ご連絡ください。"
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "hi": "हिन्दी",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "fr": "Français"
+  }
+}

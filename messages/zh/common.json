@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "konzept": "理念",
+    "koerperarbeit": "身体疗愈",
+    "angebote": "服务",
+    "mitmachen": "参与",
+    "spenden": "捐赠",
+    "app": "应用",
+    "zellen": "细胞组",
+    "faq": "常见问题",
+    "dokumente": "文件",
+    "presse": "新闻",
+    "login": "登录"
+  },
+  "footer": {
+    "impressum": "法律声明",
+    "datenschutz": "隐私政策",
+    "kontakt": "联系我们",
+    "tagline": "承载人心的经济。",
+    "copyright": "© 2024 Back to Balance。保留所有权利。"
+  },
+  "actions": {
+    "mehr_erfahren": "了解更多",
+    "jetzt_mitmachen": "立即参与",
+    "termin_buchen": "预约",
+    "kontakt_aufnehmen": "联系我们",
+    "jetzt_spenden": "立即捐赠",
+    "app_entdecken": "探索应用",
+    "senden": "发送",
+    "laden": "加载中...",
+    "zurueck": "返回",
+    "herunterladen": "下载"
+  },
+  "form": {
+    "name": "姓名",
+    "email": "电子邮件",
+    "nachricht": "留言",
+    "telefon": "电话（可选）",
+    "betreff": "主题",
+    "pflichtfeld": "必填项",
+    "senden": "发送留言",
+    "erfolg": "留言发送成功！我们将尽快回复您。",
+    "fehler": "发送失败。请重试或直接写信给我们。"
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "hi": "हिन्दी",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "fr": "Français"
+  }
+}

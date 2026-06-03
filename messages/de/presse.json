@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Presse – Back to Balance",
+    "description": "Presseinformationen und Materialien für Redaktionen über Back to Balance – die genossenschaftliche Wirtschaftsalternative aus Freiburg."
+  },
+  "hero": {
+    "titel": "Presse",
+    "untertitel": "Informationen und Materialien für Redaktionen",
+    "kontakt_button": "Pressekontakt"
+  },
+  "kurzprofil": {
+    "titel": "Kurzprofil",
+    "beschreibung": "Back to Balance ist eine genossenschaftlich organisierte Wirtschaftsalternative, die gleichwürdige Arbeit, geteilte Infrastruktur und internationale Zusammenarbeit in einem gemeinsamen System vereint.",
+    "rechtsform_label": "Rechtsform",
+    "rechtsform": "Geplante eingetragene Genossenschaft (eG) + Förderverein (e.V.)",
+    "gruendungsort_label": "Gründungsort",
+    "gruendungsort": "Freiburg im Breisgau",
+    "gruendungsjahr_label": "Gründungsjahr",
+    "gruendungsjahr": "2026 (geplant)",
+    "website_label": "Website",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "Kernaussagen",
+    "gleichwuerdig": {
+      "titel": "Gleichwürdige Arbeit",
+      "text": "Jede Stunde zählt gleich – unabhängig von Qualifikation."
+    },
+    "infrastruktur": {
+      "titel": "Gemeinschaftliche Infrastruktur",
+      "text": "Kosten werden geteilt, nicht alleine getragen."
+    },
+    "international": {
+      "titel": "Internationale Vision",
+      "text": "Dezentrale Zellen unter einem gemeinsamen System."
+    }
+  },
+  "downloads": {
+    "titel": "Downloads & Mediathek",
+    "logo_png": "Logo (PNG)",
+    "logo_svg": "Logo (SVG)",
+    "konzept_pdf": "Konzept (PDF)",
+    "satzung_pdf": "Satzung (PDF)",
+    "herunterladen": "Herunterladen"
+  },
+  "kontakt": {
+    "titel": "Pressekontakt",
+    "name_label": "Ansprechperson",
+    "name": "Johannes-Samuel Gartzke",
+    "email_label": "E-Mail",
+    "email": "presse@backtobalance.online",
+    "hinweis": "Wir antworten in der Regel innerhalb von 2 Werktagen."
+  }
+}

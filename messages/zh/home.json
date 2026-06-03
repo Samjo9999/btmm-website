@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "tagline": "承载人心的经济。",
+    "untertitel": "Back to Balance 将经济实力与人的尊严相结合——为了一个工作与生活平衡的世界。",
+    "cta_konzept": "了解理念",
+    "cta_mitmachen": "立即参与"
+  },
+  "was_ist_btb": {
+    "titel": "什么是 Back to Balance？",
+    "wirtschaft_titel": "经济",
+    "wirtschaft_text": "一种建立在互助而非竞争基础上的经济模式。共享资源增强每个人的力量。",
+    "gemeinschaft_titel": "社区",
+    "gemeinschaft_text": "本地细胞组是 BtB 的核心。人们聚在一起，互相支持，共同塑造自己的经济未来。",
+    "nachhaltigkeit_titel": "可持续发展",
+    "nachhaltigkeit_text": "长远思考而非短期利益。BtB 致力于建设能够跨越世代持续增长的结构。"
+  },
+  "stats": {
+    "titel": "BtB 数据一览",
+    "gruendungsmitglieder": "创始成员",
+    "gruendungsmitglieder_ziel": "目标 7 人",
+    "aktive_zellen": "活跃细胞组",
+    "gespendete_euro": "已捐赠欧元",
+    "gespendete_euro_hinweis": "来自 Supabase 的实时数据"
+  },
+  "koerperarbeit_teaser": {
+    "titel": "身体疗愈",
+    "text": "促进平衡与活力的身体伴随。BtB 方法的身体疗愈将身心融为一体的整体过程。",
+    "text2": "在 Freiburg 安全、专业的环境中，体验深层放松和持久改变。",
+    "cta": "预约"
+  },
+  "app_teaser": {
+    "titel": "BtB 应用",
+    "untertitel": "你的社区数字工具",
+    "pool_titel": "Pool",
+    "pool_text": "惠及每位成员的共享资源。",
+    "coins_titel": "BtB-Coins",
+    "coins_text": "社区内服务交换的内部货币。",
+    "workspace_titel": "工作空间",
+    "workspace_text": "用于项目和协作的共享数字工作空间。",
+    "cta": "探索应用",
+    "hinweis": "仅限成员"
+  },
+  "spenden_teaser": {
+    "titel": "支持 BtB",
+    "text": "你的捐赠帮助我们建设更公平经济所需的基础设施。每一份贡献都很重要。",
+    "cta": "立即捐赠"
+  },
+  "zellen_karte": {
+    "titel": "全球 BtB 细胞组",
+    "text": "世界各地正在涌现 BtB 细胞组——共同经营的本地社区。"
+  }
+  ,"hero_poetisch": "如同一片森林，每棵树都由根系网络支撑——一个让每个参与者都更强大的经济系统正在诞生。","hero_subtitel2": "一个正在诞生的宇宙 · Freiburg · 全球","was_ist_btb_sub": "三大支柱——一个整体","infinity": {"text": "现有系统在不断循环——越来越快，越来越紧。Back to Balance是循环被打破、新事物诞生的时刻。"},"zellen_alle": "查看所有细胞"}

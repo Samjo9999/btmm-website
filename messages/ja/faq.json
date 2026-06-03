@@ -1,0 +1,45 @@
+{
+  "titel": "よくある質問",
+  "untertitel": "最も重要な質問への回答",
+  "kategorien": {
+    "allgemein": "一般",
+    "mitgliedschaft": "メンバーシップ",
+    "koerperarbeit": "ボディワーク",
+    "spenden": "寄付",
+    "app": "アプリ"
+  },
+  "fragen": {
+    "was_ist_btb": {
+      "frage": "Back to Balanceとは？",
+      "antwort": "ボディワークとコミュニティを備えた代替的な経済モデル。"
+    },
+    "wie_mitmachen": {
+      "frage": "どうやって参加する？",
+      "antwort": "サポーター、スポンサー会員、または正会員として。"
+    },
+    "was_kostet": {
+      "frage": "費用はいくら？",
+      "antwort": "サポーターは年50ユーロから、スポンサー会員は年1000ユーロから。"
+    },
+    "was_sind_coins": {
+      "frage": "BtB-Coinsとは？",
+      "antwort": "内部通貨。1 Coin = 1時間。"
+    },
+    "koerperarbeit_unterschied": {
+      "frage": "BtBボディワークとは？",
+      "antwort": "ソマティック・サポートであり、治療ではありません。"
+    },
+    "spenden_wohin": {
+      "frage": "寄付はどこに使われる？",
+      "antwort": "インフラの構築に使われます。"
+    },
+    "app_login": {
+      "frage": "アプリはどこ？",
+      "antwort": "app.backtobalance.online"
+    },
+    "zelle_gruenden": {
+      "frage": "自分のセルを作る？",
+      "antwort": "はい！ご連絡ください。"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "landing": {
+    "titel": "Trabalho Corporal",
+    "untertitel": "Acompanhamento somático em Freiburg",
+    "text": "O trabalho corporal segundo o método BtB é uma forma holística de acompanhamento somático. Combina trabalho corporal suave com uma compreensão profunda do organismo humano.",
+    "cta_termin": "Agendar consulta",
+    "cta_methode": "Conhecer o método"
+  },
+  "methode": {
+    "titel": "O Método BtB",
+    "untertitel": "O que é o trabalho corporal BtB?",
+    "text1": "O trabalho corporal BtB é uma abordagem integrativa que reúne sensações corporais, movimento e consciência.",
+    "text2": "O foco não está na eliminação de sintomas, mas no fortalecimento da capacidade de autorregulação.",
+    "prinzipien_titel": "Princípios fundamentais",
+    "prinzip1_titel": "Presença somática",
+    "prinzip1_text": "Atenção plena às sensações corporais no momento presente.",
+    "prinzip2_titel": "Acompanhamento em vez de condução",
+    "prinzip2_text": "Seguimos o ritmo do corpo em vez de o empurrar numa direção específica.",
+    "prinzip3_titel": "Integração",
+    "prinzip3_text": "As experiências corporais são integradas na consciência global e permanentemente ancoradas."
+  },
+  "ablauf": {
+    "titel": "O que o espera",
+    "untertitel": "Desenrolar de uma sessão",
+    "schritt1_titel": "Chegada",
+    "schritt1_text": "Cada sessão começa com uma chegada tranquila.",
+    "schritt2_titel": "O processo",
+    "schritt2_text": "No centro da sessão, trabalhamos com o corpo.",
+    "schritt3_titel": "Integração",
+    "schritt3_text": "No final de cada sessão, dedicamos tempo à integração.",
+    "schritt4_titel": "Ressonância",
+    "schritt4_text": "O efeito de uma sessão manifesta-se frequentemente nos dias seguintes."
+  },
+  "fuer_wen": {
+    "titel": "Para quem é o trabalho corporal?",
+    "text": "O trabalho corporal segundo o método BtB é adequado para todas as pessoas que desejam mais ligação com o seu corpo.",
+    "indikationen_titel": "Temas possíveis",
+    "indikation1": "Stress crónico e exaustão",
+    "indikation2": "Tensões e dores corporais",
+    "indikation3": "Procura de mais vitalidade e vivacidade",
+    "indikation4": "Apoio em processos de mudança",
+    "indikation5": "Ligação mais profunda com o próprio corpo",
+    "nicht_fuer_titel": "Por favor, tenha em atenção",
+    "nicht_fuer_text": "O trabalho corporal não substitui tratamento médico ou psicoterapêutico."
+  },
+  "preise": {
+    "titel": "Preços",
+    "untertitel": "Transparentes e justos",
+    "erstsitzung_titel": "Primeira sessão",
+    "einzelsitzung_titel": "Sessão individual",
+    "paket3_titel": "Pacote de 3 sessões",
+    "dauer": "Duração",
+    "minuten": "minutos",
+    "preis_extern": "Preço",
+    "mitglieder_hinweis": "Membros BtB trocam sessões através de BtB-Coins.",
+    "buchung_hinweis": "Reserva online ou por formulário de contacto"
+  },
+  "termine": {
+    "titel": "Agendar consulta",
+    "untertitel": "Reserva online",
+    "text": "Agende a sua consulta diretamente online.",
+    "calendly_text": "Escolha um horário adequado:"
+  },
+  "ueber": {
+    "titel": "Sobre o acompanhante",
+    "name": "Samjo",
+    "text1": "TODO",
+    "text2": "TODO",
+    "qualifikationen_titel": "Formação e qualificações",
+    "qualifikation1": "TODO",
+    "qualifikation2": "TODO",
+    "qualifikation3": "TODO"
+  },
+  "kontakt": {
+    "titel": "Contacto e direções",
+    "untertitel": "Como chegar até nós",
+    "formular_titel": "Escreva-nos",
+    "anfahrt_titel": "Direções",
+    "adresse_titel": "Morada"
+  }
+}

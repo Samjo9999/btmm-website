@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Prensa – Back to Balance",
+    "description": "Información de prensa y materiales para redacciones sobre Back to Balance – la alternativa económica cooperativa de Friburgo."
+  },
+  "hero": {
+    "titel": "Prensa",
+    "untertitel": "Información y materiales para redacciones",
+    "kontakt_button": "Contacto de prensa"
+  },
+  "kurzprofil": {
+    "titel": "Perfil",
+    "beschreibung": "[MARCADOR] Back to Balance es una alternativa económica organizada cooperativamente que combina trabajo de igual valor, infraestructura compartida y colaboración internacional en un sistema común.",
+    "rechtsform_label": "Forma jurídica",
+    "rechtsform": "Cooperativa registrada planificada (eG) + asociación de apoyo (e.V.)",
+    "gruendungsort_label": "Lugar de fundación",
+    "gruendungsort": "Friburgo de Brisgovia, Alemania",
+    "gruendungsjahr_label": "Año de fundación",
+    "gruendungsjahr": "2026 (previsto)",
+    "website_label": "Sitio web",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "Mensajes clave",
+    "gleichwuerdig": {
+      "titel": "Trabajo de igual valor",
+      "text": "Cada hora cuenta igual – independientemente de la cualificación."
+    },
+    "infrastruktur": {
+      "titel": "Infraestructura compartida",
+      "text": "Los costes se comparten, no se asumen en solitario."
+    },
+    "international": {
+      "titel": "Visión internacional",
+      "text": "Células descentralizadas bajo un sistema común."
+    }
+  },
+  "downloads": {
+    "titel": "Descargas y mediateca",
+    "logo_png": "Logo (PNG)",
+    "logo_svg": "Logo (SVG)",
+    "konzept_pdf": "Concepto (PDF)",
+    "satzung_pdf": "Estatutos (PDF)",
+    "herunterladen": "Descargar"
+  },
+  "kontakt": {
+    "titel": "Contacto de prensa",
+    "name_label": "Persona de contacto",
+    "name": "[MARCADOR]",
+    "email_label": "Correo electrónico",
+    "email": "[MARCADOR]",
+    "hinweis": "Normalmente respondemos en un plazo de 2 días laborables."
+  }
+}

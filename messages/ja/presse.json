@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "プレス – Back to Balance",
+    "description": "Back to Balanceに関するプレス情報と編集部向け資料 – フライブルクの協同組合型経済代替案。"
+  },
+  "hero": {
+    "titel": "プレス",
+    "untertitel": "編集部向けの情報と資料",
+    "kontakt_button": "プレス連絡先"
+  },
+  "kurzprofil": {
+    "titel": "概要",
+    "beschreibung": "[プレースホルダー] Back to Balanceは、同等価値の労働、共有インフラ、国際協力を共通システムに統合した協同組合型経済代替案です。",
+    "rechtsform_label": "法的形態",
+    "rechtsform": "計画中の登録協同組合 (eG) + 支援協会 (e.V.)",
+    "gruendungsort_label": "設立地",
+    "gruendungsort": "ドイツ・フライブルク",
+    "gruendungsjahr_label": "設立年",
+    "gruendungsjahr": "2026年（予定）",
+    "website_label": "ウェブサイト",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "主要メッセージ",
+    "gleichwuerdig": {
+      "titel": "同等価値の労働",
+      "text": "すべての時間は平等にカウントされます – 資格に関係なく。"
+    },
+    "infrastruktur": {
+      "titel": "共有インフラ",
+      "text": "コストは共有され、一人で負担しません。"
+    },
+    "international": {
+      "titel": "国際ビジョン",
+      "text": "共通システムの下の分散型セル。"
+    }
+  },
+  "downloads": {
+    "titel": "ダウンロードとメディア",
+    "logo_png": "ロゴ (PNG)",
+    "logo_svg": "ロゴ (SVG)",
+    "konzept_pdf": "コンセプト (PDF)",
+    "satzung_pdf": "定款 (PDF)",
+    "herunterladen": "ダウンロード"
+  },
+  "kontakt": {
+    "titel": "プレス連絡先",
+    "name_label": "担当者",
+    "name": "[プレースホルダー]",
+    "email_label": "メール",
+    "email": "[プレースホルダー]",
+    "hinweis": "通常2営業日以内にご返答いたします。"
+  }
+}

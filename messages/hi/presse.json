@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "प्रेस – Back to Balance",
+    "description": "Back to Balance के बारे में प्रेस जानकारी और संपादकीय सामग्री – फ्रीबर्ग का सहकारी आर्थिक विकल्प।"
+  },
+  "hero": {
+    "titel": "प्रेस",
+    "untertitel": "संपादकों के लिए जानकारी और सामग्री",
+    "kontakt_button": "प्रेस संपर्क"
+  },
+  "kurzprofil": {
+    "titel": "संक्षिप्त परिचय",
+    "beschreibung": "[प्लेसहोल्डर] Back to Balance एक सहकारी रूप से संगठित आर्थिक विकल्प है जो समान मूल्य के कार्य, साझा बुनियादी ढांचे और अंतर्राष्ट्रीय सहयोग को एक सामान्य प्रणाली में जोड़ता है।",
+    "rechtsform_label": "कानूनी रूप",
+    "rechtsform": "नियोजित पंजीकृत सहकारी (eG) + सहायता संघ (e.V.)",
+    "gruendungsort_label": "स्थापना स्थान",
+    "gruendungsort": "फ्रीबर्ग, जर्मनी",
+    "gruendungsjahr_label": "स्थापना वर्ष",
+    "gruendungsjahr": "2026 (नियोजित)",
+    "website_label": "वेबसाइट",
+    "website": "backtobalance.online"
+  },
+  "kernaussagen": {
+    "titel": "मुख्य संदेश",
+    "gleichwuerdig": {
+      "titel": "समान मूल्य का कार्य",
+      "text": "हर घंटा समान रूप से गिना जाता है – योग्यता की परवाह किए बिना।"
+    },
+    "infrastruktur": {
+      "titel": "साझा बुनियादी ढांचा",
+      "text": "लागत साझा की जाती है, अकेले वहन नहीं की जाती।"
+    },
+    "international": {
+      "titel": "अंतर्राष्ट्रीय दृष्टि",
+      "text": "एक सामान्य प्रणाली के तहत विकेंद्रीकृत इकाइयाँ।"
+    }
+  },
+  "downloads": {
+    "titel": "डाउनलोड और मीडिया",
+    "logo_png": "लोगो (PNG)",
+    "logo_svg": "लोगो (SVG)",
+    "konzept_pdf": "अवधारणा (PDF)",
+    "satzung_pdf": "विधान (PDF)",
+    "herunterladen": "डाउनलोड"
+  },
+  "kontakt": {
+    "titel": "प्रेस संपर्क",
+    "name_label": "संपर्क व्यक्ति",
+    "name": "[प्लेसहोल्डर]",
+    "email_label": "ई-मेल",
+    "email": "[प्लेसहोल्डर]",
+    "hinweis": "हम आमतौर पर 2 कार्य दिवसों के भीतर उत्तर देते हैं।"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "titel": "সাধারণ জিজ্ঞাসা",
+  "untertitel": "Back to Balance সম্পর্কে সবচেয়ে গুরুত্বপূর্ণ প্রশ্নের উত্তর",
+  "kategorien": {
+    "allgemein": "সাধারণ",
+    "mitgliedschaft": "সদস্যপদ",
+    "koerperarbeit": "শরীরকর্ম",
+    "spenden": "দান",
+    "app": "অ্যাপ"
+  },
+  "fragen": {
+    "was_ist_btb": {
+      "frage": "Back to Balance কী?",
+      "antwort": "Back to Balance (BtB) হল একটি সম্প্রদায় প্রকল্প যা একটি বিকল্প অর্থনৈতিক মডেল তৈরি ও পরীক্ষা করছে।"
+    },
+    "wie_mitmachen": {
+      "frage": "আমি কীভাবে অংশ নিতে পারি?",
+      "antwort": "আপনি সমিতির পৃষ্ঠপোষক সদস্য হিসেবে যোগ দিতে পারেন (বছরে ৫০ ইউরো থেকে) অথবা সমবায়ের সক্রিয় সদস্য হতে পারেন।"
+    },
+    "was_kostet": {
+      "frage": "সদস্যপদের খরচ কত?",
+      "antwort": "সমিতিতে পৃষ্ঠপোষক সদস্যপদ বছরে ৫০ ইউরো থেকে শুরু।"
+    },
+    "was_sind_coins": {
+      "frage": "BtB-Coins কী?",
+      "antwort": "BtB-Coins হল সম্প্রদায়ের অভ্যন্তরীণ মুদ্রা। ১ Coin = ১ ঘণ্টা কাজ।"
+    },
+    "koerperarbeit_unterschied": {
+      "frage": "BtB শরীরকর্মের বিশেষত্ব কী?",
+      "antwort": "BtB শরীরকর্ম হল সোমাটিক সঙ্গ, থেরাপি নয়।"
+    },
+    "spenden_wohin": {
+      "frage": "আমার দান কোথায় যায়?",
+      "antwort": "BtB অবকাঠামো নির্মাণে।"
+    },
+    "app_login": {
+      "frage": "BtB অ্যাপে কীভাবে যাব?",
+      "antwort": "BtB অ্যাপ চলে app.backtobalance.online-এ।"
+    },
+    "zelle_gruenden": {
+      "frage": "আমি কি নিজের সেল প্রতিষ্ঠা করতে পারি?",
+      "antwort": "হ্যাঁ! আমাদের সাথে যোগাযোগ করুন।"
+    }
+  }
+}

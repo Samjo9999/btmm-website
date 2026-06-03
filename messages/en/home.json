@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "tagline": "An economy that sustains.",
+    "untertitel": "Back to Balance connects economic strength with human dignity – for a world where work and life are in balance.",
+    "cta_konzept": "Explore the concept",
+    "cta_mitmachen": "Join now"
+  },
+  "was_ist_btb": {
+    "titel": "What is Back to Balance?",
+    "wirtschaft_titel": "Economy",
+    "wirtschaft_text": "An economic model built on mutual support rather than competition. Shared resources strengthen each individual.",
+    "gemeinschaft_titel": "Community",
+    "gemeinschaft_text": "Local cells form the heart of BtB. People come together, support each other and shape their economic future collectively.",
+    "nachhaltigkeit_titel": "Sustainability",
+    "nachhaltigkeit_text": "Long-term thinking instead of short-term profit. BtB builds structures that sustain and grow across generations."
+  },
+  "stats": {
+    "titel": "BtB in Numbers",
+    "gruendungsmitglieder": "Founding members",
+    "gruendungsmitglieder_ziel": "of 7",
+    "aktive_zellen": "Active cells",
+    "gespendete_euro": "Euros donated",
+    "gespendete_euro_hinweis": "Live data from Supabase"
+  },
+  "angebote_teaser": {
+    "titel": "Our Offerings",
+    "text": "Somatic body work for more balance and vitality. Individual accompaniment that follows the rhythm of your body – without pressure, without haste.",
+    "text2": "Discover deep relaxation and lasting change in a safe, professional setting in Freiburg. Noticeable changes are possible in 1–3 sessions.",
+    "cta": "Discover offerings"
+  },
+  "app_teaser": {
+    "titel": "The BtB App",
+    "untertitel": "Your digital tool for the community",
+    "pool_titel": "Pool",
+    "pool_text": "Shared resources that benefit every member.",
+    "coins_titel": "BtB Coins",
+    "coins_text": "Internal currency for exchanging services within the community.",
+    "workspace_titel": "Workspace",
+    "workspace_text": "Shared digital workspace for projects and collaboration.",
+    "cta": "Discover app",
+    "hinweis": "Members only"
+  },
+  "spenden_teaser": {
+    "titel": "Support BtB",
+    "text": "Your donation helps us build the infrastructure that enables a more just economy. Every contribution counts.",
+    "cta": "Donate now"
+  },
+  "zellen_karte": {
+    "titel": "BtB Cells Worldwide",
+    "text": "BtB cells are emerging around the world – local communities that practice economic cooperation."
+  },
+  "hero_poetisch": "Like a forest, where every tree is carried by the network of roots – an economic system is emerging that strengthens everyone who is part of it.",
+  "hero_subtitel2": "A universe in the making · Freiburg · Worldwide",
+  "was_ist_btb_sub": "Three pillars – one whole",
+  "infinity": {
+    "text": "The existing system keeps spinning in circles – faster and tighter. Back to Balance is the moment the loop breaks open and something new emerges."
+  },
+  "zellen_alle": "View all cells"
+}

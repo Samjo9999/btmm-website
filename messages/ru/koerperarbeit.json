@@ -1,0 +1,81 @@
+{
+  "landing": {
+    "titel": "Телесная работа",
+    "untertitel": "Соматическое сопровождение в Freiburg",
+    "text": "Целостное соматическое сопровождение по методу BtB.",
+    "cta_termin": "Записаться на приём",
+    "cta_methode": "Узнать о методе"
+  },
+  "methode": {
+    "titel": "Метод BtB",
+    "untertitel": "Что такое телесная работа BtB?",
+    "text1": "Интегративный подход к телу и сознанию.",
+    "text2": "Укрепление саморегуляции вместо устранения симптомов.",
+    "prinzipien_titel": "Основные принципы",
+    "prinzip1_titel": "Соматическое присутствие",
+    "prinzip1_text": "Полное внимание в настоящем моменте.",
+    "prinzip2_titel": "Сопровождение, а не руководство",
+    "prinzip2_text": "Мы следуем ритму тела.",
+    "prinzip3_titel": "Интеграция",
+    "prinzip3_text": "Опыт закрепляется на длительный срок."
+  },
+  "ablauf": {
+    "titel": "Что тебя ожидает",
+    "untertitel": "Ход сеанса",
+    "schritt1_titel": "Прибытие",
+    "schritt1_text": "Спокойное прибытие и краткий разговор.",
+    "schritt2_titel": "Процесс",
+    "schritt2_text": "Работа с телом.",
+    "schritt3_titel": "Интеграция",
+    "schritt3_text": "Время для интеграции в конце.",
+    "schritt4_titel": "Послевкусие",
+    "schritt4_text": "Действие раскрывается в последующие дни."
+  },
+  "fuer_wen": {
+    "titel": "Для кого?",
+    "text": "Для всех, кто желает более глубокой связи с телом.",
+    "indikationen_titel": "Темы",
+    "indikation1": "Стресс и истощение",
+    "indikation2": "Напряжение в теле",
+    "indikation3": "Больше жизненной силы",
+    "indikation4": "Процессы перемен",
+    "indikation5": "Связь с телом",
+    "nicht_fuer_titel": "Примечание",
+    "nicht_fuer_text": "Не заменяет медицинское лечение."
+  },
+  "preise": {
+    "titel": "Цены",
+    "untertitel": "Прозрачно и справедливо",
+    "erstsitzung_titel": "Первый сеанс",
+    "einzelsitzung_titel": "Индивидуальный сеанс",
+    "paket3_titel": "Пакет из 3 сеансов",
+    "dauer": "Продолжительность",
+    "minuten": "минут",
+    "preis_extern": "Цена",
+    "mitglieder_hinweis": "Участники BtB используют BtB-Coins.",
+    "buchung_hinweis": "Запись онлайн или через контакт"
+  },
+  "termine": {
+    "titel": "Записаться на приём",
+    "untertitel": "Онлайн-запись",
+    "text": "Запишись на приём онлайн.",
+    "calendly_text": "Выбери время:"
+  },
+  "ueber": {
+    "titel": "О сопровождающем",
+    "name": "Samjo",
+    "text1": "TODO",
+    "text2": "TODO",
+    "qualifikationen_titel": "Квалификации",
+    "qualifikation1": "TODO",
+    "qualifikation2": "TODO",
+    "qualifikation3": "TODO"
+  },
+  "kontakt": {
+    "titel": "Контакт и маршрут",
+    "untertitel": "Как с нами связаться",
+    "formular_titel": "Напиши нам",
+    "anfahrt_titel": "Маршрут",
+    "adresse_titel": "Адрес"
+  }
+}

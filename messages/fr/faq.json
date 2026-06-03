@@ -1,0 +1,45 @@
+{
+  "titel": "Questions fréquentes",
+  "untertitel": "Réponses aux questions les plus importantes",
+  "kategorien": {
+    "allgemein": "Général",
+    "mitgliedschaft": "Adhésion",
+    "koerperarbeit": "Travail corporel",
+    "spenden": "Dons",
+    "app": "Appli"
+  },
+  "fragen": {
+    "was_ist_btb": {
+      "frage": "Qu'est-ce que Back to Balance ?",
+      "antwort": "Un modèle économique alternatif avec travail corporel et communauté."
+    },
+    "wie_mitmachen": {
+      "frage": "Comment participer ?",
+      "antwort": "En tant que soutien, membre bienfaiteur ou membre à part entière."
+    },
+    "was_kostet": {
+      "frage": "Combien ça coûte ?",
+      "antwort": "Soutien à partir de 50€/an, membre bienfaiteur à partir de 1000€/an."
+    },
+    "was_sind_coins": {
+      "frage": "Que sont les BtB-Coins ?",
+      "antwort": "Monnaie interne. 1 Coin = 1 heure."
+    },
+    "koerperarbeit_unterschied": {
+      "frage": "Qu'est-ce que le travail corporel BtB ?",
+      "antwort": "Accompagnement somatique, pas une thérapie."
+    },
+    "spenden_wohin": {
+      "frage": "Où va mon don ?",
+      "antwort": "Dans la construction de l'infrastructure."
+    },
+    "app_login": {
+      "frage": "Où est l'appli ?",
+      "antwort": "app.backtobalance.online"
+    },
+    "zelle_gruenden": {
+      "frage": "Créer sa propre cellule ?",
+      "antwort": "Oui ! Contactez-nous."
+    }
+  }
+}

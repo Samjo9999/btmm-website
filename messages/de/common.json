@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "konzept": "Konzept",
+    "koerperarbeit": "Körperarbeit",
+    "angebote": "Angebote",
+    "mitmachen": "Mitmachen",
+    "spenden": "Spenden",
+    "app": "App",
+    "zellen": "Zellen",
+    "faq": "FAQ",
+    "dokumente": "Dokumente",
+    "presse": "Presse",
+    "login": "Login"
+  },
+  "footer": {
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "kontakt": "Kontakt",
+    "tagline": "Wirtschaft, die trägt.",
+    "copyright": "© 2024 Back to Balance. Alle Rechte vorbehalten."
+  },
+  "actions": {
+    "mehr_erfahren": "Mehr erfahren",
+    "jetzt_mitmachen": "Jetzt mitmachen",
+    "termin_buchen": "Termin buchen",
+    "kontakt_aufnehmen": "Kontakt aufnehmen",
+    "jetzt_spenden": "Jetzt spenden",
+    "app_entdecken": "App entdecken",
+    "senden": "Senden",
+    "laden": "Wird geladen...",
+    "zurueck": "Zurück",
+    "herunterladen": "Herunterladen"
+  },
+  "form": {
+    "name": "Name",
+    "email": "E-Mail",
+    "nachricht": "Nachricht",
+    "telefon": "Telefon (optional)",
+    "betreff": "Betreff",
+    "pflichtfeld": "Pflichtfeld",
+    "senden": "Nachricht senden",
+    "erfolg": "Nachricht erfolgreich gesendet! Wir melden uns in Kürze.",
+    "fehler": "Fehler beim Senden. Bitte versuche es erneut oder schreibe uns direkt."
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "hi": "हिन्दी",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "fr": "Français"
+  }
+}

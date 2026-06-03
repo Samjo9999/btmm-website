@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "konzept": "Conceito",
+    "koerperarbeit": "Trabalho Corporal",
+    "angebote": "Ofertas",
+    "mitmachen": "Participar",
+    "spenden": "Doar",
+    "app": "App",
+    "zellen": "Células",
+    "faq": "FAQ",
+    "dokumente": "Documentos",
+    "presse": "Imprensa",
+    "login": "Login"
+  },
+  "footer": {
+    "impressum": "Aviso Legal",
+    "datenschutz": "Proteção de Dados",
+    "kontakt": "Contacto",
+    "tagline": "Economia que sustenta.",
+    "copyright": "© 2024 Back to Balance. Todos os direitos reservados."
+  },
+  "actions": {
+    "mehr_erfahren": "Saiba mais",
+    "jetzt_mitmachen": "Participe agora",
+    "termin_buchen": "Agendar consulta",
+    "kontakt_aufnehmen": "Entre em contacto",
+    "jetzt_spenden": "Doe agora",
+    "app_entdecken": "Descubra a App",
+    "senden": "Enviar",
+    "laden": "A carregar...",
+    "zurueck": "Voltar",
+    "herunterladen": "Descarregar"
+  },
+  "form": {
+    "name": "Nome",
+    "email": "E-mail",
+    "nachricht": "Mensagem",
+    "telefon": "Telefone (opcional)",
+    "betreff": "Assunto",
+    "pflichtfeld": "Campo obrigatório",
+    "senden": "Enviar mensagem",
+    "erfolg": "Mensagem enviada com sucesso! Entraremos em contacto em breve.",
+    "fehler": "Erro ao enviar. Por favor, tente novamente ou escreva-nos diretamente."
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "hi": "हिन्दी",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "fr": "Français"
+  }
+}

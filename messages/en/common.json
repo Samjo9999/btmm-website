@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "konzept": "Concept",
+    "koerperarbeit": "Body Work",
+    "angebote": "Offerings",
+    "mitmachen": "Join",
+    "spenden": "Donate",
+    "app": "App",
+    "zellen": "Cells",
+    "faq": "FAQ",
+    "dokumente": "Documents",
+    "presse": "Press",
+    "login": "Login"
+  },
+  "footer": {
+    "impressum": "Legal Notice",
+    "datenschutz": "Privacy",
+    "kontakt": "Contact",
+    "tagline": "An economy that sustains.",
+    "copyright": "© 2024 Back to Balance. All rights reserved."
+  },
+  "actions": {
+    "mehr_erfahren": "Learn more",
+    "jetzt_mitmachen": "Join now",
+    "termin_buchen": "Book appointment",
+    "kontakt_aufnehmen": "Get in touch",
+    "jetzt_spenden": "Donate now",
+    "app_entdecken": "Discover app",
+    "senden": "Send",
+    "laden": "Loading...",
+    "zurueck": "Back",
+    "herunterladen": "Download"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "nachricht": "Message",
+    "telefon": "Phone (optional)",
+    "betreff": "Subject",
+    "pflichtfeld": "Required field",
+    "senden": "Send message",
+    "erfolg": "Message sent successfully! We will get back to you shortly.",
+    "fehler": "Error sending message. Please try again or write to us directly."
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "hi": "हिन्दी",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "fr": "Français"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "tagline": "支え合う経済。",
+    "untertitel": "Back to Balanceは経済的な力と人間の尊厳を結びつけます — 仕事と生活がバランスを保つ世界のために。",
+    "cta_konzept": "コンセプトを知る",
+    "cta_mitmachen": "今すぐ参加する"
+  },
+  "was_ist_btb": {
+    "titel": "Back to Balanceとは？",
+    "wirtschaft_titel": "経済",
+    "wirtschaft_text": "競争ではなく相互支援に基づく経済モデル。",
+    "gemeinschaft_titel": "コミュニティ",
+    "gemeinschaft_text": "地域のセルがBtBの中心です。",
+    "nachhaltigkeit_titel": "持続可能性",
+    "nachhaltigkeit_text": "短期的な利益ではなく長期的な思考。"
+  },
+  "stats": {
+    "titel": "数字で見るBtB",
+    "gruendungsmitglieder": "創設メンバー",
+    "gruendungsmitglieder_ziel": "/ 7",
+    "aktive_zellen": "アクティブなセル",
+    "gespendete_euro": "寄付されたユーロ",
+    "gespendete_euro_hinweis": "リアルタイムデータ"
+  },
+  "koerperarbeit_teaser": {
+    "titel": "ボディワーク",
+    "text": "バランスと活力のためのソマティック・サポート。",
+    "text2": "Freiburgで深いリラクゼーションを体験。",
+    "cta": "予約する"
+  },
+  "app_teaser": {
+    "titel": "BtBアプリ",
+    "untertitel": "コミュニティのためのデジタルツール",
+    "pool_titel": "Pool",
+    "pool_text": "全メンバーのための共有リソース。",
+    "coins_titel": "BtB-Coins",
+    "coins_text": "サービス交換のための内部通貨。",
+    "workspace_titel": "Workspace",
+    "workspace_text": "プロジェクトのためのデジタルワークスペース。",
+    "cta": "アプリを見る",
+    "hinweis": "メンバー限定"
+  },
+  "spenden_teaser": {
+    "titel": "BtBを支援する",
+    "text": "あなたの寄付がインフラ構築を支えます。すべての貢献が力になります。",
+    "cta": "今すぐ寄付する"
+  },
+  "zellen_karte": {
+    "titel": "世界中のBtBセル",
+    "text": "あらゆる場所でBtBセルが誕生しています — 共に経済を営む地域コミュニティ。"
+  }
+  ,"hero_poetisch": "森のように、すべての木が根のネットワークに支えられている——参加するすべての人を強くする経済システムが生まれつつあります。","hero_subtitel2": "誕生しつつある宇宙 · Freiburg · 世界中","was_ist_btb_sub": "三つの柱 – ひとつの全体","infinity": {"text": "既存のシステムは円を描いて回り続けている——より速く、より狭く。Back to Balanceは、そのループが破れ、新しいものが生まれる瞬間です。"},"zellen_alle": "すべてのセルを見る"}

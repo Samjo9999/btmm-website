@@ -1,0 +1,45 @@
+{
+  "titel": "Perguntas frequentes",
+  "untertitel": "Respostas às perguntas mais importantes sobre Back to Balance",
+  "kategorien": {
+    "allgemein": "Geral",
+    "mitgliedschaft": "Adesão",
+    "koerperarbeit": "Trabalho Corporal",
+    "spenden": "Doações",
+    "app": "App"
+  },
+  "fragen": {
+    "was_ist_btb": {
+      "frage": "O que é Back to Balance?",
+      "antwort": "Back to Balance (BtB) é um projeto comunitário que desenvolve e testa um modelo económico alternativo."
+    },
+    "wie_mitmachen": {
+      "frage": "Como posso participar?",
+      "antwort": "Pode aderir como membro patrocinador da associação (a partir de 50€/ano) ou tornar-se membro ativo da cooperativa."
+    },
+    "was_kostet": {
+      "frage": "Quanto custa a adesão?",
+      "antwort": "A adesão como patrocinador na associação custa a partir de 50€ por ano."
+    },
+    "was_sind_coins": {
+      "frage": "O que são BtB-Coins?",
+      "antwort": "BtB-Coins são a moeda interna da comunidade. 1 Coin = 1 hora de trabalho."
+    },
+    "koerperarbeit_unterschied": {
+      "frage": "O que distingue o trabalho corporal BtB?",
+      "antwort": "O trabalho corporal BtB é um acompanhamento somático, não uma terapia."
+    },
+    "spenden_wohin": {
+      "frage": "Para onde vai a minha doação?",
+      "antwort": "Para a construção da infraestrutura BtB."
+    },
+    "app_login": {
+      "frage": "Como acedo à App BtB?",
+      "antwort": "A App BtB funciona em app.backtobalance.online."
+    },
+    "zelle_gruenden": {
+      "frage": "Posso fundar a minha própria célula?",
+      "antwort": "Sim! Entre em contacto connosco."
+    }
+  }
+}

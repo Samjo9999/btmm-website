@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "konzept": "अवधारणा",
+    "koerperarbeit": "शारीरिक कार्य",
+    "angebote": "सेवाएँ",
+    "mitmachen": "भाग लें",
+    "spenden": "दान करें",
+    "app": "ऐप",
+    "zellen": "सेल",
+    "faq": "अक्सर पूछे जाने वाले प्रश्न",
+    "dokumente": "दस्तावेज़",
+    "presse": "प्रेस",
+    "login": "लॉगिन"
+  },
+  "footer": {
+    "impressum": "कानूनी सूचना",
+    "datenschutz": "गोपनीयता नीति",
+    "kontakt": "संपर्क",
+    "tagline": "अर्थव्यवस्था जो संभालती है।",
+    "copyright": "© 2024 Back to Balance। सर्वाधिकार सुरक्षित।"
+  },
+  "actions": {
+    "mehr_erfahren": "और जानें",
+    "jetzt_mitmachen": "अभी भाग लें",
+    "termin_buchen": "अपॉइंटमेंट बुक करें",
+    "kontakt_aufnehmen": "संपर्क करें",
+    "jetzt_spenden": "अभी दान करें",
+    "app_entdecken": "ऐप खोजें",
+    "senden": "भेजें",
+    "laden": "लोड हो रहा है...",
+    "zurueck": "वापस",
+    "herunterladen": "डाउनलोड करें"
+  },
+  "form": {
+    "name": "नाम",
+    "email": "ई-मेल",
+    "nachricht": "संदेश",
+    "telefon": "फ़ोन (वैकल्पिक)",
+    "betreff": "विषय",
+    "pflichtfeld": "अनिवार्य फ़ील्ड",
+    "senden": "संदेश भेजें",
+    "erfolg": "संदेश सफलतापूर्वक भेजा गया! हम जल्द ही आपसे संपर्क करेंगे।",
+    "fehler": "भेजने में त्रुटि। कृपया पुनः प्रयास करें या हमें सीधे लिखें।"
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "hi": "हिन्दी",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "fr": "Français"
+  }
+}

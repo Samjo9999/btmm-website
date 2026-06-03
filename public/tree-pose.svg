@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 500" fill="#8fa942" opacity="0.15">
+  <!-- Tree Pose (Vrksasana) Silhouette -->
+  <!-- Head -->
+  <ellipse cx="100" cy="32" rx="22" ry="26"/>
+  <!-- Neck -->
+  <rect x="93" y="56" width="14" height="16" rx="4"/>
+  <!-- Torso -->
+  <path d="M82 72 C78 72 74 80 74 90 L74 180 C74 188 80 192 88 192 L112 192 C120 192 126 188 126 180 L126 90 C126 80 122 72 118 72 Z"/>
+  <!-- Arms raised overhead (prayer position) -->
+  <path d="M88 80 C84 78 76 68 72 56 C68 44 66 32 68 26 C70 20 76 18 80 24 C84 30 86 44 88 56 Z"/>
+  <path d="M112 80 C116 78 124 68 128 56 C132 44 134 32 132 26 C130 20 124 18 120 24 C116 30 114 44 112 56 Z"/>
+  <!-- Hands together above head -->
+  <ellipse cx="100" cy="16" rx="10" ry="6"/>
+  <!-- Standing leg (left) -->
+  <path d="M86 192 C84 192 80 200 78 220 L74 320 C73 340 72 360 74 380 L76 430 C76 440 80 450 84 450 L90 450 C94 450 96 444 96 436 L94 380 C92 360 92 340 92 320 L94 220 C94 200 92 192 90 192 Z"/>
+  <!-- Left foot -->
+  <path d="M76 448 C72 448 64 452 60 456 C56 460 58 466 64 466 L92 466 C98 466 98 460 96 456 C94 452 92 448 88 448 Z"/>
+  <!-- Bent right leg (foot on inner left thigh) -->
+  <path d="M108 192 C112 194 120 200 130 210 C140 220 146 228 148 234 C150 240 146 244 140 240 C134 236 126 224 120 214 C114 204 108 196 106 192 Z"/>
+  <!-- Right foot pressed against left thigh -->
+  <ellipse cx="92" cy="240" rx="16" ry="8" transform="rotate(-15 92 240)"/>
+</svg>

@@ -1,0 +1,45 @@
+{
+  "titel": "Häufige Fragen",
+  "untertitel": "Antworten auf die wichtigsten Fragen zu Back to Balance",
+  "kategorien": {
+    "allgemein": "Allgemein",
+    "mitgliedschaft": "Mitgliedschaft",
+    "koerperarbeit": "Körperarbeit",
+    "spenden": "Spenden",
+    "app": "App"
+  },
+  "fragen": {
+    "was_ist_btb": {
+      "frage": "Was ist Back to Balance?",
+      "antwort": "Back to Balance (BtB) ist ein Gemeinschaftsprojekt, das ein alternatives Wirtschaftsmodell entwickelt und erprobt. Es verbindet wirtschaftliche Kooperation mit ganzheitlicher Körperarbeit und dem Aufbau lokaler Gemeinschaften."
+    },
+    "wie_mitmachen": {
+      "frage": "Wie kann ich mitmachen?",
+      "antwort": "Du kannst als Fördermitglied des e.V. beitreten (ab 50€/Jahr) oder – sobald die Gründung abgeschlossen ist – Aktivmitglied der Genossenschaft werden. Schreib uns über das Kontaktformular auf /mitmachen."
+    },
+    "was_kostet": {
+      "frage": "Was kostet eine Mitgliedschaft?",
+      "antwort": "Die Fördermitgliedschaft im e.V. kostet ab 50€ pro Jahr. Die Aktivmitgliedschaft in der Genossenschaft befindet sich noch in der Gründungsphase – melde dich für Updates an."
+    },
+    "was_sind_coins": {
+      "frage": "Was sind BtB-Coins?",
+      "antwort": "BtB-Coins sind die interne Währung der Gemeinschaft. Mitglieder können damit Leistungen tauschen – z.B. Körperarbeit gegen Beratung – ohne Geldfluss. Die Coins werden über die BtB-App verwaltet."
+    },
+    "koerperarbeit_unterschied": {
+      "frage": "Was unterscheidet BtB-Körperarbeit von anderen Ansätzen?",
+      "antwort": "BtB-Körperarbeit ist keine Therapie und kein Wellness-Angebot. Es ist eine ganzheitliche Begleitung, die den Körper als eigenständigen Informationsträger versteht. Wir arbeiten mit dem, was ist – nicht mit dem, was sein sollte."
+    },
+    "spenden_wohin": {
+      "frage": "Wohin geht meine Spende?",
+      "antwort": "Deine Spende fließt in den Aufbau der BtB-Infrastruktur: technische Entwicklung, rechtliche Gründung der Genossenschaft und die ersten Gemeinschaftsprojekte. Der Spendenstand ist live auf der Website einsehbar."
+    },
+    "app_login": {
+      "frage": "Wie komme ich zur BtB-App?",
+      "antwort": "Die BtB-App läuft unter app.backtobalance.online und ist nur für Mitglieder zugänglich. Die Webseite und die App sind getrennte Systeme – der Login führt zur App."
+    },
+    "zelle_gruenden": {
+      "frage": "Kann ich eine eigene Zelle gründen?",
+      "antwort": "Ja! BtB lebt von lokalen Zellen. Wenn du in deiner Stadt oder deinem Ort eine Zelle gründen möchtest, melde dich bei uns. Wir begleiten dich durch den Prozess."
+    }
+  }
+}

@@ -11,16 +11,17 @@ import { LiveStats } from '@/components/LiveStats'
 import { LogoLightbox } from '@/components/LogoLightbox'
 import { HeroImageLightbox } from '@/components/HeroImageLightbox'
 import { CommunityExperiencesSection } from '@/components/CommunityExperiencesSection'
+import { AngeboteAccordion } from '@/components/AngeboteAccordion'
 
 export const dynamic = 'force-dynamic'
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: 'Back to Balance – Wirtschaft, die trägt.',
-    description: 'Back to Balance verbindet wirtschaftliche Stärke mit menschlicher Würde. Somatische Körperarbeit, Gemeinschaft und alternatives Wirtschaftsmodell in Freiburg.',
+    title: 'Back to Meaning Maximization – ein anderes Wirtschaftssystem',
+    description: 'Back to Meaning Maximization ist ein alternatives Wirtschaftsmodell, das wirtschaftliche Stärke mit menschlicher Würde verbindet. Gegründet in Freiburg, gedacht weltweit.',
     openGraph: {
-      title: 'Back to Balance – Wirtschaft, die trägt.',
-      description: 'Ein alternatives Wirtschaftsmodell mit Körperarbeit und Gemeinschaft. Freiburg und weltweit.',
+      title: 'Back to Meaning Maximization – ein anderes Wirtschaftssystem',
+      description: 'Ein alternatives Wirtschaftsmodell für Wirtschaft, die trägt.',
     },
   }
 }
@@ -55,7 +56,7 @@ export default async function HomePage() {
           <div style={{ marginBottom: '1.5rem' }}>
             <LogoLightbox
               src="/logo.png"
-              alt="Back to Balance Logo"
+              alt="Back to Meaning Maximization Logo"
               width={160}
               height={160}
               style={{ margin: '0 auto', filter: 'drop-shadow(0 2px 8px rgba(0,0,0,0.4))' }}
@@ -65,77 +66,52 @@ export default async function HomePage() {
 
           <h1 style={{
             fontFamily: 'var(--font-garamond)',
-            fontSize: 'clamp(3rem, 7vw, 5rem)',
+            fontSize: 'clamp(2.2rem, 6vw, 4rem)',
             fontWeight: 700,
             color: 'var(--btb-rot)',
-            marginBottom: '0.5rem',
+            marginBottom: '0.75rem',
             lineHeight: 1.1,
             textShadow: '0 2px 16px rgba(0,0,0,0.7), 0 1px 4px rgba(0,0,0,0.5)',
           }}>
-            Back to Balance
+            Back to Meaning Maximization
           </h1>
 
           <p style={{
-            display: 'inline-block',
-            fontSize: '0.9rem', color: '#ffffff',
-            marginBottom: '1.5rem', letterSpacing: '0.05em',
             fontFamily: 'var(--font-garamond)',
-            fontStyle: 'italic',
-            textShadow: '0 1px 6px rgba(0,0,0,0.6)',
-          }}>
-            {t('hero_subtitel2')}
-          </p>
-
-          <p style={{
-            fontFamily: 'var(--font-garamond)',
-            fontSize: 'clamp(1.4rem, 3vw, 2rem)',
-            fontWeight: 600,
-            color: 'var(--btb-oliv)',
+            fontSize: 'clamp(1.2rem, 2.5vw, 1.8rem)',
+            fontWeight: 500,
+            color: '#ffffff',
             marginBottom: '1.5rem',
-            lineHeight: 1.3,
+            lineHeight: 1.4,
             textShadow: '0 2px 12px rgba(0,0,0,0.7), 0 1px 4px rgba(0,0,0,0.5)',
           }}>
-            {t('hero.tagline')}
+            Ein anderes Wirtschaftssystem
           </p>
 
           <p style={{
-            fontSize: 'clamp(1rem, 2vw, 1.15rem)',
-            color: '#ffffff',
-            lineHeight: 1.75,
-            maxWidth: 580,
-            margin: '0 auto 1rem',
-            fontStyle: 'italic',
-            textShadow: '0 1px 8px rgba(0,0,0,0.6)',
-          }}>
-            {t('hero_poetisch')}
-          </p>
-
-          <p style={{
-            fontSize: 'clamp(0.95rem, 1.8vw, 1.05rem)',
+            fontSize: 'clamp(0.95rem, 1.8vw, 1.1rem)',
             color: '#ffffff',
             lineHeight: 1.7,
             maxWidth: 560,
             margin: '0 auto 2.5rem',
             textShadow: '0 1px 6px rgba(0,0,0,0.6)',
           }}>
-            {t('hero.untertitel')}
+            Back to Meaning Maximization verbindet wirtschaftliche Stärke mit menschlicher Würde — ein System, in dem Bedeutung über Gewinn geht.
           </p>
 
           <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
             <Link href="/konzept" className="btn-primary">
-              {t('hero.cta_konzept')}
+              Das Konzept
             </Link>
             <Link href="/mitmachen" className="btn-secondary">
-              {t('hero.cta_mitmachen')}
+              Mitmachen
             </Link>
           </div>
 
         </div>
       </section>
 
-      {/* ── 1b. WAS WÄRE WENN – ausgeklammert bis Dokumente da sind ── */}
-
-      {/* ── 2. WAS IST BTB ── */}
+      {/* ── 2. WAS IST BTMM ── */}
       <section className="section" style={{ background: 'var(--btb-weiss)' }}>
         <div className="container-btb">
           <SectionReveal>
@@ -146,10 +122,10 @@ export default async function HomePage() {
               marginBottom: '0.75rem',
               color: 'var(--btb-oliv)',
             }}>
-              {t('was_ist_btb.titel')}
+              Wirtschaft, die trägt
             </h2>
             <p style={{ textAlign: 'center', opacity: 0.6, marginBottom: '3rem', maxWidth: 540, margin: '0 auto 3rem' }}>
-              {t('was_ist_btb_sub')}
+              Back to Meaning Maximization ist eine Vision von Wirtschaft, die Menschen und Gemeinschaft ins Zentrum stellt.
             </p>
           </SectionReveal>
 
@@ -161,20 +137,20 @@ export default async function HomePage() {
             {[
               {
                 icon: <TrendingUp size={32} style={{ color: 'var(--btb-rot)' }} />,
-                titel: t('was_ist_btb.wirtschaft_titel'),
-                text: t('was_ist_btb.wirtschaft_text'),
+                titel: 'Wirtschaft mit Sinn',
+                text: 'Profitabilität, die einem höheren Zweck dient — nicht Selbstzweck, sondern Mittel zum Zweck.',
                 href: '/konzept/wirtschaft',
               },
               {
                 icon: <Users size={32} style={{ color: 'var(--btb-blau)' }} />,
-                titel: t('was_ist_btb.gemeinschaft_titel'),
-                text: t('was_ist_btb.gemeinschaft_text'),
+                titel: 'Gemeinschaft',
+                text: 'Ein Netzwerk von Menschen und Betrieben, die zusammen wirtschaften und voneinander lernen.',
                 href: '/konzept/gemeinschaft',
               },
               {
                 icon: <Leaf size={32} style={{ color: 'var(--btb-oliv)' }} />,
-                titel: t('was_ist_btb.nachhaltigkeit_titel'),
-                text: t('was_ist_btb.nachhaltigkeit_text'),
+                titel: 'Nachhaltigkeit',
+                text: 'Wirtschaft, die Ressourcen respektiert und für zukünftige Generationen bewahrt.',
                 href: '/konzept',
               },
             ].map((item, i) => (
@@ -202,7 +178,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      {/* ── 3. LIVE STATS ── */}
+      {/* ── 2b. ANGEBOTE ── */}
       <section className="section" style={{ background: 'var(--btb-creme)' }}>
         <div className="container-btb">
           <SectionReveal>
@@ -210,18 +186,21 @@ export default async function HomePage() {
               fontFamily: 'var(--font-garamond)',
               fontSize: 'clamp(1.8rem, 3.5vw, 2.6rem)',
               textAlign: 'center',
+              marginBottom: '0.75rem',
               color: 'var(--btb-oliv)',
-              marginBottom: '3rem',
             }}>
-              {t('stats.titel')}
+              Unser Angebot
             </h2>
+            <p style={{ textAlign: 'center', opacity: 0.65, marginBottom: '2.5rem', maxWidth: 560, margin: '0 auto 2.5rem' }}>
+              Dienstleistungen und Expertise von erfahrenen Praktizierenden aus unserem Netzwerk.
+            </p>
           </SectionReveal>
-          <LiveStats />
+          <AngeboteAccordion domain="b-t-m-m.com" />
         </div>
       </section>
 
-      {/* ── 5. APP TEASER ── */}
-      <section className="section" style={{ background: 'var(--btb-creme)' }}>
+      {/* ── 3. APP TEASER ── */}
+      <section className="section" style={{ background: 'var(--btb-weiss)' }}>
         <div className="container-btb">
           <SectionReveal>
             <h2 style={{
@@ -231,10 +210,10 @@ export default async function HomePage() {
               color: 'var(--btb-oliv)',
               marginBottom: '0.5rem',
             }}>
-              {t('app_teaser.titel')}
+              Das BtM Universe
             </h2>
             <p style={{ textAlign: 'center', opacity: 0.65, marginBottom: '2.5rem' }}>
-              {t('app_teaser.untertitel')}
+              Die Plattform für Zusammenarbeit, Buchungen und gegenseitige Unterstützung innerhalb unseres Netzwerks.
             </p>
           </SectionReveal>
 
@@ -245,9 +224,9 @@ export default async function HomePage() {
             marginBottom: '2rem',
           }}>
             {[
-              { icon: <Users size={24} />, titel: t('app_teaser.pool_titel'), text: t('app_teaser.pool_text') },
-              { icon: <CreditCard size={24} />, titel: t('app_teaser.coins_titel'), text: t('app_teaser.coins_text') },
-              { icon: <Layout size={24} />, titel: t('app_teaser.workspace_titel'), text: t('app_teaser.workspace_text') },
+              { icon: <Users size={24} />, titel: 'Vernetzung', text: 'Finde und buche Dienstleistungen von Praktizierenden im Netzwerk.' },
+              { icon: <CreditCard size={24} />, titel: 'Tausch-System', text: 'Arbeitsleistung wird fair bewertet und getauscht innerhalb des Systems.' },
+              { icon: <Layout size={24} />, titel: 'Workspace', text: 'Dein Betrieb, deine Angebote, deine Gemeinschaft — alles an einem Ort.' },
             ].map((item, i) => (
               <SectionReveal key={i} delay={i * 0.12}>
                 <div className="card-btb" style={{ textAlign: 'center' }}>
@@ -276,7 +255,7 @@ export default async function HomePage() {
 
           <div style={{ textAlign: 'center', display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
             <Link href="/app" className="btn-secondary">
-              {t('app_teaser.cta')}
+              Zur App
             </Link>
             <a
               href="https://app.backtobalance.online"
@@ -291,7 +270,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      {/* ── 5b. INFINITY LOOP ── */}
+      {/* ── 4. INFINITY LOOP ── */}
       <section style={{
         background: 'linear-gradient(135deg, #1a5a8a 0%, var(--btb-blau) 50%, #1a5a8a 100%)',
         padding: '4rem 1.5rem',
@@ -301,7 +280,7 @@ export default async function HomePage() {
           <SectionReveal>
             <Image
               src="/infinity-gold.png"
-              alt="Infinity Loop – Back to Balance"
+              alt="Infinity Loop – Back to Meaning Maximization"
               width={200}
               height={200}
               style={{ margin: '0 auto 1rem', objectFit: 'contain' }}
@@ -315,7 +294,7 @@ export default async function HomePage() {
               marginBottom: '0.75rem',
               fontStyle: 'italic',
             }}>
-              Infinity Loop Reaching Its Breaking Point
+              Wirtschaft neu denken
             </h2>
             <p style={{
               color: 'var(--btb-creme)',
@@ -325,13 +304,13 @@ export default async function HomePage() {
               maxWidth: 540,
               margin: '0 auto',
             }}>
-              {t('infinity.text')}
+              Die heutige Wirtschaft ist in einem Zirkel gefangen: Wachstum um des Wachstums willen, Gewinn als Maß aller Dinge. Back to Meaning Maximization fragt: Was wäre anders, wenn wir Bedeutung, Gemeinschaft und Nachhaltigkeit ins Zentrum stellen würden?
             </p>
           </SectionReveal>
         </div>
       </section>
 
-      {/* ── 6. SPENDENAUFRUF ── */}
+      {/* ── 5. MEMBERSHIP ── */}
       <section className="section" style={{ background: 'var(--btb-weiss)' }}>
         <div className="container-btb">
           <div style={{
@@ -347,47 +326,17 @@ export default async function HomePage() {
                 color: 'var(--btb-oliv)',
                 marginBottom: '0.75rem',
               }}>
-                {t('spenden_teaser.titel')}
+                Teil unseres Netzwerks werden
               </h2>
               <p style={{ lineHeight: 1.75, opacity: 0.8, marginBottom: '1.75rem' }}>
-                {t('spenden_teaser.text')}
+                Back to Meaning Maximization wächst durch Menschen wie dich. Als Praktizierender, Unternehmer oder Unterstützer kannst du Teil eines Systems sein, das wirtschaftliche Stärke mit menschlicher Würde verbindet. Gemeinsam schaffen wir eine Alternative — lokal und global.
               </p>
-              <SpendenFortschritt />
               <div style={{ marginTop: '1.5rem' }}>
-                <Link href="/spenden" className="btn-oliv">
-                  {t('spenden_teaser.cta')}
+                <Link href="/mitmachen" className="btn-oliv">
+                  Mitmachen
                 </Link>
               </div>
             </SectionReveal>
-          </div>
-        </div>
-      </section>
-
-      {/* ── 6b. COMMUNITY EXPERIENCES ── */}
-      <CommunityExperiencesSection />
-
-      {/* ── 7. ZELLEN KARTE ── */}
-      <section className="section" style={{ background: 'var(--btb-creme)' }}>
-        <div className="container-btb">
-          <SectionReveal>
-            <h2 style={{
-              fontFamily: 'var(--font-garamond)',
-              fontSize: 'clamp(1.8rem, 3.5vw, 2.6rem)',
-              textAlign: 'center',
-              color: 'var(--btb-oliv)',
-              marginBottom: '0.5rem',
-            }}>
-              {t('zellen_karte.titel')}
-            </h2>
-            <p style={{ textAlign: 'center', opacity: 0.65, marginBottom: '2rem' }}>
-              {t('zellen_karte.text')}
-            </p>
-          </SectionReveal>
-          <ZellenKarte />
-          <div style={{ textAlign: 'center', marginTop: '1.5rem' }}>
-            <Link href="/zellen" className="btn-secondary">
-              {t('zellen_alle')}
-            </Link>
           </div>
         </div>
       </section>

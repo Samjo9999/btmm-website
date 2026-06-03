@@ -2,7 +2,6 @@ import type { Metadata } from 'next'
 import Image from 'next/image'
 import { getTranslations } from 'next-intl/server'
 import Link from 'next/link'
-import { ZellenKarte } from '@/components/ZellenKarte'
 import { SectionReveal } from '@/components/AnimatedCounter'
 import { HeroImageLightbox } from '@/components/HeroImageLightbox'
 
@@ -93,11 +92,6 @@ export default async function InternationalPage() {
               {t('international.zellen_weltweit_titel')}
             </h2>
             <p style={{ lineHeight: 1.8, marginBottom: '2rem' }}>{t('international.zellen_weltweit_text')}</p>
-          </SectionReveal>
-
-          {/* Karte */}
-          <SectionReveal delay={0.25}>
-            <ZellenKarte />
           </SectionReveal>
 
           {/* Politische Wirkung */}

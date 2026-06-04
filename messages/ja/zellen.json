@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "セル – Back to Meaning Maximization",
+    "description": "世界中のBtMMセルを発見してください。地域コミュニティ、1つの共有システム。"
+  },
+  "hero": {
+    "titel": "セル",
+    "untertitel": "地域コミュニティ、1つの共有システム"
+  },
+  "overview": {
+    "zellen_aktiv": "活動中または設立中のセル",
+    "mitglieder": "活動中のメンバー",
+    "fachbereiche": "専門分野"
+  },
+  "stats": {
+    "titel": "BtMMセルの数字"
+  },
+  "zellenliste": {
+    "neue_zelle_titel": "新しいセル",
+    "neue_zelle_text": "あなたの地域でBtMMセルを設立したいですか？",
+    "neue_zelle_button": "お問い合わせ"
+  },
+  "info": {
+    "titel": "セルはどのように機能しますか？",
+    "text1": "各セルはBtMMメンバーの地域コミュニティで、一緒に働き、リソースを共有し、サービスを交換しています。分散化された組織——しかし共有価値と共有システムによって接続されています。",
+    "text2": "セルは異なるフォーカスを持つことができます——身体的な作業、工芸、コンサルティング、教育。重要なのは：人々がより公正な経済のために一緒に働くことです。"
+  },
+  "details": {
+    "mitglieder": "メンバー",
+    "schwerpunkte": "焦点領域",
+    "status_aktiv": "活動中",
+    "status_planung": "計画中",
+    "details_button": "詳細"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Zellen – Back to Meaning Maximization",
+    "description": "Entdecke die BtMM-Zellen rund um die Welt. Lokale Gemeinschaften, ein gemeinsames System."
+  },
+  "hero": {
+    "titel": "Zellen",
+    "untertitel": "Lokale Gemeinschaften, ein gemeinsames System"
+  },
+  "overview": {
+    "zellen_aktiv": "Zellen aktiv oder in Gründung",
+    "mitglieder": "Aktive Mitglieder",
+    "fachbereiche": "Fachbereiche"
+  },
+  "stats": {
+    "titel": "BtMM-Zellen in Zahlen"
+  },
+  "zellenliste": {
+    "neue_zelle_titel": "Neue Zelle",
+    "neue_zelle_text": "Du möchtest eine BtMM-Zelle in deiner Nähe gründen?",
+    "neue_zelle_button": "Kontakt aufnehmen"
+  },
+  "info": {
+    "titel": "Wie funktionieren Zellen?",
+    "text1": "Jede Zelle ist eine lokale Gemeinschaft von BtMM-Mitgliedern, die zusammenarbeiten, Ressourcen teilen und Leistungen tauschen. Dezentral organisiert — aber mit gemeinsamen Werten und Systemen verbunden.",
+    "text2": "Zellen können verschiedene Schwerpunkte haben — Körperarbeit, Handwerk, Beratung, Bildung. Was zählt: Die Menschen arbeiten im Sinne einer gerechteren Wirtschaft zusammen."
+  },
+  "details": {
+    "mitglieder": "Mitglieder",
+    "schwerpunkte": "Schwerpunkte",
+    "status_aktiv": "Aktiv",
+    "status_planung": "Planung",
+    "details_button": "Details"
+  }
+}

@@ -30,7 +30,7 @@ export async function POST(request: NextRequest) {
 
     const { error } = await resend.emails.send({
       from: 'BtMM Website <noreply@backtobalance.online>',
-      to: ['kontakt@backtobalance.online'],
+      to: ['office@b-t-m-m.com'],
       subject: `${betreff}${typLabel}`,
       html: `
         <h2>Neue Kontaktanfrage</h2>

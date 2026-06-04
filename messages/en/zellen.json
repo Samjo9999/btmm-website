@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Cells – Back to Meaning Maximization",
+    "description": "Discover BtMM cells around the world. Local communities, one shared system."
+  },
+  "hero": {
+    "titel": "Cells",
+    "untertitel": "Local communities, one shared system"
+  },
+  "overview": {
+    "zellen_aktiv": "Cells active or being founded",
+    "mitglieder": "Active members",
+    "fachbereiche": "Areas of expertise"
+  },
+  "stats": {
+    "titel": "BtMM cells in numbers"
+  },
+  "zellenliste": {
+    "neue_zelle_titel": "New cell",
+    "neue_zelle_text": "Want to found a BtMM cell in your area?",
+    "neue_zelle_button": "Get in touch"
+  },
+  "info": {
+    "titel": "How do cells work?",
+    "text1": "Each cell is a local community of BtMM members who work together, share resources, and exchange services. Decentrally organized — but connected through shared values and systems.",
+    "text2": "Cells can have different focuses — somatic work, crafts, consulting, education. What matters: people working together for a more just economy."
+  },
+  "details": {
+    "mitglieder": "Members",
+    "schwerpunkte": "Focus areas",
+    "status_aktiv": "Active",
+    "status_planung": "Planning",
+    "details_button": "Details"
+  }
+}

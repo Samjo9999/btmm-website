@@ -78,7 +78,7 @@ export default async function MitmachenPage() {
                   Unterstützer
                 </h2>
                 <p style={{ fontSize: '0.85rem', color: 'var(--btb-dunkel)', opacity: 0.6, marginBottom: '1rem' }}>
-                  Trägst die Idee — bevor das System selbst trägt
+                  Unterstützer trägt die Idee — bevor das System selbst trägt
                 </p>
                 <div style={{
                   fontSize: '2rem',

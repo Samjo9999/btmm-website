@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "细胞 – Back to Meaning Maximization",
+    "description": "探索世界各地的BtMM细胞。本地社区，一个共同系统。"
+  },
+  "hero": {
+    "titel": "细胞",
+    "untertitel": "本地社区，一个共同系统"
+  },
+  "overview": {
+    "zellen_aktiv": "活跃或正在建立的细胞",
+    "mitglieder": "活跃成员",
+    "fachbereiche": "专业领域"
+  },
+  "stats": {
+    "titel": "BtMM细胞数据"
+  },
+  "zellenliste": {
+    "neue_zelle_titel": "新细胞",
+    "neue_zelle_text": "想在你的地区建立一个BtMM细胞吗？",
+    "neue_zelle_button": "联系我们"
+  },
+  "info": {
+    "titel": "细胞如何运作？",
+    "text1": "每个细胞都是BtMM成员的本地社区，他们一起工作，共享资源并交换服务。分散式组织——但通过共同的价值观和系统相连。",
+    "text2": "细胞可以有不同的焦点——躯体工作、手工艺、咨询、教育。重要的是：人们一起为更公正的经济而工作。"
+  },
+  "details": {
+    "mitglieder": "成员",
+    "schwerpunkte": "焦点领域",
+    "status_aktiv": "活跃",
+    "status_planung": "规划中",
+    "details_button": "详情"
+  }
+}

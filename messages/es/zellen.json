@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Células – Back to Meaning Maximization",
+    "description": "Descubre las células BtMM alrededor del mundo. Comunidades locales, un sistema compartido."
+  },
+  "hero": {
+    "titel": "Células",
+    "untertitel": "Comunidades locales, un sistema compartido"
+  },
+  "overview": {
+    "zellen_aktiv": "Células activas o en construcción",
+    "mitglieder": "Miembros activos",
+    "fachbereiche": "Áreas de especialización"
+  },
+  "stats": {
+    "titel": "Células BtMM en números"
+  },
+  "zellenliste": {
+    "neue_zelle_titel": "Nueva célula",
+    "neue_zelle_text": "¿Quieres fundar una célula BtMM en tu área?",
+    "neue_zelle_button": "Ponerse en contacto"
+  },
+  "info": {
+    "titel": "¿Cómo funcionan las células?",
+    "text1": "Cada célula es una comunidad local de miembros de BtMM que trabajan juntos, comparten recursos e intercambian servicios. Organizadas descentralmente — pero conectadas a través de valores y sistemas compartidos.",
+    "text2": "Las células pueden tener diferentes enfoques — trabajo somático, oficios, consultoría, educación. Lo importante: personas trabajando juntas por una economía más justa."
+  },
+  "details": {
+    "mitglieder": "Miembros",
+    "schwerpunkte": "Áreas de enfoque",
+    "status_aktiv": "Activo",
+    "status_planung": "Planificación",
+    "details_button": "Detalles"
+  }
+}

@@ -22,11 +22,11 @@
     "gespendete_euro": "已捐赠欧元",
     "gespendete_euro_hinweis": "来自 Supabase 的实时数据"
   },
-  "koerperarbeit_teaser": {
-    "titel": "身体疗愈",
-    "text": "促进平衡与活力的身体伴随。BtB 方法的身体疗愈将身心融为一体的整体过程。",
-    "text2": "在 Freiburg 安全、专业的环境中，体验深层放松和持久改变。",
-    "cta": "预约"
+  "angebote_teaser": {
+    "titel": "我们的服务",
+    "text": "身体疗愈为更多平衡和活力。与您身体节奏相随的个人陪伴——无压力，无匆忙。",
+    "text2": "在 Freiburg 安全、专业的环境中，体验深层放松和持久改变。1-3 次疗程就能感受到明显的改变。",
+    "cta": "探索服务"
   },
   "app_teaser": {
     "titel": "BtB 应用",

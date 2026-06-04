@@ -22,11 +22,11 @@
     "gespendete_euro": "Euros doados",
     "gespendete_euro_hinweis": "Dados em tempo real do Supabase"
   },
-  "koerperarbeit_teaser": {
-    "titel": "Trabalho Corporal",
-    "text": "Acompanhamento somático para mais equilíbrio e vitalidade. O trabalho corporal segundo o método BtB une corpo e mente num processo holístico.",
-    "text2": "Experimente relaxamento profundo e transformação duradoura num ambiente profissional e protegido em Freiburg.",
-    "cta": "Agendar consulta"
+  "angebote_teaser": {
+    "titel": "Nossas Ofertas",
+    "text": "Trabalho corporal somático para mais equilíbrio e vitalidade. Acompanhamento individual que segue o ritmo do seu corpo — sem pressão, sem pressa.",
+    "text2": "Descubra relaxamento profundo e mudança duradoura num ambiente seguro e profissional em Freiburg. Mudanças notáveis são possíveis em 1-3 sessões.",
+    "cta": "Explorar ofertas"
   },
   "app_teaser": {
     "titel": "A App BtB",

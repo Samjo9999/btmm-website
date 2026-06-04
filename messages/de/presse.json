@@ -16,9 +16,9 @@
     "gruendungsort_label": "Gründungsort",
     "gruendungsort": "Freiburg im Breisgau",
     "gruendungsjahr_label": "Gründungsjahr",
-    "gruendungsjahr": "2026 (geplant)",
+    "gruendungsjahr": "2024",
     "website_label": "Website",
-    "website": "backtobalance.online"
+    "website": "b-t-m-m.com"
   },
   "kernaussagen": {
     "titel": "Kernaussagen",
@@ -46,9 +46,9 @@
   "kontakt": {
     "titel": "Pressekontakt",
     "name_label": "Ansprechperson",
-    "name": "Johannes-Samuel Gartzke",
+    "name": "Back to Meaning Maximization eG",
     "email_label": "E-Mail",
-    "email": "presse@backtobalance.online",
+    "email": "office@b-t-m-m.com",
     "hinweis": "Wir antworten in der Regel innerhalb von 2 Werktagen."
   }
 }

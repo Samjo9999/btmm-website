@@ -12,7 +12,7 @@ export async function POST(req: Request) {
 
   try {
     const stripe = getStripe()
-    const origin = process.env.NEXT_PUBLIC_SITE_URL || 'https://backtobalance.online'
+    const origin = process.env.NEXT_PUBLIC_SITE_URL || 'https://b-t-m-m.com'
 
     const baseDescription = stripe_description || 'Ganzheitliche Körperarbeit — individuell auf dich abgestimmt.'
     const vatNote = vat_enabled && vat_rate && netto_price

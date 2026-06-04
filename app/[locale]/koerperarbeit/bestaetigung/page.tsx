@@ -99,8 +99,8 @@ function BestaetigungInner() {
           </p>
           <p style={{ fontSize: '0.9rem', opacity: 0.6, marginBottom: '2rem' }}>
             Deine Zahlung wurde möglicherweise verarbeitet. Bitte kontaktiere uns unter{' '}
-            <a href="mailto:back.to.balance.gartzke@gmail.com" style={{ color: 'var(--btb-blau)' }}>
-              back.to.balance.gartzke@gmail.com
+            <a href="mailto:office@b-t-m-m.com" style={{ color: 'var(--btb-blau)' }}>
+              office@b-t-m-m.com
             </a>
           </p>
           <Link href="/koerperarbeit" className="btn-primary">

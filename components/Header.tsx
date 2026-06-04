@@ -16,9 +16,11 @@ export function Header({ locale }: { locale: Locale }) {
 
   const navItems = [
     { href: '/konzept', label: t('nav.konzept') },
+    { href: '/nachhaltigkeit', label: t('nav.nachhaltigkeit') },
     { href: '/angebote', label: t('nav.angebote') },
     { href: '/mitmachen', label: t('nav.mitmachen') },
     { href: '/spenden', label: t('nav.spenden') },
+    { href: '/dokumente', label: t('nav.dokumente') },
     { href: '/app', label: t('nav.app') },
     { href: '/zellen', label: t('nav.zellen') },
     { href: '/presse', label: t('nav.presse') },
@@ -149,7 +151,7 @@ export function Header({ locale }: { locale: Locale }) {
 
           {/* Login Button */}
           <a
-            href="https://app.backtobalance.online"
+            href="https://app.b-t-m-m.com"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"
@@ -200,21 +202,6 @@ export function Header({ locale }: { locale: Locale }) {
                 {item.label}
               </Link>
             ))}
-            <Link
-              href="/dokumente"
-              onClick={() => setMenuOpen(false)}
-              style={{
-                padding: '0.6rem 0.75rem',
-                borderRadius: 6,
-                fontSize: '1rem',
-                fontWeight: 500,
-                color: 'var(--btb-dunkel)',
-                textDecoration: 'none',
-              }}
-              className="hover:bg-btb-creme"
-            >
-              {t('nav.dokumente')}
-            </Link>
           </nav>
         </div>
       )}

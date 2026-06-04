@@ -34,14 +34,14 @@ export function Footer() {
               {t('footer.tagline')}
             </p>
             <a
-              href="mailto:kontakt@backtobalance.online"
+              href="mailto:office@b-t-m-m.com"
               style={{
                 display: 'inline-flex', alignItems: 'center', gap: '0.4rem',
                 color: 'var(--btb-oliv)', fontSize: '0.875rem', textDecoration: 'none',
               }}
             >
               <Mail size={15} />
-              kontakt@backtobalance.online
+              office@b-t-m-m.com
             </a>
           </div>
 
@@ -149,7 +149,7 @@ export function Footer() {
               Die BtMM-App für Mitglieder
             </p>
             <a
-              href="https://app.backtobalance.online"
+              href="https://app.b-t-m-m.com"
               target="_blank"
               rel="noopener noreferrer"
               style={{
@@ -157,7 +157,7 @@ export function Footer() {
                 color: 'var(--btb-oliv)', fontSize: '0.875rem', textDecoration: 'none', fontWeight: 600,
               }}
             >
-              app.backtobalance.online
+              app.b-t-m-m.com
               <ExternalLink size={13} />
             </a>
           </div>

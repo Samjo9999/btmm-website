@@ -151,7 +151,7 @@ export default async function HomePage() {
                 icon: <Leaf size={32} style={{ color: 'var(--btb-oliv)' }} />,
                 titel: 'Nachhaltigkeit',
                 text: 'Wirtschaft, die Ressourcen respektiert und für zukünftige Generationen bewahrt.',
-                href: '/konzept',
+                href: '/nachhaltigkeit',
               },
             ].map((item, i) => (
               <SectionReveal key={i} delay={i * 0.15}>
@@ -258,7 +258,7 @@ export default async function HomePage() {
               Zur App
             </Link>
             <a
-              href="https://app.backtobalance.online"
+              href="https://app.b-t-m-m.com"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"

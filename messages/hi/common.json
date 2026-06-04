@@ -1,15 +1,16 @@
 {
   "nav": {
     "konzept": "अवधारणा",
+    "nachhaltigkeit": "स्थायित्व",
     "koerperarbeit": "शारीरिक कार्य",
     "angebote": "सेवाएँ",
     "mitmachen": "भाग लें",
     "spenden": "दान करें",
     "app": "ऐप",
-    "zellen": "सेल",
-    "faq": "अक्सर पूछे जाने वाले प्रश्न",
     "dokumente": "दस्तावेज़",
+    "zellen": "सेल",
     "presse": "प्रेस",
+    "faq": "अक्सर पूछे जाने वाले प्रश्न",
     "login": "लॉगिन"
   },
   "footer": {

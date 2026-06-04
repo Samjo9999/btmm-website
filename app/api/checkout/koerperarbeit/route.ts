@@ -18,7 +18,7 @@ export async function POST(request: NextRequest) {
     const { produkt, name, email } = schema.parse(body)
 
     const prod = PRODUKTE[produkt]
-    const origin = request.headers.get('origin') || 'https://backtobalance.online'
+    const origin = request.headers.get('origin') || 'https://b-t-m-m.com'
 
     const session = await getStripe().checkout.sessions.create({
       mode: 'payment',

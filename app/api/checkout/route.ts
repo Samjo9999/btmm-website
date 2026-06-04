@@ -24,7 +24,7 @@ export async function POST(request: NextRequest) {
 
     const body = await request.json()
     const data = schema.parse(body)
-    const origin = request.headers.get('origin') || 'https://backtobalance.online'
+    const origin = request.headers.get('origin') || 'https://b-t-m-m.com'
     const stripe = getStripe()
 
     // ── Freie Spende ──────────────────────────────────────────────

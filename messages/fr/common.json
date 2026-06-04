@@ -1,15 +1,16 @@
 {
   "nav": {
     "konzept": "Concept",
+    "nachhaltigkeit": "Durabilité",
     "koerperarbeit": "Travail corporel",
     "angebote": "Offres",
     "mitmachen": "Participer",
     "spenden": "Dons",
     "app": "Appli",
-    "zellen": "Cellules",
-    "faq": "FAQ",
     "dokumente": "Documents",
+    "zellen": "Cellules",
     "presse": "Presse",
+    "faq": "FAQ",
     "login": "Connexion"
   },
   "footer": {

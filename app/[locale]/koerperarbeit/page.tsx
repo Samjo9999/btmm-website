@@ -13,7 +13,7 @@ export const dynamic = 'force-dynamic'
 export const metadata: Metadata = {
   title: 'Körperarbeit Freiburg – BtMM ganzheitliche Begleitung',
   description: 'Körperarbeit und ganzheitliche Begleitung in Freiburg. BtMM-Methode für mehr Gleichgewicht, Vitalität und Lebendigkeit. Ganzheitliche Körperarbeit Freiburg.',
-  keywords: ['Körperarbeit Freiburg', 'ganzheitliche Körperarbeit', 'ganzheitliche Körperarbeit Freiburg', 'BtB Körperarbeit', 'Bodywork Freiburg'],
+  keywords: ['Körperarbeit Freiburg', 'ganzheitliche Körperarbeit', 'ganzheitliche Körperarbeit Freiburg', 'BtMM Körperarbeit', 'Bodywork Freiburg'],
 }
 
 export default async function KoerperarbeitPage() {

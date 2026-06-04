@@ -17,14 +17,14 @@ export const metadata: Metadata = {
 
 async function getDokumente() {
   const dokumente = [
-    { slug: 'konzept', titel: 'Vollkonzept', version: 'v16.1.0 — April 2026' },
-    { slug: 'satzung', titel: 'Satzung eG & e.V.', version: 'Entwurf 2026' },
-    { slug: 'einfuehrung', titel: 'Einführung', version: '2026' },
-    { slug: 'wirtschaften', titel: 'Wirtschaften im System', version: 'v1.1.0 — April 2026' },
-    { slug: 'ideen-horizont', titel: 'Ideen & Horizonte', version: 'v2.0.0 — April 2026' },
-    { slug: 'gemeinschaftskultur', titel: 'Gemeinschaftskultur', version: '2026' },
-    { slug: 'spendenaufruf', titel: 'Spendenaufruf', version: '2026' },
-    { slug: 'handwerk', titel: 'Handwerk & Zulassungen', version: '2026' },
+    { slug: 'konzept', titel: 'Vollkonzept', version: 'v16.1.0' },
+    { slug: 'satzung', titel: 'Satzung eG & e.V.', version: 'Entwurf' },
+    { slug: 'einfuehrung', titel: 'Einführung', version: 'Aktuell' },
+    { slug: 'wirtschaften', titel: 'Wirtschaften im System', version: 'v1.1.0' },
+    { slug: 'ideen-horizont', titel: 'Ideen & Horizonte', version: 'v2.0.0' },
+    { slug: 'gemeinschaftskultur', titel: 'Gemeinschaftskultur', version: 'Aktuell' },
+    { slug: 'spendenaufruf', titel: 'Spendenaufruf', version: 'Aktuell' },
+    { slug: 'handwerk', titel: 'Handwerk & Zulassungen', version: 'Aktuell' },
   ]
 
   return dokumente.map((doc) => {

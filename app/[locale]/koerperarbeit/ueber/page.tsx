@@ -12,7 +12,7 @@ import contactData from '@/data/contact.json'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Über den Begleiter – Körperarbeit Freiburg | BtB',
+  title: 'Über den Begleiter – Körperarbeit Freiburg | BtMM',
   description: 'Samjo – Körperarbeiter und Begleiter bei Back to Meaning Maximization in Freiburg. Ausbildung, Ansatz und Hintergrund.',
 }
 

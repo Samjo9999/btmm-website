@@ -11,7 +11,7 @@ import contactData from '@/data/contact.json'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Ablauf einer Sitzung – Körperarbeit Freiburg | BtB',
+  title: 'Ablauf einer Sitzung – Körperarbeit Freiburg | BtMM',
   description: 'Was dich in einer Sitzung BtMM-Körperarbeit erwartet: Ankommen, Prozess, Integration, Nachklingen.',
 }
 

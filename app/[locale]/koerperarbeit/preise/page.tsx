@@ -146,7 +146,7 @@ export default function PreisePage() {
           }}>
             <Euro size={18} style={{ color: 'var(--btb-blau)', flexShrink: 0, marginTop: 2 }} />
             <p style={{ lineHeight: 1.7, color: 'var(--btb-dunkel)' }}>
-              <strong>BtB-Mitglieder:</strong> {prices.intern_hinweis}
+              <strong>BtMM-Mitglieder:</strong> {prices.intern_hinweis}
             </p>
           </div>
 

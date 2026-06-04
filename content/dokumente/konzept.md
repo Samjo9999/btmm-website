@@ -1,6 +1,6 @@
 # Back to Meaning Maximization – Ein Universum im Entstehen
 
-**Johannes-Samuel Gartzke · Version 16.1.0 — April 2026**
+**Johannes-Samuel Gartzke · Version 16.1.0**
 
 > Eine Saat liegt im Kern verschlossen. Sie ist noch nicht gekeimt. Aber sie ist lebendig. Was folgt, sind keine Versprechen. Es sind Möglichkeiten – Ziele, die wachsen könnten, wenn Menschen ihnen Raum geben.
 

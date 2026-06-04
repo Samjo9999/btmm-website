@@ -1,15 +1,16 @@
 {
   "nav": {
     "konzept": "Концепция",
+    "nachhaltigkeit": "Устойчивость",
     "koerperarbeit": "Телесная работа",
     "angebote": "Услуги",
     "mitmachen": "Участвовать",
     "spenden": "Пожертвования",
     "app": "Приложение",
-    "zellen": "Ячейки",
-    "faq": "FAQ",
     "dokumente": "Документы",
+    "zellen": "Ячейки",
     "presse": "Пресса",
+    "faq": "FAQ",
     "login": "Вход"
   },
   "footer": {

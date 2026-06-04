@@ -1,15 +1,16 @@
 {
   "nav": {
     "konzept": "理念",
+    "nachhaltigkeit": "可持续性",
     "koerperarbeit": "身体疗愈",
     "angebote": "服务",
     "mitmachen": "参与",
     "spenden": "捐赠",
     "app": "应用",
-    "zellen": "细胞组",
-    "faq": "常见问题",
     "dokumente": "文件",
+    "zellen": "细胞组",
     "presse": "新闻",
+    "faq": "常见问题",
     "login": "登录"
   },
   "footer": {

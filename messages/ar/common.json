@@ -1,15 +1,16 @@
 {
   "nav": {
     "konzept": "المفهوم",
+    "nachhaltigkeit": "الاستدامة",
     "koerperarbeit": "العمل الجسدي",
     "angebote": "العروض",
     "mitmachen": "المشاركة",
     "spenden": "التبرع",
     "app": "التطبيق",
-    "zellen": "الخلايا",
-    "faq": "الأسئلة الشائعة",
     "dokumente": "الوثائق",
+    "zellen": "الخلايا",
     "presse": "الصحافة",
+    "faq": "الأسئلة الشائعة",
     "login": "تسجيل الدخول"
   },
   "footer": {

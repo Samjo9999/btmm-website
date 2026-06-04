@@ -1,15 +1,16 @@
 {
   "nav": {
     "konzept": "コンセプト",
+    "nachhaltigkeit": "持続可能性",
     "koerperarbeit": "ボディワーク",
     "angebote": "サービス",
     "mitmachen": "参加する",
     "spenden": "寄付",
     "app": "アプリ",
-    "zellen": "セル",
-    "faq": "FAQ",
     "dokumente": "ドキュメント",
+    "zellen": "セル",
     "presse": "プレス",
+    "faq": "FAQ",
     "login": "ログイン"
   },
   "footer": {

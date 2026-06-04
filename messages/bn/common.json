@@ -1,15 +1,16 @@
 {
   "nav": {
     "konzept": "ধারণা",
+    "nachhaltigkeit": "টেকসই উন্নয়ন",
     "koerperarbeit": "শরীরকর্ম",
     "angebote": "সেবা",
     "mitmachen": "অংশগ্রহণ",
     "spenden": "দান",
     "app": "অ্যাপ",
-    "zellen": "সেল",
-    "faq": "সাধারণ জিজ্ঞাসা",
     "dokumente": "নথিপত্র",
+    "zellen": "সেল",
     "presse": "সংবাদ",
+    "faq": "সাধারণ জিজ্ঞাসা",
     "login": "লগইন"
   },
   "footer": {

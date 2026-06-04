@@ -18,7 +18,7 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
     ? `
       <div style="font-family: Georgia, serif; max-width: 560px; margin: 0 auto; color: #1a1505;">
         <div style="text-align: center; padding: 2rem 0;">
-          <img src="https://backtobalance.online/logo.png" alt="BtMM" width="80" style="margin-bottom: 1rem;" />
+          <img src="https://b-t-m-m.com/logo.png" alt="BtMM" width="80" style="margin-bottom: 1rem;" />
         </div>
         <h1 style="color: #8fa942; font-size: 1.6rem;">Danke für deine Spende!</h1>
         <p style="line-height: 1.8;">
@@ -43,14 +43,14 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
         <p style="line-height: 1.8;">Herzliche Grüße,<br/><strong>Das Back to Meaning Maximization Team</strong></p>
         <hr style="border: none; height: 1px; background: #f0e9b6; margin: 2rem 0;" />
         <p style="font-size: 0.8rem; opacity: 0.5; text-align: center;">
-          Back to Meaning Maximization · Freiburg · <a href="https://backtobalance.online" style="color: #2a7cab;">backtobalance.online</a>
+          Back to Meaning Maximization · Freiburg · <a href="https://b-t-m-m.com" style="color: #2a7cab;">b-t-m-m.com</a>
         </p>
       </div>
     `
     : `
       <div style="font-family: Georgia, serif; max-width: 560px; margin: 0 auto; color: #1a1505;">
         <div style="text-align: center; padding: 2rem 0;">
-          <img src="https://backtobalance.online/logo.png" alt="BtMM" width="80" style="margin-bottom: 1rem;" />
+          <img src="https://b-t-m-m.com/logo.png" alt="BtMM" width="80" style="margin-bottom: 1rem;" />
         </div>
         <h1 style="color: #b61818; font-size: 1.6rem;">Buchungsbestätigung</h1>
         <p style="line-height: 1.8;">
@@ -70,7 +70,7 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
           Du kannst auch direkt einen Termin buchen:
         </p>
         <p>
-          <a href="https://backtobalance.online/koerperarbeit/preise"
+          <a href="https://b-t-m-m.com/koerperarbeit/preise"
              style="display: inline-block; background: #2a7cab; color: white; padding: 0.6rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 600;">
             Termin vereinbaren
           </a>
@@ -78,14 +78,14 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
         <p style="line-height: 1.8; margin-top: 1.5rem;">Herzliche Grüße,<br/><strong>Samjo — Back to Meaning Maximization Körperarbeit</strong></p>
         <hr style="border: none; height: 1px; background: #f0e9b6; margin: 2rem 0;" />
         <p style="font-size: 0.8rem; opacity: 0.5; text-align: center;">
-          Back to Meaning Maximization · Freiburg · <a href="https://backtobalance.online" style="color: #2a7cab;">backtobalance.online</a>
+          Back to Meaning Maximization · Freiburg · <a href="https://b-t-m-m.com" style="color: #2a7cab;">b-t-m-m.com</a>
         </p>
       </div>
     `
 
   try {
     await resend.emails.send({
-      from: 'Back to Meaning Maximization <noreply@backtobalance.online>',
+      from: 'Back to Meaning Maximization <noreply@b-t-m-m.com>',
       to: [email],
       subject: betreff,
       html,

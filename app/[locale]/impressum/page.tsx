@@ -42,7 +42,7 @@ export default async function ImpressumPage() {
               <div className="prose-btb">
                 <h3>Angaben gemäß § 5 DDG (ehem. TMG)</h3>
                 <p>
-                  Johannes-Samuel Gartzke<br />
+                  Back to Meaning Maximization eG<br />
                   Hildastr. 12<br />
                   79102 Freiburg im Breisgau<br />
                   Deutschland
@@ -50,12 +50,13 @@ export default async function ImpressumPage() {
 
                 <h3>Kontakt</h3>
                 <p>
-                  E-Mail: back.to.balance.gartzke@gmail.com
+                  E-Mail: office@b-t-m-m.com<br />
+                  Website: www.b-t-m-m.com
                 </p>
 
                 <h3>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h3>
                 <p>
-                  Johannes-Samuel Gartzke<br />
+                  Back to Meaning Maximization eG<br />
                   Hildastr. 12<br />
                   79102 Freiburg im Breisgau
                 </p>
@@ -207,10 +208,10 @@ export default async function ImpressumPage() {
                 <h4>Hinweis zur verantwortlichen Stelle</h4>
                 <p>
                   Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:<br /><br />
-                  Johannes-Samuel Gartzke<br />
+                  Back to Meaning Maximization eG + e.V.<br />
                   Hildastr. 12<br />
                   79102 Freiburg im Breisgau<br /><br />
-                  E-Mail: back.to.balance.gartzke@gmail.com
+                  E-Mail: office@b-t-m-m.com
                 </p>
                 <p>
                   Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder

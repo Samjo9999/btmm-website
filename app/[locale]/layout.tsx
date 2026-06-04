@@ -36,11 +36,11 @@ export const metadata: Metadata = {
   },
   description:
     'Back to Meaning Maximization verbindet wirtschaftliche Stärke mit menschlicher Würde. Somatische Körperarbeit, Gemeinschaft und ein alternatives Wirtschaftsmodell in Freiburg.',
-  metadataBase: new URL('https://backtobalance.online'),
+  metadataBase: new URL('https://b-t-m-m.com'),
   openGraph: {
     type: 'website',
     locale: 'de_DE',
-    url: 'https://backtobalance.online',
+    url: 'https://b-t-m-m.com',
     siteName: 'Back to Meaning Maximization',
     images: [{ url: '/og-image.png', width: 1200, height: 630 }],
   },

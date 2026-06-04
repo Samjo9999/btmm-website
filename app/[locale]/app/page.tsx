@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Die BtMM-App – Back to Meaning Maximization',
-  description: 'Die BtMM-App für Mitglieder: Pool, Coins, Workspace, Abstimmung und Berufsmodule. Login unter app.backtobalance.online.',
+  description: 'Die BtMM-App für Mitglieder: Pool, Coins, Workspace, Abstimmung und Berufsmodule. Login unter app.b-t-m-m.com.',
 }
 
 const features = [
@@ -87,7 +87,7 @@ export default async function AppPage() {
             Die BtMM-App ist das digitale Zuhause der Gemeinschaft. Hier werden Ressourcen verwaltet, Entscheidungen getroffen und Leistungen getauscht.
           </p>
           <a
-            href="https://app.backtobalance.online"
+            href="https://app.b-t-m-m.com"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"
@@ -170,13 +170,13 @@ export default async function AppPage() {
             </p>
             <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
               <a
-                href="https://app.backtobalance.online"
+                href="https://app.b-t-m-m.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary"
                 style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem' }}
               >
-                Login → app.backtobalance.online <ExternalLink size={15} />
+                Login → app.b-t-m-m.com <ExternalLink size={15} />
               </a>
               <Link href="/mitmachen" style={{
                 background: 'transparent',

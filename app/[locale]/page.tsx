@@ -258,7 +258,7 @@ export default async function HomePage() {
               Zur App
             </Link>
             <a
-              href="https://app.backtobalance.online"
+              href="https://app.b-t-m-m.com"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"

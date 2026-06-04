@@ -421,7 +421,7 @@ export default function PreisePage() {
 
           <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginBottom: '1rem' }}>
             <Link href="/mitmachen" className="btn-secondary">
-              BtB-Mitglied werden
+              BtMM-Mitglied werden
             </Link>
             <Link href="/koerperarbeit/bewertungen" className="btn-secondary">
               Kundenerfahrungen ansehen

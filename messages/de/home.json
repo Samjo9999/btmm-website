@@ -5,17 +5,19 @@
     "cta_konzept": "Konzept kennenlernen",
     "cta_mitmachen": "Jetzt mitmachen"
   },
-  "was_ist_btb": {
+  "was_ist_btmm": {
     "titel": "Was ist Back to Meaning Maximization?",
     "wirtschaft_titel": "Wirtschaft",
     "wirtschaft_text": "Ein Wirtschaftsmodell, das auf gegenseitiger Unterstützung statt auf Konkurrenz aufbaut. Gemeinsame Ressourcen stärken jeden Einzelnen.",
     "gemeinschaft_titel": "Gemeinschaft",
-    "gemeinschaft_text": "Lokale Zellen bilden das Herzstück von BtB. Menschen kommen zusammen, unterstützen sich und gestalten gemeinsam ihre wirtschaftliche Zukunft.",
+    "gemeinschaft_text": "Lokale Zellen bilden das Herzstück von BtMM. Menschen kommen zusammen, unterstützen sich und gestalten gemeinsam ihre wirtschaftliche Zukunft.",
     "nachhaltigkeit_titel": "Nachhaltigkeit",
-    "nachhaltigkeit_text": "Kein Greenwashing, keine Kompromisse. Kein Amazon, kein Nestlé, kein Apple. BtB wirtschaftet regional, reparierbar und transparent — mit Konzernen, deren Geschäftsmodell auf Ausbeutung beruht, wird kategorisch nicht gehandelt."
+    "nachhaltigkeit_text": "Geplante eingetragene Genossenschaft (eG) + Förderverein (e.V.). Kein Greenwashing, keine Kompromisse. Kein Amazon, kein Nestlé, kein Apple. BtMM wirtschaftet regional, reparierbar und transparent — mit Konzernen, deren Geschäftsmodell auf Ausbeutung beruht, wird kategorisch nicht gehandelt.",
+    "nachhaltigkeit_mehr_erfahren": "Mehr über Nachhaltigkeit",
+    "nachhaltigkeit_mehr_erfahren_url": "/konzept/nachhaltigkeit"
   },
   "stats": {
-    "titel": "BtB in Zahlen",
+    "titel": "BtMM in Zahlen",
     "gruendungsmitglieder": "Gründungsmitglieder",
     "gruendungsmitglieder_ziel": "von 7",
     "aktive_zellen": "Aktive Zellen",
@@ -29,11 +31,11 @@
     "cta": "Angebote entdecken"
   },
   "app_teaser": {
-    "titel": "Die BtB-App",
+    "titel": "Die BtMM-App",
     "untertitel": "Dein digitales Werkzeug für die Gemeinschaft",
     "pool_titel": "Pool",
     "pool_text": "Gemeinsame Ressourcen, die jedem Mitglied zugutekommen.",
-    "coins_titel": "BtB-Coins",
+    "coins_titel": "BtMM-Coins",
     "coins_text": "Interne Währung für den Tausch von Leistungen innerhalb der Gemeinschaft.",
     "workspace_titel": "Workspace",
     "workspace_text": "Gemeinsamer digitaler Arbeitsraum für Projekte und Zusammenarbeit.",
@@ -41,13 +43,13 @@
     "hinweis": "Nur für Mitglieder"
   },
   "spenden_teaser": {
-    "titel": "Unterstütze BtB",
+    "titel": "Unterstütze BtMM",
     "text": "Deine Spende hilft uns, die Infrastruktur aufzubauen, die eine gerechtere Wirtschaft ermöglicht. Jeder Beitrag zählt.",
     "cta": "Jetzt spenden"
   },
   "zellen_karte": {
-    "titel": "BtB-Zellen weltweit",
-    "text": "Überall auf der Welt entstehen BtB-Zellen – lokale Gemeinschaften, die gemeinsam wirtschaften."
+    "titel": "BtMM-Zellen weltweit",
+    "text": "Überall auf der Welt entstehen BtMM-Zellen – lokale Gemeinschaften, die gemeinsam wirtschaften."
   },
   "hero_poetisch": "Wie ein Wald, in dem jeder Baum vom Netzwerk der Wurzeln getragen wird – so entsteht ein Wirtschaftssystem, das jeden stärkt, der Teil davon ist.",
   "hero_subtitel2": "Ein Universum im Entstehen — Freiburg — Deutschland — Weltweit",
@@ -55,5 +57,35 @@
   "infinity": {
     "text": "Das bestehende System dreht sich im Kreis – immer schneller, immer enger. Back to Meaning Maximization ist der Moment, in dem die Schleife aufbricht und etwas Neues entsteht."
   },
-  "zellen_alle": "Alle Zellen ansehen"
+  "zellen_alle": "Alle Zellen ansehen",
+  "mitgliedschaft": {
+    "titel": "Mitgliedschaft",
+    "untertitel": "Vier Wege, Teil von BtMM zu sein",
+    "stufen": [
+      {
+        "stufe": "Unterstützer",
+        "preis": "ab €50/Jahr",
+        "beschreibung": "Zeit, Fähigkeiten, Spenden",
+        "benefits": "10% Rabatt auf externe Leistungen"
+      },
+      {
+        "stufe": "Fördermitglied",
+        "preis": "€1.000/Jahr",
+        "beschreibung": "Frühes Commitment",
+        "benefits": "Einkaufspreise sofort"
+      },
+      {
+        "stufe": "Anwärter",
+        "preis": "Variable Beteiligung",
+        "beschreibung": "Übergang zur Aktivmitgliedschaft",
+        "benefits": "Kostenpreise auf ausgewählte Leistungen"
+      },
+      {
+        "stufe": "Vollmitglied",
+        "preis": "Aktivmitgliedschaft",
+        "beschreibung": "Vollständige Partizipation",
+        "benefits": "Vergütung, Stimmrecht, Solidarfonds"
+      }
+    ]
+  }
 }

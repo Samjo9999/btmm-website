@@ -325,7 +325,7 @@ export default async function ChronikPage() {
                 lineHeight: 1.7,
               }}
             >
-              Diese Chronik wird von unseren Mitgliedern über die BtB Universe
+              Diese Chronik wird von unseren Mitgliedern über die BtMM Universe
               App gepflegt. Jeder Eintrag wird vor der Veröffentlichung
               geprüft.
             </p>

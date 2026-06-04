@@ -9,9 +9,9 @@
     "app": "App"
   },
   "fragen": {
-    "was_ist_btb": {
+    "was_ist_btmm": {
       "frage": "O que é Back to Meaning Maximization?",
-      "antwort": "Back to Meaning Maximization (BtB) é um projeto comunitário que desenvolve e testa um modelo económico alternativo."
+      "antwort": "Back to Meaning Maximization (BtMM) é um projeto comunitário que desenvolve e testa um modelo económico alternativo."
     },
     "wie_mitmachen": {
       "frage": "Como posso participar?",
@@ -22,20 +22,20 @@
       "antwort": "A adesão como patrocinador na associação custa a partir de 50€ por ano."
     },
     "was_sind_coins": {
-      "frage": "O que são BtB-Coins?",
-      "antwort": "BtB-Coins são a moeda interna da comunidade. 1 Coin = 1 hora de trabalho."
+      "frage": "O que são BtMM-Coins?",
+      "antwort": "BtMM-Coins são a moeda interna da comunidade. 1 Coin = 1 hora de trabalho."
     },
     "koerperarbeit_unterschied": {
-      "frage": "O que distingue o trabalho corporal BtB?",
-      "antwort": "O trabalho corporal BtB é um acompanhamento somático, não uma terapia."
+      "frage": "O que distingue o trabalho corporal BtMM?",
+      "antwort": "O trabalho corporal BtMM é um acompanhamento somático, não uma terapia."
     },
     "spenden_wohin": {
       "frage": "Para onde vai a minha doação?",
-      "antwort": "Para a construção da infraestrutura BtB."
+      "antwort": "Para a construção da infraestrutura BtMM."
     },
     "app_login": {
-      "frage": "Como acedo à App BtB?",
-      "antwort": "A App BtB funciona em app.backtobalance.online."
+      "frage": "Como acedo à App BtMM?",
+      "antwort": "A App BtMM funciona em app.backtobalance.online."
     },
     "zelle_gruenden": {
       "frage": "Posso fundar a minha própria célula?",

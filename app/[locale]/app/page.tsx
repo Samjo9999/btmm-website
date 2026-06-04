@@ -8,8 +8,8 @@ import { HeroImageLightbox } from '@/components/HeroImageLightbox'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Die BtB-App – Back to Meaning Maximization',
-  description: 'Die BtB-App für Mitglieder: Pool, Coins, Workspace, Abstimmung und Berufsmodule. Login unter app.backtobalance.online.',
+  title: 'Die BtMM-App – Back to Meaning Maximization',
+  description: 'Die BtMM-App für Mitglieder: Pool, Coins, Workspace, Abstimmung und Berufsmodule. Login unter app.backtobalance.online.',
 }
 
 const features = [
@@ -21,8 +21,8 @@ const features = [
   },
   {
     icon: CreditCard,
-    titel: 'BtB-Coins',
-    text: 'Mitglieder können Leistungen über BtB-Coins tauschen – ohne Geldfluss. Körperarbeit gegen Beratung, Handwerk gegen Bildung. Die interne Währung macht den Tausch einfach und nachvollziehbar.',
+    titel: 'BtMM-Coins',
+    text: 'Mitglieder können Leistungen über BtMM-Coins tauschen – ohne Geldfluss. Körperarbeit gegen Beratung, Handwerk gegen Bildung. Die interne Währung macht den Tausch einfach und nachvollziehbar.',
     color: 'var(--btb-oliv)',
   },
   {
@@ -40,7 +40,7 @@ const features = [
   {
     icon: BookOpen,
     titel: 'Berufsmodule',
-    text: 'Spezifische Module für verschiedene Berufsfelder – Handwerk, Beratung, Bildung, Gesundheit. Jedes Modul unterstützt die Besonderheiten der jeweiligen Branche innerhalb des BtB-Systems.',
+    text: 'Spezifische Module für verschiedene Berufsfelder – Handwerk, Beratung, Bildung, Gesundheit. Jedes Modul unterstützt die Besonderheiten der jeweiligen Branche innerhalb des BtMM-Systems.',
     color: 'var(--btb-oliv)',
   },
 ]
@@ -72,7 +72,7 @@ export default async function AppPage() {
             color: 'var(--btb-creme)',
             marginBottom: '1rem',
           }}>
-            Die BtB-App
+            Die BtMM-App
           </h1>
           <p style={{
             color: 'var(--btb-oliv)',
@@ -84,7 +84,7 @@ export default async function AppPage() {
             Dein digitales Werkzeug für die Gemeinschaft
           </p>
           <p style={{ color: 'var(--btb-creme)', opacity: 0.8, lineHeight: 1.75, marginBottom: '2rem', maxWidth: 520, margin: '0 auto 2rem' }}>
-            Die BtB-App ist das digitale Zuhause der Gemeinschaft. Hier werden Ressourcen verwaltet, Entscheidungen getroffen und Leistungen getauscht.
+            Die BtMM-App ist das digitale Zuhause der Gemeinschaft. Hier werden Ressourcen verwaltet, Entscheidungen getroffen und Leistungen getauscht.
           </p>
           <a
             href="https://app.backtobalance.online"
@@ -166,7 +166,7 @@ export default async function AppPage() {
               Nur für Mitglieder
             </h2>
             <p style={{ color: 'var(--btb-creme)', opacity: 0.75, lineHeight: 1.75, marginBottom: '2rem' }}>
-              Die App ist ausschließlich für BtB-Mitglieder zugänglich. Werde Mitglied und erhalte Zugang zu allen Funktionen.
+              Die App ist ausschließlich für BtMM-Mitglieder zugänglich. Werde Mitglied und erhalte Zugang zu allen Funktionen.
             </p>
             <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
               <a

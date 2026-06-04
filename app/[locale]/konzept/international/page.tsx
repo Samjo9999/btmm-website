@@ -8,7 +8,7 @@ import { HeroImageLightbox } from '@/components/HeroImageLightbox'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'International – BtB Konzept',
+  title: 'International – BtMM Konzept',
   description: 'Einheitliches System, weltweite Zellen und politische Wirkung durch Existenz: Die internationale Vision von Back to Meaning Maximization.',
 }
 

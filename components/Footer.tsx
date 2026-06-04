@@ -146,7 +146,7 @@ export function Footer() {
               App
             </h4>
             <p style={{ fontSize: '0.875rem', opacity: 0.7, marginBottom: '0.75rem', lineHeight: 1.5 }}>
-              Die BtB-App für Mitglieder
+              Die BtMM-App für Mitglieder
             </p>
             <a
               href="https://app.backtobalance.online"

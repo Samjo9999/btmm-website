@@ -5,17 +5,19 @@
     "cta_konzept": "Conocer el concepto",
     "cta_mitmachen": "Participar ahora"
   },
-  "was_ist_btb": {
+  "was_ist_btmm": {
     "titel": "¿Qué es Back to Meaning Maximization?",
     "wirtschaft_titel": "Economía",
     "wirtschaft_text": "Un modelo económico basado en el apoyo mutuo en lugar de la competencia. Los recursos compartidos fortalecen a cada individuo.",
     "gemeinschaft_titel": "Comunidad",
-    "gemeinschaft_text": "Las células locales son el corazón de BtB. Las personas se reúnen, se apoyan mutuamente y construyen juntas su futuro económico.",
+    "gemeinschaft_text": "Las células locales son el corazón de BtMM. Las personas se reúnen, se apoyan mutuamente y construyen juntas su futuro económico.",
     "nachhaltigkeit_titel": "Sostenibilidad",
-    "nachhaltigkeit_text": "Pensamiento a largo plazo en lugar de beneficio a corto plazo. BtB apuesta por estructuras que perduren y crezcan a lo largo de generaciones."
+    "nachhaltigkeit_text": "Cooperativa registrada prevista (eG) + asociación de apoyo (e.V.). Pensamiento a largo plazo en lugar de beneficio a corto plazo. BtMM apuesta por estructuras que perduren y crezcan a lo largo de generaciones."
+    'nachhaltigkeit_mehr_erfahren': 'Mehr erfahren',
+    'nachhaltigkeit_mehr_erfahren_url': '/concept/sustainability'
   },
   "stats": {
-    "titel": "BtB en cifras",
+    "titel": "BtMM en cifras",
     "gruendungsmitglieder": "Miembros fundadores",
     "gruendungsmitglieder_ziel": "de 7",
     "aktive_zellen": "Células activas",
@@ -29,11 +31,11 @@
     "cta": "Descubrir ofertas"
   },
   "app_teaser": {
-    "titel": "La app de BtB",
+    "titel": "La app de BtMM",
     "untertitel": "Tu herramienta digital para la comunidad",
     "pool_titel": "Pool",
     "pool_text": "Recursos compartidos que benefician a cada miembro.",
-    "coins_titel": "BtB-Coins",
+    "coins_titel": "BtMM-Coins",
     "coins_text": "Moneda interna para el intercambio de servicios dentro de la comunidad.",
     "workspace_titel": "Workspace",
     "workspace_text": "Espacio de trabajo digital compartido para proyectos y colaboración.",
@@ -41,12 +43,12 @@
     "hinweis": "Solo para miembros"
   },
   "spenden_teaser": {
-    "titel": "Apoya a BtB",
+    "titel": "Apoya a BtMM",
     "text": "Tu donación nos ayuda a construir la infraestructura que hace posible una economía más justa. Cada aportación cuenta.",
     "cta": "Donar ahora"
   },
   "zellen_karte": {
-    "titel": "Células BtB en el mundo",
-    "text": "En todo el mundo surgen células BtB: comunidades locales que gestionan su economía de forma conjunta."
+    "titel": "Células BtMM en el mundo",
+    "text": "En todo el mundo surgen células BtMM: comunidades locales que gestionan su economía de forma conjunta."
   }
-  ,"hero_poetisch": "Como un bosque, donde cada árbol es sostenido por la red de raíces – así surge un sistema económico que fortalece a cada uno de sus miembros.","hero_subtitel2": "Un universo en formación · Freiburg · Mundial","was_ist_btb_sub": "Tres pilares – un todo","infinity": {"text": "El sistema existente gira en círculos – cada vez más rápido, cada vez más estrecho. Back to Meaning Maximization es el momento en que el bucle se rompe y algo nuevo emerge."},"zellen_alle": "Ver todas las células"}
+  ,"hero_poetisch": "Como un bosque, donde cada árbol es sostenido por la red de raíces – así surge un sistema económico que fortalece a cada uno de sus miembros.","hero_subtitel2": "Un universo en formación · Freiburg · Mundial","was_ist_btb_sub": "Tres pilares – un todo","infinity": {"text": "El sistema existente gira en círculos – cada vez más rápido, cada vez más estrecho. Back to Meaning Maximization es el momento en que el bucle se rompe y algo nuevo emerge."},"zellen_alle": "Ver todas las células","mitgliedschaft": {"titel": "Membresía","untertitel": "Cuatro formas de ser parte de BtMM","stufen": [{"stufe": "Colaborador","preis": "desde €50/año","beschreibung": "Tiempo, habilidades, donaciones","benefits": "10% descuento en servicios externos"},{"stufe": "Miembro Patrocinador","preis": "€1.000/año","beschreibung": "Compromiso temprano","benefits": "Precios mayoristas inmediatamente"},{"stufe": "Aprendiz","preis": "Participación variable","beschreibung": "Transición a membresía activa","benefits": "Precios de costo en servicios seleccionados"},{"stufe": "Miembro Pleno","preis": "Membresía activa","beschreibung": "Participación completa","benefits": "Compensación, derecho a voto, fondo de solidaridad"}]}}

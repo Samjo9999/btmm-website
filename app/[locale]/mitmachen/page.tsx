@@ -210,7 +210,7 @@ export default async function MitmachenPage() {
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '0.6rem', marginBottom: '1.75rem' }}>
                   {[
                     'Vollständige Vergütung über den Pool',
-                    'BtB-Coins für jede geleistete Stunde',
+                    'BtMM-Coins für jede geleistete Stunde',
                     'Alles intern zum Einkaufspreis',
                     'Stimmrecht bei allen Entscheidungen',
                     'Solidarfonds bei Krankheit & Elternzeit',

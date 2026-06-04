@@ -14,7 +14,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Kontakt & Anfahrt – Körperarbeit Freiburg | BtB',
-  description: 'Kontakt für BtB-Körperarbeit in Freiburg. Adresse, Telefon, E-Mail und Anfahrt.',
+  description: 'Kontakt für BtMM-Körperarbeit in Freiburg. Adresse, Telefon, E-Mail und Anfahrt.',
 }
 
 export default async function KontaktPage() {

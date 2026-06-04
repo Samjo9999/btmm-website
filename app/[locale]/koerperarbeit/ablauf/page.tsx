@@ -12,7 +12,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Ablauf einer Sitzung – Körperarbeit Freiburg | BtB',
-  description: 'Was dich in einer Sitzung BtB-Körperarbeit erwartet: Ankommen, Prozess, Integration, Nachklingen.',
+  description: 'Was dich in einer Sitzung BtMM-Körperarbeit erwartet: Ankommen, Prozess, Integration, Nachklingen.',
 }
 
 export default async function AblaufPage() {

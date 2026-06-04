@@ -5,17 +5,19 @@
     "cta_konzept": "Explore the concept",
     "cta_mitmachen": "Join now"
   },
-  "was_ist_btb": {
+  "was_ist_btmm": {
     "titel": "What is Back to Meaning Maximization?",
     "wirtschaft_titel": "Economy",
     "wirtschaft_text": "An economic model built on mutual support rather than competition. Shared resources strengthen each individual.",
     "gemeinschaft_titel": "Community",
-    "gemeinschaft_text": "Local cells form the heart of BtB. People come together, support each other and shape their economic future collectively.",
+    "gemeinschaft_text": "Local cells form the heart of BtMM. People come together, support each other and shape their economic future collectively.",
     "nachhaltigkeit_titel": "Sustainability",
-    "nachhaltigkeit_text": "Long-term thinking instead of short-term profit. BtB builds structures that sustain and grow across generations."
+    "nachhaltigkeit_text": "Planned cooperative (eG) + support association (e.V.). Long-term thinking instead of short-term profit. BtMM builds structures that sustain and grow across generations.",
+    "nachhaltigkeit_mehr_erfahren": "Learn more about sustainability",
+    "nachhaltigkeit_mehr_erfahren_url": "/concept/sustainability"
   },
   "stats": {
-    "titel": "BtB in Numbers",
+    "titel": "BtMM in Numbers",
     "gruendungsmitglieder": "Founding members",
     "gruendungsmitglieder_ziel": "of 7",
     "aktive_zellen": "Active cells",
@@ -29,11 +31,11 @@
     "cta": "Discover offerings"
   },
   "app_teaser": {
-    "titel": "The BtB App",
+    "titel": "The BtMM App",
     "untertitel": "Your digital tool for the community",
     "pool_titel": "Pool",
     "pool_text": "Shared resources that benefit every member.",
-    "coins_titel": "BtB Coins",
+    "coins_titel": "BtMM Coins",
     "coins_text": "Internal currency for exchanging services within the community.",
     "workspace_titel": "Workspace",
     "workspace_text": "Shared digital workspace for projects and collaboration.",
@@ -41,13 +43,13 @@
     "hinweis": "Members only"
   },
   "spenden_teaser": {
-    "titel": "Support BtB",
+    "titel": "Support BtMM",
     "text": "Your donation helps us build the infrastructure that enables a more just economy. Every contribution counts.",
     "cta": "Donate now"
   },
   "zellen_karte": {
-    "titel": "BtB Cells Worldwide",
-    "text": "BtB cells are emerging around the world – local communities that practice economic cooperation."
+    "titel": "BtMM Cells Worldwide",
+    "text": "BtMM cells are emerging around the world – local communities that practice economic cooperation."
   },
   "hero_poetisch": "Like a forest, where every tree is carried by the network of roots – an economic system is emerging that strengthens everyone who is part of it.",
   "hero_subtitel2": "A universe in the making · Freiburg · Worldwide",
@@ -55,5 +57,35 @@
   "infinity": {
     "text": "The existing system keeps spinning in circles – faster and tighter. Back to Meaning Maximization is the moment the loop breaks open and something new emerges."
   },
-  "zellen_alle": "View all cells"
+  "zellen_alle": "View all cells",
+  "mitgliedschaft": {
+    "titel": "Membership",
+    "untertitel": "Four ways to be part of BtMM",
+    "stufen": [
+      {
+        "stufe": "Supporter",
+        "preis": "from €50/year",
+        "beschreibung": "Time, skills, donations",
+        "benefits": "10% discount on external services"
+      },
+      {
+        "stufe": "Patron Member",
+        "preis": "€1,000/year",
+        "beschreibung": "Early commitment",
+        "benefits": "Wholesale prices immediately"
+      },
+      {
+        "stufe": "Apprentice",
+        "preis": "Variable participation",
+        "beschreibung": "Transition to full membership",
+        "benefits": "Cost prices for selected services"
+      },
+      {
+        "stufe": "Full Member",
+        "preis": "Active membership",
+        "beschreibung": "Complete participation",
+        "benefits": "Compensation, voting rights, solidarity fund"
+      }
+    ]
+  }
 }

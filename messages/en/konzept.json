@@ -1,17 +1,17 @@
 {
   "uebersicht": {
-    "titel": "The BtB Concept",
+    "titel": "The BtMM Concept",
     "untertitel": "A Universe in the Making",
     "text": "Back to Meaning Maximization is an economic system built on the fundamental principles of equal dignity, sustainability and non-violence. Not as a utopia – but as a concrete model that builds on two proven legal forms, calculates with real numbers and is honest about what it cannot yet deliver in its founding phase.",
     "wirtschaft_titel": "Economy",
-    "wirtschaft_text": "In the conventional market, fair wages and affordable prices are structurally contradictory. In the BtB system, they are the natural consequence: wages come from the pool, product prices cover only material costs.",
+    "wirtschaft_text": "In the conventional market, fair wages and affordable prices are structurally contradictory. In the BtMM system, they are the natural consequence: wages come from the pool, product prices cover only material costs.",
     "gemeinschaft_titel": "Community",
     "gemeinschaft_text": "Self-governed cells, a solidarity fund for pregnancy and illness, rhythm recognition and a consequence system instead of punishment – structure that sustains.",
     "international_titel": "International",
     "international_text": "New cells worldwide join the universe – under the same charter, with access to the shared app. Not a copy, but part of the system."
   },
   "wirtschaft": {
-    "titel": "Economy at BtB",
+    "titel": "Economy at BtMM",
     "untertitel": "Fair wages and affordable prices – simultaneously",
     "intro": "In the conventional market, wages are a cost item passed on in the product price. Every wage increase makes the product more expensive. Fair wages and affordable prices are structurally contradictory – this is not a failure of the market, it is its logic. Within the Back to Meaning Maximization system, this does not apply internally.",
     "pool_titel": "The Shared Pool",
@@ -24,8 +24,8 @@
     "dreiteilung_sozial": "Social & ecological share – solidarity fund, community projects, ecological initiatives. A system that only feeds itself has no future.",
     "stundensatz_titel": "Equal Hourly Rate",
     "stundensatz_text": "One hour is one hour. Whether you cook, build, heal, teach, care, or program – everyone receives the same hourly rate. This is not just an economic model – it is a statement about what work means and who deserves dignity. The target hourly rate is 20 euros net – an average of lower and middle class wages in Germany, enabling a good life without luxury.",
-    "coins_titel": "The BtB Coin",
-    "coins_text": "One BtB Coin always corresponds to exactly one hour worked. This principle is immutable. Each coin entry carries the euro settlement value of the period in which it was earned – this prevents speculation through hoarding.",
+    "coins_titel": "The BtMM Coin",
+    "coins_text": "One BtMM Coin always corresponds to exactly one hour worked. This principle is immutable. Each coin entry carries the euro settlement value of the period in which it was earned – this prevents speculation through hoarding.",
     "coins_detail": "Internally, you buy everything at purchase price with coins – food, services, housing. If you need euros, you request a payout at the historical settlement value. Every outstanding coin is a liability of the cooperative – the euro equivalent is available for payout at all times.",
     "coins_itadakimasu": "In Japanese, there is a word spoken before every meal: Itadakimasu – literally: I humbly receive. A thanks to all who have ever contributed. Doing business with the coin as time accounting is lived Itadakimasu.",
     "modell_titel": "Model Calculations – Does the Math Work?",
@@ -40,13 +40,13 @@
     "geringverdiener_titel": "Why It Has the Strongest Impact for Low Earners",
     "geringverdiener_text": "Someone with 563 euros gains 100 euros through purchase prices – that is transformative. 18% more purchasing power without earning a single euro more. The system is not a luxury for people who could afford to be alone. It is a structure built for people who cannot afford it.",
     "mittelschicht_titel": "Why the Middle Class Also Benefits",
-    "mittelschicht_text": "A skilled worker earning 22 euros gross per hour takes home about 15 euros net. In the BtB system, they receive 20 euros net – and buy everything internally at purchase prices: food, craftsmanship, housing, services. Real purchasing power rises far beyond what is possible in the conventional system. The effect: fewer working hours for the same standard of living – or the same effort for significantly more quality of life. The more middle class people join the system, the broader the range of offerings, the stronger the collective economic power – and the more obsolete a system built on competition and profit maximisation becomes.",
+    "mittelschicht_text": "A skilled worker earning 22 euros gross per hour takes home about 15 euros net. In the BtMM system, they receive 20 euros net – and buy everything internally at purchase prices: food, craftsmanship, housing, services. Real purchasing power rises far beyond what is possible in the conventional system. The effect: fewer working hours for the same standard of living – or the same effort for significantly more quality of life. The more middle class people join the system, the broader the range of offerings, the stronger the collective economic power – and the more obsolete a system built on competition and profit maximisation becomes.",
     "megafirma_titel": "The Cooperative as a Mega-Company",
     "megafirma_text": "What looks like a small community from the outside is, on the inside, a legal entity with the full market power of a large company. One business liability insurance for all. One organic certificate for the cooperative as a whole. Democratic structure as protection against external takeover.",
     "megafirma_unesco": "The cooperative is the oldest and most proven form of collective self-help in Germany – declared an intangible cultural heritage by UNESCO. Back to Meaning Maximization uses this form not out of tradition, but because it works."
   },
   "gemeinschaft": {
-    "titel": "Community at BtB",
+    "titel": "Community at BtMM",
     "untertitel": "Structure that sustains – not controls",
     "intro": "A system that outwardly practices sustainability and equal dignity, but is internally driven by ego, fear and power games, is not an alternative. It is a repetition. The inner practice is not decoration – it is the foundation.",
     "zellen_titel": "Self-Governed Cells",
@@ -87,13 +87,13 @@
     "wohnraum_detail": "Within the same priority level, duration of membership decides. Allocation is decided by the respective cell. Those who receive internal housing free up external housing – reducing the overall need for market rent within the system. The exact procedure is determined by the general assembly and can be adapted to local conditions."
   },
   "international": {
-    "titel": "BtB International",
+    "titel": "BtMM International",
     "untertitel": "Unity Instead of Dispersal",
     "intro": "The Back to Meaning Maximization Universe does not want to displace anything. The euro remains the external conversion currency. What is aspired to is a worldwide network under one shared system.",
     "vision_titel": "The Global Vision",
     "vision_text": "International cells in the early phase run their own local pool in the home currency – fully part of the network: they vote, share knowledge, build modules. Full accession happens when three conditions are met: the German core cell is self-sustaining, a legal framework for cross-border transfers is clarified, and the international cell has demonstrated at least three periods of stable pool income.",
     "einheit_titel": "Unified System Instead of Open Source",
-    "einheit_text": "An obvious idea would be: make the charter, app code and concept freely available for other cooperatives. This idea was examined and deliberately rejected. Five parallel 'BtB-like' cooperatives are weaker than one with five cells. The impact comes from unity – not from proliferation.",
+    "einheit_text": "An obvious idea would be: make the charter, app code and concept freely available for other cooperatives. This idea was examined and deliberately rejected. Five parallel 'BtMM-like' cooperatives are weaker than one with five cells. The impact comes from unity – not from proliferation.",
     "einheit_detail": "New cells worldwide join the Back to Meaning Maximization Universe – under the same charter, with access to the shared app and the shared knowledge pool. They are part of the system, not a copy of it. That is the difference between strength and dispersal.",
     "zellen_weltweit_titel": "Cells Worldwide",
     "zellen_weltweit_text": "Every new cell is a node in a worldwide network. Self-governed, but connected. The regulatory responsibility lies with each cell – it knows its local laws, its local needs, its local people.",
@@ -101,5 +101,22 @@
     "politische_wirkung_text": "The Back to Meaning Maximization Universe has no political mission in the party-political sense. It does not position itself, it does not demand, it does not fight against. What it does is stronger: it exists. When 1,000 people live in this model and show that it works – that changes the societal discourse. Not through persuasion. Through demonstration.",
     "sinnmaximierung_titel": "Meaning Maximization",
     "sinnmaximierung_text": "This term comes from Samuel Waldeck, founder of Shiftphone. 'The complete opposite for us is: meaning maximisation. And if you had to sum it up in one word, it would be: appreciation. On all levels, as best we can.'"
+  },
+  "nachhaltigkeit": {
+    "titel": "Sustainability in BtMM",
+    "untertitel": "No greenwashing. Structures that sustain — not just talk.",
+    "intro": "Sustainability sits at the core of the business model. In the Back to Meaning Maximization System, it is not a department — it is the entire operating mode.",
+    "rechtsform_titel": "Legal Form: Cooperative + Support Association",
+    "rechtsform_text": "The registered cooperative (eG) can never be sold to external parties. Whoever leaves, leaves. Shares do not transfer. This is structural protection against takeover and privatization.",
+    "dreiteilung_titel": "The Threefold Division of the Pool",
+    "dreiteilung_text": "Earned surplus is divided into three equal parts: compensation, reinvestment, and social & ecological contributions. This ratio is anchored in the bylaws. A system that only nourishes itself has no future.",
+    "praxis_titel": "No Amazon, No Nestlé, No Apple",
+    "praxis_text": "BtMM does not trade with corporations whose business model is built on exploitation. This is not moral — it is logical.",
+    "immobilien_titel": "Long-term: Owned Real Estate",
+    "immobilien_text": "Once economically viable, BtMM acquires buildings. Members live in properties where rent covers only operating costs. No profit margin for external owners.",
+    "energie_titel": "Energy Transition: Solar, Hydro, Biomass",
+    "energie_text": "Every kilowatt-hour generated internally increases independence from centralized energy markets and reduces external debt.",
+    "lebensmittel_titel": "Local Food Production",
+    "lebensmittel_text": "The Transition Fund finances gardens, apiaries, artisanal bakeries. Making 90% of food available internally makes external markets optional, not existential."
   }
 }

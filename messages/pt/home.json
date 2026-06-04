@@ -5,17 +5,19 @@
     "cta_konzept": "Conhecer o conceito",
     "cta_mitmachen": "Participe agora"
   },
-  "was_ist_btb": {
+  "was_ist_btmm": {
     "titel": "O que é Back to Meaning Maximization?",
     "wirtschaft_titel": "Economia",
     "wirtschaft_text": "Um modelo económico baseado no apoio mútuo em vez da competição. Recursos partilhados fortalecem cada indivíduo.",
     "gemeinschaft_titel": "Comunidade",
-    "gemeinschaft_text": "As células locais são o coração do BtB. As pessoas unem-se, apoiam-se mutuamente e constroem juntas o seu futuro económico.",
+    "gemeinschaft_text": "As células locais são o coração do BtMM. As pessoas unem-se, apoiam-se mutuamente e constroem juntas o seu futuro económico.",
     "nachhaltigkeit_titel": "Sustentabilidade",
-    "nachhaltigkeit_text": "Pensamento a longo prazo em vez de lucro a curto prazo. BtB aposta em estruturas que sustentam e crescem ao longo de gerações."
+    "nachhaltigkeit_text": "Cooperativa registada prevista (eG) + associação de apoio (e.V.). Pensamento a longo prazo em vez de lucro a curto prazo. BtMM aposta em estruturas que sustentam e crescem ao longo de gerações."
+    'nachhaltigkeit_mehr_erfahren': 'Mehr erfahren',
+    'nachhaltigkeit_mehr_erfahren_url': '/concept/sustainability'
   },
   "stats": {
-    "titel": "BtB em números",
+    "titel": "BtMM em números",
     "gruendungsmitglieder": "Membros fundadores",
     "gruendungsmitglieder_ziel": "de 7",
     "aktive_zellen": "Células ativas",
@@ -29,11 +31,11 @@
     "cta": "Explorar ofertas"
   },
   "app_teaser": {
-    "titel": "A App BtB",
+    "titel": "A App BtMM",
     "untertitel": "A sua ferramenta digital para a comunidade",
     "pool_titel": "Pool",
     "pool_text": "Recursos partilhados que beneficiam cada membro.",
-    "coins_titel": "BtB-Coins",
+    "coins_titel": "BtMM-Coins",
     "coins_text": "Moeda interna para a troca de serviços dentro da comunidade.",
     "workspace_titel": "Workspace",
     "workspace_text": "Espaço de trabalho digital partilhado para projetos e colaboração.",
@@ -41,12 +43,12 @@
     "hinweis": "Apenas para membros"
   },
   "spenden_teaser": {
-    "titel": "Apoie o BtB",
+    "titel": "Apoie o BtMM",
     "text": "A sua doação ajuda-nos a construir a infraestrutura que possibilita uma economia mais justa. Cada contribuição conta.",
     "cta": "Doe agora"
   },
   "zellen_karte": {
-    "titel": "Células BtB pelo mundo",
-    "text": "Em todo o mundo surgem células BtB – comunidades locais que gerem a sua economia em conjunto."
+    "titel": "Células BtMM pelo mundo",
+    "text": "Em todo o mundo surgem células BtMM – comunidades locais que gerem a sua economia em conjunto."
   }
-  ,"hero_poetisch": "Como uma floresta, onde cada árvore é sustentada pela rede de raízes – assim surge um sistema econômico que fortalece cada um de seus membros.","hero_subtitel2": "Um universo em formação · Freiburg · Mundial","was_ist_btb_sub": "Três pilares – um todo","infinity": {"text": "O sistema existente gira em círculos – cada vez mais rápido, cada vez mais apertado. Back to Meaning Maximization é o momento em que o ciclo se rompe e algo novo emerge."},"zellen_alle": "Ver todas as células"}
+  ,"hero_poetisch": "Como uma floresta, onde cada árvore é sustentada pela rede de raízes – assim surge um sistema econômico que fortalece cada um de seus membros.","hero_subtitel2": "Um universo em formação · Freiburg · Mundial","was_ist_btb_sub": "Três pilares – um todo","infinity": {"text": "O sistema existente gira em círculos – cada vez mais rápido, cada vez mais apertado. Back to Meaning Maximization é o momento em que o ciclo se rompe e algo novo emerge."},"zellen_alle": "Ver todas as células","mitgliedschaft": {"titel": "Adesão","untertitel": "Quatro formas de fazer parte do BtMM","stufen": [{"stufe": "Apoiante","preis": "a partir de €50/ano","beschreibung": "Tempo, habilidades, doações","benefits": "10% de desconto em serviços externos"},{"stufe": "Membro Patrocinador","preis": "€1.000/ano","beschreibung": "Compromisso antecipado","benefits": "Preços por grosso imediatamente"},{"stufe": "Aprendiz","preis": "Participação variável","beschreibung": "Transição para adesão ativa","benefits": "Preços de custo em serviços selecionados"},{"stufe": "Membro Pleno","preis": "Adesão ativa","beschreibung": "Participação completa","benefits": "Compensação, direito de voto, fundo de solidariedade"}]}}

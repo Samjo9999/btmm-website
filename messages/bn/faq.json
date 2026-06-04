@@ -9,9 +9,9 @@
     "app": "অ্যাপ"
   },
   "fragen": {
-    "was_ist_btb": {
+    "was_ist_btmm": {
       "frage": "Back to Meaning Maximization কী?",
-      "antwort": "Back to Meaning Maximization (BtB) হল একটি সম্প্রদায় প্রকল্প যা একটি বিকল্প অর্থনৈতিক মডেল তৈরি ও পরীক্ষা করছে।"
+      "antwort": "Back to Meaning Maximization (BtMM) হল একটি সম্প্রদায় প্রকল্প যা একটি বিকল্প অর্থনৈতিক মডেল তৈরি ও পরীক্ষা করছে।"
     },
     "wie_mitmachen": {
       "frage": "আমি কীভাবে অংশ নিতে পারি?",
@@ -22,20 +22,20 @@
       "antwort": "সমিতিতে পৃষ্ঠপোষক সদস্যপদ বছরে ৫০ ইউরো থেকে শুরু।"
     },
     "was_sind_coins": {
-      "frage": "BtB-Coins কী?",
-      "antwort": "BtB-Coins হল সম্প্রদায়ের অভ্যন্তরীণ মুদ্রা। ১ Coin = ১ ঘণ্টা কাজ।"
+      "frage": "BtMM-Coins কী?",
+      "antwort": "BtMM-Coins হল সম্প্রদায়ের অভ্যন্তরীণ মুদ্রা। ১ Coin = ১ ঘণ্টা কাজ।"
     },
     "koerperarbeit_unterschied": {
-      "frage": "BtB শরীরকর্মের বিশেষত্ব কী?",
-      "antwort": "BtB শরীরকর্ম হল সোমাটিক সঙ্গ, থেরাপি নয়।"
+      "frage": "BtMM শরীরকর্মের বিশেষত্ব কী?",
+      "antwort": "BtMM শরীরকর্ম হল সোমাটিক সঙ্গ, থেরাপি নয়।"
     },
     "spenden_wohin": {
       "frage": "আমার দান কোথায় যায়?",
-      "antwort": "BtB অবকাঠামো নির্মাণে।"
+      "antwort": "BtMM অবকাঠামো নির্মাণে।"
     },
     "app_login": {
-      "frage": "BtB অ্যাপে কীভাবে যাব?",
-      "antwort": "BtB অ্যাপ চলে app.backtobalance.online-এ।"
+      "frage": "BtMM অ্যাপে কীভাবে যাব?",
+      "antwort": "BtMM অ্যাপ চলে app.backtobalance.online-এ।"
     },
     "zelle_gruenden": {
       "frage": "আমি কি নিজের সেল প্রতিষ্ঠা করতে পারি?",

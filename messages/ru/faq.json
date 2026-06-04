@@ -9,7 +9,7 @@
     "app": "Приложение"
   },
   "fragen": {
-    "was_ist_btb": {
+    "was_ist_btmm": {
       "frage": "Что такое Back to Meaning Maximization?",
       "antwort": "Альтернативная экономическая модель с телесной работой и сообществом."
     },
@@ -22,11 +22,11 @@
       "antwort": "Сторонник от 50€/год, спонсор от 1000€/год."
     },
     "was_sind_coins": {
-      "frage": "Что такое BtB-Coins?",
+      "frage": "Что такое BtMM-Coins?",
       "antwort": "Внутренняя валюта. 1 Coin = 1 час."
     },
     "koerperarbeit_unterschied": {
-      "frage": "Что такое телесная работа BtB?",
+      "frage": "Что такое телесная работа BtMM?",
       "antwort": "Соматическое сопровождение, не терапия."
     },
     "spenden_wohin": {

@@ -2,14 +2,14 @@
   "landing": {
     "titel": "Trabalho Corporal",
     "untertitel": "Acompanhamento somático em Freiburg",
-    "text": "O trabalho corporal segundo o método BtB é uma forma holística de acompanhamento somático. Combina trabalho corporal suave com uma compreensão profunda do organismo humano.",
+    "text": "O trabalho corporal segundo o método BtMM é uma forma holística de acompanhamento somático. Combina trabalho corporal suave com uma compreensão profunda do organismo humano.",
     "cta_termin": "Agendar consulta",
     "cta_methode": "Conhecer o método"
   },
   "methode": {
-    "titel": "O Método BtB",
-    "untertitel": "O que é o trabalho corporal BtB?",
-    "text1": "O trabalho corporal BtB é uma abordagem integrativa que reúne sensações corporais, movimento e consciência.",
+    "titel": "O Método BtMM",
+    "untertitel": "O que é o trabalho corporal BtMM?",
+    "text1": "O trabalho corporal BtMM é uma abordagem integrativa que reúne sensações corporais, movimento e consciência.",
     "text2": "O foco não está na eliminação de sintomas, mas no fortalecimento da capacidade de autorregulação.",
     "prinzipien_titel": "Princípios fundamentais",
     "prinzip1_titel": "Presença somática",
@@ -33,7 +33,7 @@
   },
   "fuer_wen": {
     "titel": "Para quem é o trabalho corporal?",
-    "text": "O trabalho corporal segundo o método BtB é adequado para todas as pessoas que desejam mais ligação com o seu corpo.",
+    "text": "O trabalho corporal segundo o método BtMM é adequado para todas as pessoas que desejam mais ligação com o seu corpo.",
     "indikationen_titel": "Temas possíveis",
     "indikation1": "Stress crónico e exaustão",
     "indikation2": "Tensões e dores corporais",
@@ -52,7 +52,7 @@
     "dauer": "Duração",
     "minuten": "minutos",
     "preis_extern": "Preço",
-    "mitglieder_hinweis": "Membros BtB trocam sessões através de BtB-Coins.",
+    "mitglieder_hinweis": "Membros BtMM trocam sessões através de BtMM-Coins.",
     "buchung_hinweis": "Reserva online ou por formulário de contacto"
   },
   "termine": {

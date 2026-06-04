@@ -310,7 +310,82 @@ export default async function HomePage() {
         </div>
       </section>
 
-      {/* ── 5. MEMBERSHIP ── */}
+      {/* ── 5. MEMBERSHIP TIERS ── */}
+      <section className="section" style={{ background: 'var(--btb-weiss)' }}>
+        <div className="container-btb">
+          <SectionReveal>
+            <h2 style={{
+              fontFamily: 'var(--font-garamond)',
+              fontSize: 'clamp(1.8rem, 3.5vw, 2.6rem)',
+              textAlign: 'center',
+              marginBottom: '0.75rem',
+              color: 'var(--btb-oliv)',
+            }}>
+              {t('mitgliedschaft.titel')}
+            </h2>
+            <p style={{ textAlign: 'center', opacity: 0.65, marginBottom: '3rem', maxWidth: 560, margin: '0 auto 3rem' }}>
+              {t('mitgliedschaft.untertitel')}
+            </p>
+          </SectionReveal>
+
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))',
+            gap: '1.5rem',
+            marginBottom: '2rem',
+          }}>
+            {t.raw('mitgliedschaft.stufen').map((tier: any, i: number) => (
+              <SectionReveal key={i} delay={i * 0.12}>
+                <div className="card-btb" style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+                  <h3 style={{
+                    fontFamily: 'var(--font-garamond)',
+                    fontSize: '1.25rem',
+                    color: 'var(--btb-rot)',
+                    marginBottom: '0.5rem',
+                  }}>
+                    {tier.stufe}
+                  </h3>
+                  <p style={{
+                    fontSize: '1rem',
+                    fontWeight: 600,
+                    color: 'var(--btb-oliv)',
+                    marginBottom: '0.75rem',
+                  }}>
+                    {tier.preis}
+                  </p>
+                  <p style={{
+                    fontSize: '0.9rem',
+                    color: 'var(--btb-dunkel)',
+                    opacity: 0.7,
+                    lineHeight: 1.6,
+                    marginBottom: '1rem',
+                    flex: 1,
+                  }}>
+                    {tier.beschreibung}
+                  </p>
+                  <div style={{
+                    paddingTop: '1rem',
+                    borderTop: '1px solid rgba(143,169,66,0.15)',
+                    fontSize: '0.85rem',
+                    color: 'var(--btb-blau)',
+                    fontWeight: 600,
+                  }}>
+                    {tier.benefits}
+                  </div>
+                </div>
+              </SectionReveal>
+            ))}
+          </div>
+
+          <div style={{ textAlign: 'center' }}>
+            <Link href="/mitmachen" className="btn-primary">
+              {tc('actions.mehr_erfahren')} →
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* ── 6. MEMBERSHIP CTA ── */}
       <section className="section" style={{ background: 'var(--btb-weiss)' }}>
         <div className="container-btb">
           <div style={{

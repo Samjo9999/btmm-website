@@ -2,13 +2,13 @@
   "landing": {
     "titel": "ボディワーク",
     "untertitel": "Freiburgでのソマティック・サポート",
-    "text": "BtBメソッドによる総合的なソマティック・サポート。",
+    "text": "BtMMメソッドによる総合的なソマティック・サポート。",
     "cta_termin": "予約する",
     "cta_methode": "メソッドを知る"
   },
   "methode": {
-    "titel": "BtBメソッド",
-    "untertitel": "BtBボディワークとは？",
+    "titel": "BtMMメソッド",
+    "untertitel": "BtMMボディワークとは？",
     "text1": "身体と意識のための統合的アプローチ。",
     "text2": "症状の除去ではなく自己調整力の強化。",
     "prinzipien_titel": "基本原則",
@@ -52,7 +52,7 @@
     "dauer": "所要時間",
     "minuten": "分",
     "preis_extern": "料金",
-    "mitglieder_hinweis": "BtBメンバーはBtB-Coinsを使用します。",
+    "mitglieder_hinweis": "BtMMメンバーはBtMM-Coinsを使用します。",
     "buchung_hinweis": "オンラインまたはお問い合わせで予約可能"
   },
   "termine": {

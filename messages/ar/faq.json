@@ -9,9 +9,9 @@
     "app": "التطبيق"
   },
   "fragen": {
-    "was_ist_btb": {
+    "was_ist_btmm": {
       "frage": "ما هو Back to Meaning Maximization؟",
-      "antwort": "Back to Meaning Maximization (BtB) هو مشروع مجتمعي يطوّر ويختبر نموذجًا اقتصاديًا بديلًا."
+      "antwort": "Back to Meaning Maximization (BtMM) هو مشروع مجتمعي يطوّر ويختبر نموذجًا اقتصاديًا بديلًا."
     },
     "wie_mitmachen": {
       "frage": "كيف يمكنني المشاركة؟",
@@ -22,20 +22,20 @@
       "antwort": "عضوية الدعم في الجمعية تبدأ من 50 يورو سنويًا."
     },
     "was_sind_coins": {
-      "frage": "ما هي BtB-Coins؟",
-      "antwort": "BtB-Coins هي العملة الداخلية للمجتمع. 1 Coin = ساعة عمل واحدة."
+      "frage": "ما هي BtMM-Coins؟",
+      "antwort": "BtMM-Coins هي العملة الداخلية للمجتمع. 1 Coin = ساعة عمل واحدة."
     },
     "koerperarbeit_unterschied": {
-      "frage": "ما الذي يميّز العمل الجسدي وفق BtB؟",
-      "antwort": "العمل الجسدي وفق BtB هو مرافقة جسدية وليس علاجًا."
+      "frage": "ما الذي يميّز العمل الجسدي وفق BtMM؟",
+      "antwort": "العمل الجسدي وفق BtMM هو مرافقة جسدية وليس علاجًا."
     },
     "spenden_wohin": {
       "frage": "أين تذهب تبرعاتي؟",
-      "antwort": "في بناء البنية التحتية لـ BtB."
+      "antwort": "في بناء البنية التحتية لـ BtMM."
     },
     "app_login": {
-      "frage": "كيف أصل إلى تطبيق BtB؟",
-      "antwort": "تطبيق BtB يعمل على app.backtobalance.online."
+      "frage": "كيف أصل إلى تطبيق BtMM؟",
+      "antwort": "تطبيق BtMM يعمل على app.backtobalance.online."
     },
     "zelle_gruenden": {
       "frage": "هل يمكنني تأسيس خلية خاصة بي؟",

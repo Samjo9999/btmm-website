@@ -12,7 +12,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'FAQ – Häufige Fragen | Back to Meaning Maximization',
-  description: 'Häufige Fragen zu Back to Meaning Maximization, Mitgliedschaft, Körperarbeit, Spenden und der BtB-App.',
+  description: 'Häufige Fragen zu Back to Meaning Maximization, Mitgliedschaft, Körperarbeit, Spenden und der BtMM-App.',
 }
 
 export default async function FaqPage() {
@@ -85,7 +85,7 @@ export default async function FaqPage() {
                 Deine Frage ist nicht dabei?
               </h2>
               <p style={{ opacity: 0.75, marginBottom: '1.5rem', lineHeight: 1.65, textAlign: 'center' }}>
-                Unser BtB-Assistent kennt alle Dokumente und beantwortet deine Fragen sofort.
+                Unser BtMM-Assistent kennt alle Dokumente und beantwortet deine Fragen sofort.
               </p>
               <SupportChat />
             </div>

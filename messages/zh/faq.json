@@ -9,9 +9,9 @@
     "app": "应用"
   },
   "fragen": {
-    "was_ist_btb": {
+    "was_ist_btmm": {
       "frage": "什么是 Back to Meaning Maximization？",
-      "antwort": "Back to Meaning Maximization (BtB) 是一个社区项目，致力于开发和实践一种替代性经济模式。它将经济合作与身体疗愈以及本地社区建设相结合。"
+      "antwort": "Back to Meaning Maximization (BtMM) 是一个社区项目，致力于开发和实践一种替代性经济模式。它将经济合作与身体疗愈以及本地社区建设相结合。"
     },
     "wie_mitmachen": {
       "frage": "我如何参与？",
@@ -22,24 +22,24 @@
       "antwort": "协会的支持会员费每年 50 欧元起。合作社的活跃会员资格仍在筹备中——请注册以获取最新动态。"
     },
     "was_sind_coins": {
-      "frage": "什么是 BtB-Coins？",
-      "antwort": "BtB-Coins 是社区的内部货币。成员可以用它交换服务——例如用身体疗愈换咨询——无需现金流。Coins 通过 BtB 应用管理。"
+      "frage": "什么是 BtMM-Coins？",
+      "antwort": "BtMM-Coins 是社区的内部货币。成员可以用它交换服务——例如用身体疗愈换咨询——无需现金流。Coins 通过 BtMM 应用管理。"
     },
     "koerperarbeit_unterschied": {
-      "frage": "BtB 身体疗愈与其他方法有何不同？",
-      "antwort": "BtB 身体疗愈既不是治疗也不是保健服务。它是一种身体伴随，将身体视为独立的信息载体。我们处理当下的状态——而不是应该如何。"
+      "frage": "BtMM 身体疗愈与其他方法有何不同？",
+      "antwort": "BtMM 身体疗愈既不是治疗也不是保健服务。它是一种身体伴随，将身体视为独立的信息载体。我们处理当下的状态——而不是应该如何。"
     },
     "spenden_wohin": {
       "frage": "我的捐款用在哪里？",
-      "antwort": "你的捐款用于建设 BtB 基础设施：技术开发、合作社的法律设立以及首批社区项目。捐赠进度在网站上实时可见。"
+      "antwort": "你的捐款用于建设 BtMM 基础设施：技术开发、合作社的法律设立以及首批社区项目。捐赠进度在网站上实时可见。"
     },
     "app_login": {
-      "frage": "如何访问 BtB 应用？",
-      "antwort": "BtB 应用运行在 app.backtobalance.online，仅对会员开放。网站和应用是独立的系统——登录将引导你进入应用。"
+      "frage": "如何访问 BtMM 应用？",
+      "antwort": "BtMM 应用运行在 app.backtobalance.online，仅对会员开放。网站和应用是独立的系统——登录将引导你进入应用。"
     },
     "zelle_gruenden": {
       "frage": "我可以创建自己的细胞组吗？",
-      "antwort": "当然可以！BtB 依靠本地细胞组而蓬勃发展。如果你想在你的城市或地区创建一个细胞组，请联系我们。我们将陪伴你完成整个过程。"
+      "antwort": "当然可以！BtMM 依靠本地细胞组而蓬勃发展。如果你想在你的城市或地区创建一个细胞组，请联系我们。我们将陪伴你完成整个过程。"
     }
   }
 }

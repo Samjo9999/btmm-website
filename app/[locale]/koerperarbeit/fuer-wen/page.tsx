@@ -12,8 +12,8 @@ import contactData from '@/data/contact.json'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Für wen ist Körperarbeit? – BtB Freiburg',
-  description: 'Für wen ist BtB-Körperarbeit geeignet? Indikationen, Zielgruppe und Hinweise für ganzheitliche Begleitung in Freiburg.',
+  title: 'Für wen ist Körperarbeit? – BtMM Freiburg',
+  description: 'Für wen ist BtMM-Körperarbeit geeignet? Indikationen, Zielgruppe und Hinweise für ganzheitliche Begleitung in Freiburg.',
 }
 
 export default async function FuerWenPage() {

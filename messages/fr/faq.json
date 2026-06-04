@@ -9,7 +9,7 @@
     "app": "Appli"
   },
   "fragen": {
-    "was_ist_btb": {
+    "was_ist_btmm": {
       "frage": "Qu'est-ce que Back to Meaning Maximization ?",
       "antwort": "Un modèle économique alternatif avec travail corporel et communauté."
     },
@@ -22,11 +22,11 @@
       "antwort": "Soutien à partir de 50€/an, membre bienfaiteur à partir de 1000€/an."
     },
     "was_sind_coins": {
-      "frage": "Que sont les BtB-Coins ?",
+      "frage": "Que sont les BtMM-Coins ?",
       "antwort": "Monnaie interne. 1 Coin = 1 heure."
     },
     "koerperarbeit_unterschied": {
-      "frage": "Qu'est-ce que le travail corporel BtB ?",
+      "frage": "Qu'est-ce que le travail corporel BtMM ?",
       "antwort": "Accompagnement somatique, pas une thérapie."
     },
     "spenden_wohin": {

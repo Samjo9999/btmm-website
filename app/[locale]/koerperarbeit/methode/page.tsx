@@ -13,7 +13,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Methode – Körperarbeit Freiburg | BtB',
-  description: 'Die BtB-Methode der Körperarbeit: achtsame Präsenz, Begleitung statt Führung, Integration. Ganzheitliche Körperarbeit Freiburg.',
+  description: 'Die BtMM-Methode der Körperarbeit: achtsame Präsenz, Begleitung statt Führung, Integration. Ganzheitliche Körperarbeit Freiburg.',
 }
 
 export default async function MethodePage() {

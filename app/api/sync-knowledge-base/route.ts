@@ -3,7 +3,7 @@ import { readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 
 /**
- * Synchronisiert alle BtB-Dokumente in die Supabase Knowledge Base.
+ * Synchronisiert alle BtMM-Dokumente in die Supabase Knowledge Base.
  *
  * Aufruf:
  *   POST /api/sync-knowledge-base
@@ -50,7 +50,7 @@ export async function POST(request: NextRequest) {
       }
     })
 
-    // An die BtB-App Supabase Edge Function senden
+    // An die BtMM-App Supabase Edge Function senden
     const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
     const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
 

@@ -96,7 +96,7 @@ export function ChatWidget() {
     const timer = setTimeout(() => {
       const greeting: Message = {
         role: 'assistant',
-        text: 'Hallo! Ich bin der BtB Assistent. Wie kann ich dir helfen?',
+        text: 'Hallo! Ich bin der BtMM Assistent. Wie kann ich dir helfen?',
         timestamp: Date.now(),
       }
       setMessages(prev => [...prev, greeting])
@@ -248,7 +248,7 @@ export function ChatWidget() {
                 flex: 1,
               }}
             >
-              BtB Assistent
+              BtMM Assistent
             </span>
             {/* Online dot */}
             <span

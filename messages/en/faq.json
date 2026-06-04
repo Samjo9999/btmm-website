@@ -9,9 +9,9 @@
     "app": "App"
   },
   "fragen": {
-    "was_ist_btb": {
+    "was_ist_btmm": {
       "frage": "What is Back to Meaning Maximization?",
-      "antwort": "Back to Meaning Maximization (BtB) is a community project that develops and tests an alternative economic model. It connects economic cooperation with somatic body work and the building of local communities."
+      "antwort": "Back to Meaning Maximization (BtMM) is a community project that develops and tests an alternative economic model. It connects economic cooperation with somatic body work and the building of local communities."
     },
     "wie_mitmachen": {
       "frage": "How can I participate?",
@@ -22,24 +22,24 @@
       "antwort": "Supporting membership in the e.V. costs from €50 per year. Active membership in the cooperative is still in the founding phase – sign up for updates."
     },
     "was_sind_coins": {
-      "frage": "What are BtB Coins?",
-      "antwort": "BtB Coins are the community's internal currency. Members can use them to exchange services – e.g. body work for consulting – without money flow. Coins are managed via the BtB app."
+      "frage": "What are BtMM Coins?",
+      "antwort": "BtMM Coins are the community's internal currency. Members can use them to exchange services – e.g. body work for consulting – without money flow. Coins are managed via the BtMM app."
     },
     "koerperarbeit_unterschied": {
-      "frage": "What distinguishes BtB body work from other approaches?",
-      "antwort": "BtB body work is not therapy and not a wellness offering. It is somatic accompaniment that understands the body as an independent carrier of information. We work with what is – not with what should be."
+      "frage": "What distinguishes BtMM body work from other approaches?",
+      "antwort": "BtMM body work is not therapy and not a wellness offering. It is somatic accompaniment that understands the body as an independent carrier of information. We work with what is – not with what should be."
     },
     "spenden_wohin": {
       "frage": "Where does my donation go?",
-      "antwort": "Your donation goes into building the BtB infrastructure: technical development, legal founding of the cooperative and the first community projects. The donation status is viewable live on the website."
+      "antwort": "Your donation goes into building the BtMM infrastructure: technical development, legal founding of the cooperative and the first community projects. The donation status is viewable live on the website."
     },
     "app_login": {
-      "frage": "How do I access the BtB app?",
-      "antwort": "The BtB app runs at app.backtobalance.online and is only accessible to members. The website and app are separate systems – the login leads to the app."
+      "frage": "How do I access the BtMM app?",
+      "antwort": "The BtMM app runs at app.backtobalance.online and is only accessible to members. The website and app are separate systems – the login leads to the app."
     },
     "zelle_gruenden": {
       "frage": "Can I found my own cell?",
-      "antwort": "Yes! BtB thrives on local cells. If you want to found a cell in your city or town, contact us. We will guide you through the process."
+      "antwort": "Yes! BtMM thrives on local cells. If you want to found a cell in your city or town, contact us. We will guide you through the process."
     }
   }
 }

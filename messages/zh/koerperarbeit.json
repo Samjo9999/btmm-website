@@ -2,14 +2,14 @@
   "landing": {
     "titel": "身体疗愈",
     "untertitel": "Freiburg 的身体伴随",
-    "text": "BtB 方法的身体疗愈是一种整体性的身体伴随形式。它将温和的身体工作与对人体的深入理解相结合。",
+    "text": "BtMM 方法的身体疗愈是一种整体性的身体伴随形式。它将温和的身体工作与对人体的深入理解相结合。",
     "cta_termin": "预约",
     "cta_methode": "了解方法"
   },
   "methode": {
-    "titel": "BtB 方法",
-    "untertitel": "什么是 BtB 身体疗愈？",
-    "text1": "BtB 身体疗愈是一种整合性方法，将身体感觉、运动和意识融为一体。过程遵循身体的自然节奏。",
+    "titel": "BtMM 方法",
+    "untertitel": "什么是 BtMM 身体疗愈？",
+    "text1": "BtMM 身体疗愈是一种整合性方法，将身体感觉、运动和意识融为一体。过程遵循身体的自然节奏。",
     "text2": "重点不在于消除症状，而在于增强自我调节能力。身体知道它需要什么——我们帮助它回归自我。",
     "prinzipien_titel": "基本原则",
     "prinzip1_titel": "身体临在",
@@ -33,7 +33,7 @@
   },
   "fuer_wen": {
     "titel": "身体疗愈适合谁？",
-    "text": "BtB 方法的身体疗愈适合所有希望与身体建立更深联系、经历慢性紧张或疲劳、或正处于变化过程中的人。",
+    "text": "BtMM 方法的身体疗愈适合所有希望与身体建立更深联系、经历慢性紧张或疲劳、或正处于变化过程中的人。",
     "indikationen_titel": "可能的主题",
     "indikation1": "慢性压力和疲劳",
     "indikation2": "身体紧张和疼痛",
@@ -52,7 +52,7 @@
     "dauer": "时长",
     "minuten": "分钟",
     "preis_extern": "价格",
-    "mitglieder_hinweis": "BtB 成员通过 BtB-Coins 交换疗程——无需现金。",
+    "mitglieder_hinweis": "BtMM 成员通过 BtMM-Coins 交换疗程——无需现金。",
     "buchung_hinweis": "在线预约或通过联系表单预约"
   },
   "termine": {

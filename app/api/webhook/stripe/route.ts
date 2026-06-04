@@ -18,7 +18,7 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
     ? `
       <div style="font-family: Georgia, serif; max-width: 560px; margin: 0 auto; color: #1a1505;">
         <div style="text-align: center; padding: 2rem 0;">
-          <img src="https://backtobalance.online/logo.png" alt="BtB" width="80" style="margin-bottom: 1rem;" />
+          <img src="https://backtobalance.online/logo.png" alt="BtMM" width="80" style="margin-bottom: 1rem;" />
         </div>
         <h1 style="color: #8fa942; font-size: 1.6rem;">Danke für deine Spende!</h1>
         <p style="line-height: 1.8;">
@@ -37,7 +37,7 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
           </p>
         </div>
         <p style="line-height: 1.8;">
-          <em>Hinweis: BtB ist aktuell kein gemeinnütziger Verein — Spenden sind daher
+          <em>Hinweis: BtMM ist aktuell kein gemeinnütziger Verein — Spenden sind daher
           noch nicht steuerlich absetzbar.</em>
         </p>
         <p style="line-height: 1.8;">Herzliche Grüße,<br/><strong>Das Back to Meaning Maximization Team</strong></p>
@@ -50,7 +50,7 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
     : `
       <div style="font-family: Georgia, serif; max-width: 560px; margin: 0 auto; color: #1a1505;">
         <div style="text-align: center; padding: 2rem 0;">
-          <img src="https://backtobalance.online/logo.png" alt="BtB" width="80" style="margin-bottom: 1rem;" />
+          <img src="https://backtobalance.online/logo.png" alt="BtMM" width="80" style="margin-bottom: 1rem;" />
         </div>
         <h1 style="color: #b61818; font-size: 1.6rem;">Buchungsbestätigung</h1>
         <p style="line-height: 1.8;">

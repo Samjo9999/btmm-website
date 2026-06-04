@@ -9,7 +9,7 @@
     "app": "アプリ"
   },
   "fragen": {
-    "was_ist_btb": {
+    "was_ist_btmm": {
       "frage": "Back to Meaning Maximizationとは？",
       "antwort": "ボディワークとコミュニティを備えた代替的な経済モデル。"
     },
@@ -22,11 +22,11 @@
       "antwort": "サポーターは年50ユーロから、スポンサー会員は年1000ユーロから。"
     },
     "was_sind_coins": {
-      "frage": "BtB-Coinsとは？",
+      "frage": "BtMM-Coinsとは？",
       "antwort": "内部通貨。1 Coin = 1時間。"
     },
     "koerperarbeit_unterschied": {
-      "frage": "BtBボディワークとは？",
+      "frage": "BtMMボディワークとは？",
       "antwort": "ソマティック・サポートであり、治療ではありません。"
     },
     "spenden_wohin": {

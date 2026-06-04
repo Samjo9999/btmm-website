@@ -10,7 +10,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Das Konzept – Back to Meaning Maximization',
-  description: 'Das BtB-Konzept: Gleicher Stundensatz, Pool-Dreiteilung, BtB-Coins, selbstverwaltete Zellen und internationale Vision.',
+  description: 'Das BtMM-Konzept: Gleicher Stundensatz, Pool-Dreiteilung, BtMM-Coins, selbstverwaltete Zellen und internationale Vision.',
 }
 
 export default async function KonzeptPage() {

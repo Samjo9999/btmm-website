@@ -8,7 +8,7 @@ import { HeroImageLightbox } from '@/components/HeroImageLightbox'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Gemeinschaft – BtB Konzept',
+  title: 'Gemeinschaft – BtMM Konzept',
   description: 'Zellen, Solidarfonds, Gleichwürdigkeit, Konsequenzsystem und Mitgliedsstufen: Die gemeinschaftlichen Grundlagen von Back to Meaning Maximization.',
 }
 

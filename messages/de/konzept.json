@@ -1,17 +1,17 @@
 {
   "uebersicht": {
-    "titel": "Das BtB-Konzept",
+    "titel": "Das BtMM-Konzept",
     "untertitel": "Ein Universum im Entstehen",
     "text": "Back to Meaning Maximization ist ein Wirtschaftssystem, das auf den Grundprinzipien von Gleichwürdigkeit, Nachhaltigkeit und Gewaltfreiheit aufbaut. Nicht als Utopie – sondern als konkretes Modell, das sich auf zwei bewährten Rechtsformen aufbaut, mit echten Zahlen rechnet und ehrlich ist mit dem, was es in der Gründungsphase noch nicht leisten kann.",
     "wirtschaft_titel": "Wirtschaft",
-    "wirtschaft_text": "Im konventionellen Markt widersprechen sich faire Löhne und günstige Preise strukturell. Im BtB-System sind sie die natürliche Konsequenz: Lohn kommt aus dem Pool, Produktpreise decken nur Materialkosten.",
+    "wirtschaft_text": "Im konventionellen Markt widersprechen sich faire Löhne und günstige Preise strukturell. Im BtMM-System sind sie die natürliche Konsequenz: Lohn kommt aus dem Pool, Produktpreise decken nur Materialkosten.",
     "gemeinschaft_titel": "Gemeinschaft",
     "gemeinschaft_text": "Selbstverwaltete Zellen, ein Solidarfonds für Schwangerschaft und Krankheit, Rhythmusanerkennung und ein Konsequenzsystem statt Strafen – Struktur, die trägt.",
     "international_titel": "International",
     "international_text": "Neue Zellen weltweit schließen sich dem Universum an – unter derselben Satzung, mit Zugang zur gemeinsamen App. Keine Kopie, sondern Teil des Systems."
   },
   "wirtschaft": {
-    "titel": "Wirtschaft bei BtB",
+    "titel": "Wirtschaft bei BtMM",
     "untertitel": "Faire Löhne und günstige Preise – gleichzeitig",
     "intro": "Im konventionellen Markt ist Lohn eine Kostenposition, die im Produktpreis weitergewälzt wird. Jede Lohnerhöhung verteuert das Produkt. Faire Löhne und günstige Preise widersprechen sich strukturell – das ist kein Versagen des Marktes, das ist seine Logik. Im Back to Meaning Maximization System gilt das intern nicht.",
     "pool_titel": "Der gemeinsame Pool",
@@ -24,8 +24,8 @@
     "dreiteilung_sozial": "Sozial- und Öko-Anteil – Solidarfonds, Gemeinschaftsprojekte, ökologische Initiativen. Ein System, das nur sich nährt, hat keine Zukunft.",
     "stundensatz_titel": "Gleicher Stundensatz",
     "stundensatz_text": "Eine Stunde ist eine Stunde. Wer kocht, wer baut, wer heilt, wer lehrt, wer pflegt, wer programmiert – alle erhalten denselben Stundensatz. Das ist nicht nur ein wirtschaftliches Modell – es ist eine Aussage darüber, was Arbeit bedeutet und wer Würde verdient. Der angestrebte Ziel-Stundensatz beträgt 20 Euro netto – ein Durchschnittswert aus Unterschicht- und Mittelschichtlöhnen in Deutschland, der ein gutes Leben ohne Luxus ermöglicht.",
-    "coins_titel": "Der BtB-Coin",
-    "coins_text": "Ein BtB-Coin entspricht immer genau einer geleisteten Stunde. Dieser Grundsatz ist unveränderlich. Jeder Coin-Eintrag trägt den Euro-Abrechnungswert der Periode, in der er verdient wurde – das verhindert Spekulation durch Horten.",
+    "coins_titel": "Der BtMM-Coin",
+    "coins_text": "Ein BtMM-Coin entspricht immer genau einer geleisteten Stunde. Dieser Grundsatz ist unveränderlich. Jeder Coin-Eintrag trägt den Euro-Abrechnungswert der Periode, in der er verdient wurde – das verhindert Spekulation durch Horten.",
     "coins_detail": "Intern kauft man mit Coins alles zum Einkaufspreis – Lebensmittel, Dienstleistungen, Wohnen. Wer Euro braucht, beantragt eine Auszahlung zum historischen Abrechnungswert. Jeder ausstehende Coin ist eine Verbindlichkeit der Genossenschaft – der Eurogegenwert ist jederzeit zur Auszahlung verfügbar.",
     "coins_itadakimasu": "Im Japanischen gibt es ein Wort, das vor jeder Mahlzeit gesprochen wird: Itadakimasu – wörtlich: Ich empfange demütig. Ein Dank an alle, die je beigetragen haben. Das Wirtschaften mit dem Coin als Zeitverrechnung ist gelebtes Itadakimasu.",
     "modell_titel": "Modellrechnungen – geht die Rechnung auf?",
@@ -40,13 +40,13 @@
     "geringverdiener_titel": "Warum es für Geringverdiener am stärksten wirkt",
     "geringverdiener_text": "Wer 563 Euro hat, gewinnt durch EK-Preise 100 Euro – das ist transformativ. 18 % mehr Kaufkraft, ohne einen Euro mehr zu verdienen. Das System ist kein Luxus für Menschen, die es sich leisten könnten, allein zu sein. Es ist eine Struktur, die für Menschen gebaut wurde, die es sich nicht leisten können.",
     "mittelschicht_titel": "Warum auch die Mittelschicht gewinnt",
-    "mittelschicht_text": "Eine Fachkraft mit 22 Euro brutto pro Stunde hat am Ende des Monats etwa 15 Euro netto. Im BtB-System erhält sie 20 Euro netto – und kauft alles intern zu Einkaufspreisen: Lebensmittel, Handwerk, Wohnen, Dienstleistungen. Die reale Kaufkraft steigt weit über das hinaus, was im konventionellen System möglich wäre. Der Effekt: Weniger Arbeitsstunden für denselben Lebensstandard – oder derselbe Aufwand für deutlich mehr Lebensqualität. Je mehr Menschen aus der Mittelschicht dem System beitreten, desto breiter das Angebot, desto stärker die kollektive Wirtschaftskraft – und desto überflüssiger wird ein System, das auf Konkurrenz und Gewinnmaximierung gebaut ist.",
+    "mittelschicht_text": "Eine Fachkraft mit 22 Euro brutto pro Stunde hat am Ende des Monats etwa 15 Euro netto. Im BtMM-System erhält sie 20 Euro netto – und kauft alles intern zu Einkaufspreisen: Lebensmittel, Handwerk, Wohnen, Dienstleistungen. Die reale Kaufkraft steigt weit über das hinaus, was im konventionellen System möglich wäre. Der Effekt: Weniger Arbeitsstunden für denselben Lebensstandard – oder derselbe Aufwand für deutlich mehr Lebensqualität. Je mehr Menschen aus der Mittelschicht dem System beitreten, desto breiter das Angebot, desto stärker die kollektive Wirtschaftskraft – und desto überflüssiger wird ein System, das auf Konkurrenz und Gewinnmaximierung gebaut ist.",
     "megafirma_titel": "Die Genossenschaft als Megafirma",
     "megafirma_text": "Was nach außen wie eine kleine Gemeinschaft aussieht, ist nach innen eine juristische Person mit der vollen Marktmacht eines großen Unternehmens. Eine Betriebshaftpflichtversicherung für alle. Ein Bio-Zertifikat für die Genossenschaft als Ganzes. Demokratische Struktur als Schutz vor externer Übernahme.",
     "megafirma_unesco": "Die Genossenschaft ist die älteste und bewährteste Form kollektiver Selbsthilfe in Deutschland – von der UNESCO zum immateriellen Weltkulturerbe erklärt. Back to Meaning Maximization nutzt diese Form nicht aus Tradition, sondern weil sie funktioniert."
   },
   "gemeinschaft": {
-    "titel": "Gemeinschaft bei BtB",
+    "titel": "Gemeinschaft bei BtMM",
     "untertitel": "Struktur, die trägt – nicht kontrolliert",
     "intro": "Ein System, das nach außen hin Nachhaltigkeit und Gleichwürdigkeit lebt, aber intern von Ego, Angst und Machtspielen bestimmt wird, ist keine Alternative. Es ist eine Wiederholung. Die innere Praxis ist nicht Dekoration – sie ist Fundament.",
     "zellen_titel": "Selbstverwaltete Zellen",
@@ -87,13 +87,13 @@
     "wohnraum_detail": "Innerhalb derselben Stufe entscheidet die Dauer der Mitgliedschaft. Die Vergabe wird von der jeweiligen Zelle beschlossen. Wer internen Wohnraum erhält, gibt externen frei – das senkt den Gesamtbedarf an Marktmiete im System. Das genaue Verfahren wird durch die Generalversammlung festgelegt und kann an lokale Gegebenheiten angepasst werden."
   },
   "international": {
-    "titel": "BtB International",
+    "titel": "BtMM International",
     "untertitel": "Einheit statt Streuung",
     "intro": "Das Back to Meaning Maximization Universum will nichts verdrängen. Der Euro bleibt die externe Umrechnungswährung. Was angestrebt wird, ist ein weltweites Netzwerk unter einem gemeinsamen System.",
     "vision_titel": "Die weltweite Vision",
     "vision_text": "Internationale Zellen in der Frühphase führen ihren eigenen lokalen Pool in der Heimatwährung – vollwertig im Netzwerk: sie stimmen ab, teilen Wissen, bauen Module. Der vollständige Beitritt erfolgt, wenn drei Bedingungen erfüllt sind: Die deutsche Kernzelle ist selbsttragend, ein rechtlicher Rahmen für grenzüberschreitende Transfers ist geklärt, und die internationale Zelle hat mindestens drei Perioden stabile Pooleinnahmen nachgewiesen.",
     "einheit_titel": "Einheitliches System statt Open Source",
-    "einheit_text": "Eine naheliegende Idee wäre: Satzung, App-Code und Konzept frei verfügbar für andere Genossenschaften machen. Diese Idee wurde geprüft und bewusst verworfen. Fünf parallele «BtB-ähnliche» Genossenschaften sind schwächer als eine mit fünf Zellen. Die Wirkung entsteht aus der Einheit – nicht aus der Verbreitung.",
+    "einheit_text": "Eine naheliegende Idee wäre: Satzung, App-Code und Konzept frei verfügbar für andere Genossenschaften machen. Diese Idee wurde geprüft und bewusst verworfen. Fünf parallele «BtMM-ähnliche» Genossenschaften sind schwächer als eine mit fünf Zellen. Die Wirkung entsteht aus der Einheit – nicht aus der Verbreitung.",
     "einheit_detail": "Neue Zellen weltweit schließen sich dem Back to Meaning Maximization Universum an – unter derselben Satzung, mit Zugang zur gemeinsamen App und zum gemeinsamen Wissenspool. Sie sind Teil des Systems, nicht eine Kopie davon. Das ist der Unterschied zwischen Stärke und Streuung.",
     "zellen_weltweit_titel": "Zellen weltweit",
     "zellen_weltweit_text": "Jede neue Zelle ist ein Knoten in einem weltweiten Netzwerk. Selbstverwaltet, aber verbunden. Die regulatorische Eigenverantwortung liegt bei jeder Zelle – sie kennt ihre lokalen Gesetze, ihre lokalen Bedürfnisse, ihre lokalen Menschen.",
@@ -101,5 +101,22 @@
     "politische_wirkung_text": "Das Back to Meaning Maximization Universum hat keinen politischen Auftrag im parteipolitischen Sinne. Es positioniert sich nicht, es fordert nicht, es kämpft nicht gegen. Was es tut, ist stärker: Es existiert. Wenn 1.000 Menschen in diesem Modell leben und zeigen, dass es funktioniert – verändert das den gesellschaftlichen Diskurs. Nicht durch Überzeugung. Durch Demonstration.",
     "sinnmaximierung_titel": "Sinnmaximierung",
     "sinnmaximierung_text": "Dieser Begriff stammt von Samuel Waldeck, Gründer von Shiftphone. «Das komplette Gegenteil ist für uns: Sinnmaximierung. Und wenn man das in einem Wort zusammenfassen müsste, dann wäre es dieses: Wertschätzung. Auf allen Ebenen, so gut wir es können.»"
+  },
+  "nachhaltigkeit": {
+    "titel": "Nachhaltigkeit bei BtMM",
+    "untertitel": "Kein Greenwashing. Struktur, die trägt — nicht nur redet.",
+    "intro": "Nachhaltigkeit sitzt im Kern des Geschäftsmodells. Im Back to Meaning Maximization System ist sie nicht eine Abteilung — sie ist der gesamte Betriebsmodus.",
+    "rechtsform_titel": "Rechtsform: Genossenschaft + Förderverein",
+    "rechtsform_text": "Die eingetragene Genossenschaft (eG) kann niemals an Externe verkauft werden. Wer raus geht, geht raus. Die Anteile folgen nicht. Das ist ein struktureller Schutz vor Übernahme und Privatisierung.",
+    "dreiteilung_titel": "Die Dreiteilung des Pools",
+    "dreiteilung_text": "Der erwirtschaftete Pool wird in drei gleiche Teile geteilt: Vergütung, Reinvestition, und Sozial- & Öko-Anteil. Diese Quote sitzt in der Satzung. Ein System, das nur sich nährt, hat keine Zukunft.",
+    "praxis_titel": "Kein Amazon, kein Nestlé, kein Apple",
+    "praxis_text": "BtMM handelt nicht mit Konzernen, deren Geschäftsmodell auf Ausbeutung beruht. Das ist nicht moralisch — das ist logisch.",
+    "immobilien_titel": "Langfristig: Eigene Immobilien",
+    "immobilien_text": "Sobald wirtschaftlich tragfähig, kauft BtMM Häuser. Mitglieder wohnen in Gebäuden, deren Miete nur Betriebskosten deckt. Keine Gewinnmarge für externe Eigentümer.",
+    "energie_titel": "Energiewende: Solar, Wasser, Biomasse",
+    "energie_text": "Jede Kilowattstunde, die intern erzeugt wird, erhöht die Unabhängigkeit vom zentralisierten Energiemarkt und senkt die externe Verschuldung.",
+    "lebensmittel_titel": "Lebensmittelproduktion vor Ort",
+    "lebensmittel_text": "Der Transition Fund finanziert Gärtnereien, Imkereien, handwerkliche Bäckereien. 90% der Lebensmittel intern verfügbar macht den externen Markt optionaler, nicht existenzieller."
   }
 }

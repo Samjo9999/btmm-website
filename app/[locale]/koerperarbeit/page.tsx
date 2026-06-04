@@ -11,8 +11,8 @@ import contactData from '@/data/contact.json'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Körperarbeit Freiburg – BtB ganzheitliche Begleitung',
-  description: 'Körperarbeit und ganzheitliche Begleitung in Freiburg. BtB-Methode für mehr Gleichgewicht, Vitalität und Lebendigkeit. Ganzheitliche Körperarbeit Freiburg.',
+  title: 'Körperarbeit Freiburg – BtMM ganzheitliche Begleitung',
+  description: 'Körperarbeit und ganzheitliche Begleitung in Freiburg. BtMM-Methode für mehr Gleichgewicht, Vitalität und Lebendigkeit. Ganzheitliche Körperarbeit Freiburg.',
   keywords: ['Körperarbeit Freiburg', 'ganzheitliche Körperarbeit', 'ganzheitliche Körperarbeit Freiburg', 'BtB Körperarbeit', 'Bodywork Freiburg'],
 }
 

@@ -1,17 +1,17 @@
 {
   "uebersicht": {
-    "titel": "Le concept BtB",
+    "titel": "Le concept BtMM",
     "untertitel": "Un univers en devenir",
     "text": "Back to Meaning Maximization est un système économique fondé sur les principes fondamentaux de dignité égale, de durabilité et de non-violence. Pas une utopie – mais un modèle concret qui s'appuie sur deux formes juridiques éprouvées, qui calcule avec des chiffres réels et qui est honnête sur ce qu'il ne peut pas encore offrir dans sa phase de fondation.",
     "wirtschaft_titel": "Économie",
-    "wirtschaft_text": "Sur le marché conventionnel, salaires équitables et prix abordables se contredisent structurellement. Dans le système BtB, ils sont la conséquence naturelle : le salaire provient du pool, les prix des produits ne couvrent que les coûts matériels.",
+    "wirtschaft_text": "Sur le marché conventionnel, salaires équitables et prix abordables se contredisent structurellement. Dans le système BtMM, ils sont la conséquence naturelle : le salaire provient du pool, les prix des produits ne couvrent que les coûts matériels.",
     "gemeinschaft_titel": "Communauté",
     "gemeinschaft_text": "Des cellules autogérées, un fonds de solidarité pour la grossesse et la maladie, la reconnaissance des rythmes et un système de conséquences plutôt que de sanctions – une structure qui porte.",
     "international_titel": "International",
     "international_text": "De nouvelles cellules dans le monde entier rejoignent l'univers – sous les mêmes statuts, avec accès à l'application commune. Pas une copie, mais une partie du système."
   },
   "wirtschaft": {
-    "titel": "L'économie chez BtB",
+    "titel": "L'économie chez BtMM",
     "untertitel": "Des salaires équitables et des prix abordables – simultanément",
     "intro": "Sur le marché conventionnel, le salaire est un poste de coût répercuté dans le prix du produit. Chaque augmentation de salaire renchérit le produit. Salaires équitables et prix abordables se contredisent structurellement – ce n'est pas une défaillance du marché, c'est sa logique. Dans le système Back to Meaning Maximization, cela ne s'applique pas en interne.",
     "pool_titel": "Le Pool commun",
@@ -24,8 +24,8 @@
     "dreiteilung_sozial": "Part sociale et écologique – fonds de solidarité, projets communautaires, initiatives écologiques. Un système qui ne nourrit que lui-même n'a pas d'avenir.",
     "stundensatz_titel": "Taux horaire égal",
     "stundensatz_text": "Une heure est une heure. Que tu cuisines, construises, soignes, enseignes, accompagnes ou programmes – tout le monde reçoit le même taux horaire. Ce n'est pas seulement un modèle économique – c'est une déclaration sur ce que signifie le travail et qui mérite la dignité. Le taux horaire visé est de 20 euros nets – une moyenne entre les salaires des classes populaires et moyennes en Allemagne, permettant une bonne vie sans luxe.",
-    "coins_titel": "Le BtB-Coin",
-    "coins_text": "Un BtB-Coin correspond toujours exactement à une heure travaillée. Ce principe est immuable. Chaque entrée de coin porte la valeur de règlement en euros de la période durant laquelle il a été gagné – cela empêche la spéculation par thésaurisation.",
+    "coins_titel": "Le BtMM-Coin",
+    "coins_text": "Un BtMM-Coin correspond toujours exactement à une heure travaillée. Ce principe est immuable. Chaque entrée de coin porte la valeur de règlement en euros de la période durant laquelle il a été gagné – cela empêche la spéculation par thésaurisation.",
     "coins_detail": "En interne, on achète tout au prix d'achat avec des coins – nourriture, services, logement. Si tu as besoin d'euros, tu demandes un versement à la valeur de règlement historique. Chaque coin en circulation est un engagement de la coopérative – l'équivalent en euros est disponible à tout moment pour le versement.",
     "coins_itadakimasu": "En japonais, il existe un mot prononcé avant chaque repas : Itadakimasu – littéralement : je reçois humblement. Un merci à tous ceux qui ont contribué. Faire des affaires avec le coin comme comptabilité du temps, c'est vivre Itadakimasu.",
     "modell_titel": "Calculs modèles – est-ce que ça tient ?",
@@ -40,13 +40,13 @@
     "geringverdiener_titel": "Pourquoi l'effet est le plus fort pour les petits revenus",
     "geringverdiener_text": "Celui qui a 563 euros économise 100 euros grâce aux prix d'achat – c'est transformateur. 18 % de pouvoir d'achat en plus sans gagner un seul euro de plus. Le système n'est pas un luxe pour ceux qui pourraient se permettre d'être seuls. C'est une structure construite pour ceux qui ne peuvent pas se le permettre.",
     "mittelschicht_titel": "Pourquoi la classe moyenne y gagne aussi",
-    "mittelschicht_text": "Un travailleur qualifié qui gagne 22 euros bruts de l'heure touche environ 15 euros nets. Dans le système BtB, il reçoit 20 euros nets – et achète tout en interne aux prix d'achat : alimentation, artisanat, logement, services. Le pouvoir d'achat réel dépasse largement ce qui est possible dans le système conventionnel. L'effet : moins d'heures de travail pour le même niveau de vie – ou le même effort pour une qualité de vie nettement meilleure. Plus la classe moyenne rejoint le système, plus l'offre s'élargit, plus la puissance économique collective grandit – et plus un système fondé sur la concurrence et la maximisation des profits devient obsolète.",
+    "mittelschicht_text": "Un travailleur qualifié qui gagne 22 euros bruts de l'heure touche environ 15 euros nets. Dans le système BtMM, il reçoit 20 euros nets – et achète tout en interne aux prix d'achat : alimentation, artisanat, logement, services. Le pouvoir d'achat réel dépasse largement ce qui est possible dans le système conventionnel. L'effet : moins d'heures de travail pour le même niveau de vie – ou le même effort pour une qualité de vie nettement meilleure. Plus la classe moyenne rejoint le système, plus l'offre s'élargit, plus la puissance économique collective grandit – et plus un système fondé sur la concurrence et la maximisation des profits devient obsolète.",
     "megafirma_titel": "La coopérative comme méga-entreprise",
     "megafirma_text": "Ce qui ressemble de l'extérieur à une petite communauté est, de l'intérieur, une personne morale avec toute la puissance de marché d'une grande entreprise. Une assurance responsabilité civile professionnelle pour tous. Un certificat bio pour la coopérative dans son ensemble. Une structure démocratique comme protection contre une prise de contrôle externe.",
     "megafirma_unesco": "La coopérative est la forme la plus ancienne et la plus éprouvée d'entraide collective en Allemagne – déclarée patrimoine culturel immatériel par l'UNESCO. Back to Meaning Maximization utilise cette forme non par tradition, mais parce qu'elle fonctionne."
   },
   "gemeinschaft": {
-    "titel": "La communauté chez BtB",
+    "titel": "La communauté chez BtMM",
     "untertitel": "Une structure qui porte – sans contrôler",
     "intro": "Un système qui pratique la durabilité et la dignité égale vers l'extérieur, mais qui est intérieurement dominé par l'ego, la peur et les jeux de pouvoir, n'est pas une alternative. C'est une répétition. La pratique intérieure n'est pas une décoration – c'est le fondement.",
     "zellen_titel": "Cellules autogérées",
@@ -87,13 +87,13 @@
     "wohnraum_detail": "Au sein du même niveau de priorité, la durée d'adhésion tranche. L'attribution est décidée par la cellule concernée. Ceux qui obtiennent un logement interne libèrent un logement externe – réduisant le besoin global de loyer du marché dans le système. La procédure exacte est fixée par l'assemblée générale et peut être adaptée aux conditions locales."
   },
   "international": {
-    "titel": "BtB International",
+    "titel": "BtMM International",
     "untertitel": "L'unité plutôt que la dispersion",
     "intro": "L'Univers Back to Meaning Maximization ne veut rien supplanter. L'euro reste la monnaie de conversion externe. Ce qui est visé, c'est un réseau mondial sous un système commun.",
     "vision_titel": "La vision mondiale",
     "vision_text": "Les cellules internationales en phase précoce gèrent leur propre pool local en monnaie locale – pleinement intégrées au réseau : elles votent, partagent le savoir, construisent des modules. L'adhésion complète intervient lorsque trois conditions sont remplies : la cellule noyau allemande est autosuffisante, un cadre juridique pour les transferts transfrontaliers est clarifié, et la cellule internationale a démontré au moins trois périodes de revenus de pool stables.",
     "einheit_titel": "Un système unifié plutôt que l'open source",
-    "einheit_text": "Une idée évidente serait : rendre les statuts, le code de l'application et le concept librement disponibles pour d'autres coopératives. Cette idée a été examinée et délibérément rejetée. Cinq coopératives parallèles « de type BtB » sont plus faibles qu'une seule avec cinq cellules. L'impact vient de l'unité – pas de la prolifération.",
+    "einheit_text": "Une idée évidente serait : rendre les statuts, le code de l'application et le concept librement disponibles pour d'autres coopératives. Cette idée a été examinée et délibérément rejetée. Cinq coopératives parallèles « de type BtMM » sont plus faibles qu'une seule avec cinq cellules. L'impact vient de l'unité – pas de la prolifération.",
     "einheit_detail": "De nouvelles cellules dans le monde entier rejoignent l'Univers Back to Meaning Maximization – sous les mêmes statuts, avec accès à l'application commune et au pool de connaissances partagé. Elles font partie du système, pas une copie. C'est la différence entre la force et la dispersion.",
     "zellen_weltweit_titel": "Cellules dans le monde",
     "zellen_weltweit_text": "Chaque nouvelle cellule est un nœud dans un réseau mondial. Autogérée, mais connectée. La responsabilité réglementaire incombe à chaque cellule – elle connaît ses lois locales, ses besoins locaux, ses gens locaux.",

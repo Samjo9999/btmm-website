@@ -29,7 +29,7 @@ export async function POST(request: NextRequest) {
     const typLabel = data.typ ? ` [${data.typ}]` : ''
 
     const { error } = await resend.emails.send({
-      from: 'BtB Website <noreply@backtobalance.online>',
+      from: 'BtMM Website <noreply@backtobalance.online>',
       to: ['kontakt@backtobalance.online'],
       subject: `${betreff}${typLabel}`,
       html: `

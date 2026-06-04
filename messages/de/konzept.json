@@ -2,7 +2,7 @@
   "uebersicht": {
     "titel": "Das BtB-Konzept",
     "untertitel": "Ein Universum im Entstehen",
-    "text": "Back to Balance ist ein Wirtschaftssystem, das auf den Grundprinzipien von Gleichwürdigkeit, Nachhaltigkeit und Gewaltfreiheit aufbaut. Nicht als Utopie – sondern als konkretes Modell, das sich auf zwei bewährten Rechtsformen aufbaut, mit echten Zahlen rechnet und ehrlich ist mit dem, was es in der Gründungsphase noch nicht leisten kann.",
+    "text": "Back to Meaning Maximization ist ein Wirtschaftssystem, das auf den Grundprinzipien von Gleichwürdigkeit, Nachhaltigkeit und Gewaltfreiheit aufbaut. Nicht als Utopie – sondern als konkretes Modell, das sich auf zwei bewährten Rechtsformen aufbaut, mit echten Zahlen rechnet und ehrlich ist mit dem, was es in der Gründungsphase noch nicht leisten kann.",
     "wirtschaft_titel": "Wirtschaft",
     "wirtschaft_text": "Im konventionellen Markt widersprechen sich faire Löhne und günstige Preise strukturell. Im BtB-System sind sie die natürliche Konsequenz: Lohn kommt aus dem Pool, Produktpreise decken nur Materialkosten.",
     "gemeinschaft_titel": "Gemeinschaft",
@@ -13,7 +13,7 @@
   "wirtschaft": {
     "titel": "Wirtschaft bei BtB",
     "untertitel": "Faire Löhne und günstige Preise – gleichzeitig",
-    "intro": "Im konventionellen Markt ist Lohn eine Kostenposition, die im Produktpreis weitergewälzt wird. Jede Lohnerhöhung verteuert das Produkt. Faire Löhne und günstige Preise widersprechen sich strukturell – das ist kein Versagen des Marktes, das ist seine Logik. Im Back to Balance System gilt das intern nicht.",
+    "intro": "Im konventionellen Markt ist Lohn eine Kostenposition, die im Produktpreis weitergewälzt wird. Jede Lohnerhöhung verteuert das Produkt. Faire Löhne und günstige Preise widersprechen sich strukturell – das ist kein Versagen des Marktes, das ist seine Logik. Im Back to Meaning Maximization System gilt das intern nicht.",
     "pool_titel": "Der gemeinsame Pool",
     "pool_text": "Alle Einnahmen fließen in einen gemeinsamen Pool. Was früher an Fixkosten alleine getragen werden musste, wird jetzt kollektiv getragen. Wer alleine 1.000 Euro verdient, zahlt davon selbst alle Kosten. Wer im Pool 1.000 Euro verdient, trägt dieselben Kosten gemeinsam mit anderen – und bekommt dafür Einkaufspreise auf alles, was im System verfügbar ist.",
     "pool_detail": "Der interne Produktpreis deckt nur externe Materialkosten – er enthält keine Arbeit. Arbeit wird durch den Pool vergütet, Güter kosten nur ihren tatsächlichen Materialeinkaufspreis. Je höher der Stundensatz steigt, desto mehr verdient jeder – und die internen Produkte werden trotzdem nicht teurer. Die reale Kaufkraft steigt überproportional mit jedem neuen Angebot im System.",
@@ -43,7 +43,7 @@
     "mittelschicht_text": "Eine Fachkraft mit 22 Euro brutto pro Stunde hat am Ende des Monats etwa 15 Euro netto. Im BtB-System erhält sie 20 Euro netto – und kauft alles intern zu Einkaufspreisen: Lebensmittel, Handwerk, Wohnen, Dienstleistungen. Die reale Kaufkraft steigt weit über das hinaus, was im konventionellen System möglich wäre. Der Effekt: Weniger Arbeitsstunden für denselben Lebensstandard – oder derselbe Aufwand für deutlich mehr Lebensqualität. Je mehr Menschen aus der Mittelschicht dem System beitreten, desto breiter das Angebot, desto stärker die kollektive Wirtschaftskraft – und desto überflüssiger wird ein System, das auf Konkurrenz und Gewinnmaximierung gebaut ist.",
     "megafirma_titel": "Die Genossenschaft als Megafirma",
     "megafirma_text": "Was nach außen wie eine kleine Gemeinschaft aussieht, ist nach innen eine juristische Person mit der vollen Marktmacht eines großen Unternehmens. Eine Betriebshaftpflichtversicherung für alle. Ein Bio-Zertifikat für die Genossenschaft als Ganzes. Demokratische Struktur als Schutz vor externer Übernahme.",
-    "megafirma_unesco": "Die Genossenschaft ist die älteste und bewährteste Form kollektiver Selbsthilfe in Deutschland – von der UNESCO zum immateriellen Weltkulturerbe erklärt. Back to Balance nutzt diese Form nicht aus Tradition, sondern weil sie funktioniert."
+    "megafirma_unesco": "Die Genossenschaft ist die älteste und bewährteste Form kollektiver Selbsthilfe in Deutschland – von der UNESCO zum immateriellen Weltkulturerbe erklärt. Back to Meaning Maximization nutzt diese Form nicht aus Tradition, sondern weil sie funktioniert."
   },
   "gemeinschaft": {
     "titel": "Gemeinschaft bei BtB",
@@ -68,13 +68,13 @@
     "stufen_anwaerter": "Anwärter: Mehr Zeit, Mitarbeit in konkreten Projekten. Dafür: EK-Preise auf ausgewählte Leistungen, Begleitung.",
     "stufen_vollmitglied": "Vollmitglied: Alltag, Arbeitszeit, Fähigkeiten, Stundenerfassung. Dafür: Vollständige Vergütung, Solidarfonds, Stimmrecht, Mitgestaltung.",
     "bildung_titel": "Kompetenz statt Zertifikat",
-    "bildung_text": "Im konventionellen System entscheiden Noten, Numerus Clausus und staatliche Zulassungen, wer einen Beruf ausüben darf. Im Back to Balance Universum gilt intern: Wer es kann, darf es tun. Innerhalb der Genossenschaft erbringen Mitglieder Leistungen füreinander – als genossenschaftliche Selbsthilfe. Es gelten keine externen Zulassungsbeschränkungen für interne Tätigkeiten.",
+    "bildung_text": "Im konventionellen System entscheiden Noten, Numerus Clausus und staatliche Zulassungen, wer einen Beruf ausüben darf. Im Back to Meaning Maximization Universum gilt intern: Wer es kann, darf es tun. Innerhalb der Genossenschaft erbringen Mitglieder Leistungen füreinander – als genossenschaftliche Selbsthilfe. Es gelten keine externen Zulassungsbeschränkungen für interne Tätigkeiten.",
     "bildung_nachweis": "Offener Zugang statt Numerus Clausus. Interner Kompetenznachweis durch Praxis und Mentoring statt Staatsexamen. Erfahrene Mitglieder begleiten und bestätigen Fähigkeit statt Approbation. Leistung wird intern über Coins verrechnet. Lernen ist Arbeit – vergütet wie jede andere Stunde.",
     "bildung_kinder": "Kinder können wieder Kinder sein. Kein Leistungsdruck ab Klasse 3 für den Gymnasialübergang. Kein NC-Optimierung ab Klasse 10. Lernen aus Neugier, nicht aus Angst vor dem Notendurchschnitt. Wer mit 30 Medizin lernen will, kann das – ohne gegen 18-Jährige mit 1,0 zu konkurrieren.",
-    "bildung_kollektiv": "Ein System, das nur die vermeintlich Besten durchlässt, schließt 90 % der Kompetenz aus. Zehn Fachärzte geben einer Patientin zehn verschiedene Diagnosen. Zwanzig Praktiker, die sich austauschen, erkennen Muster. Mehr Augen sehen mehr. Das Back to Balance Universum setzt auf kollektive Kompetenz statt individuelle Spitzenleistung.",
+    "bildung_kollektiv": "Ein System, das nur die vermeintlich Besten durchlässt, schließt 90 % der Kompetenz aus. Zehn Fachärzte geben einer Patientin zehn verschiedene Diagnosen. Zwanzig Praktiker, die sich austauschen, erkennen Muster. Mehr Augen sehen mehr. Das Back to Meaning Maximization Universum setzt auf kollektive Kompetenz statt individuelle Spitzenleistung.",
     "bildung_grenze": "Extern gelten weiterhin alle gesetzlichen Anforderungen. Wer außerhalb des Systems praktiziert, braucht die entsprechende Zulassung. Intern gilt: Kompetenz vor Zertifikat, Begleitung vor Prüfung, Zugang vor Auslese.",
     "nicht_ist_titel": "Was dieses System nicht ist",
-    "nicht_kommunismus": "Kein Kommunismus: Im Kommunismus wird Eigentum zwangsweise kollektiviert – von oben, durch Macht. Das Back to Balance Universum ist das Gegenteil. Jeder Schritt ist freiwillig. Niemand wird zum Teilen gezwungen. Und wer geht, geht frei.",
+    "nicht_kommunismus": "Kein Kommunismus: Im Kommunismus wird Eigentum zwangsweise kollektiviert – von oben, durch Macht. Das Back to Meaning Maximization Universum ist das Gegenteil. Jeder Schritt ist freiwillig. Niemand wird zum Teilen gezwungen. Und wer geht, geht frei.",
     "nicht_anarchismus": "Kein Anarchismus: Das System hat Regeln, eine Satzung, Organe, Abstimmungsprozesse, Konsequenzen. Es ist eine demokratisch verfasste Wirtschaftsgemeinschaft.",
     "nicht_investment": "Kein Investment-Vehikel: Genossenschaftsanteile können nicht gehandelt werden. Wer einlegt, tut das als Bekenntnis – nicht als Investment.",
     "wohnraum_titel": "Wohnraumvergabe",
@@ -89,16 +89,16 @@
   "international": {
     "titel": "BtB International",
     "untertitel": "Einheit statt Streuung",
-    "intro": "Das Back to Balance Universum will nichts verdrängen. Der Euro bleibt die externe Umrechnungswährung. Was angestrebt wird, ist ein weltweites Netzwerk unter einem gemeinsamen System.",
+    "intro": "Das Back to Meaning Maximization Universum will nichts verdrängen. Der Euro bleibt die externe Umrechnungswährung. Was angestrebt wird, ist ein weltweites Netzwerk unter einem gemeinsamen System.",
     "vision_titel": "Die weltweite Vision",
     "vision_text": "Internationale Zellen in der Frühphase führen ihren eigenen lokalen Pool in der Heimatwährung – vollwertig im Netzwerk: sie stimmen ab, teilen Wissen, bauen Module. Der vollständige Beitritt erfolgt, wenn drei Bedingungen erfüllt sind: Die deutsche Kernzelle ist selbsttragend, ein rechtlicher Rahmen für grenzüberschreitende Transfers ist geklärt, und die internationale Zelle hat mindestens drei Perioden stabile Pooleinnahmen nachgewiesen.",
     "einheit_titel": "Einheitliches System statt Open Source",
     "einheit_text": "Eine naheliegende Idee wäre: Satzung, App-Code und Konzept frei verfügbar für andere Genossenschaften machen. Diese Idee wurde geprüft und bewusst verworfen. Fünf parallele «BtB-ähnliche» Genossenschaften sind schwächer als eine mit fünf Zellen. Die Wirkung entsteht aus der Einheit – nicht aus der Verbreitung.",
-    "einheit_detail": "Neue Zellen weltweit schließen sich dem Back to Balance Universum an – unter derselben Satzung, mit Zugang zur gemeinsamen App und zum gemeinsamen Wissenspool. Sie sind Teil des Systems, nicht eine Kopie davon. Das ist der Unterschied zwischen Stärke und Streuung.",
+    "einheit_detail": "Neue Zellen weltweit schließen sich dem Back to Meaning Maximization Universum an – unter derselben Satzung, mit Zugang zur gemeinsamen App und zum gemeinsamen Wissenspool. Sie sind Teil des Systems, nicht eine Kopie davon. Das ist der Unterschied zwischen Stärke und Streuung.",
     "zellen_weltweit_titel": "Zellen weltweit",
     "zellen_weltweit_text": "Jede neue Zelle ist ein Knoten in einem weltweiten Netzwerk. Selbstverwaltet, aber verbunden. Die regulatorische Eigenverantwortung liegt bei jeder Zelle – sie kennt ihre lokalen Gesetze, ihre lokalen Bedürfnisse, ihre lokalen Menschen.",
     "politische_wirkung_titel": "Politische Wirkung durch Existenz",
-    "politische_wirkung_text": "Das Back to Balance Universum hat keinen politischen Auftrag im parteipolitischen Sinne. Es positioniert sich nicht, es fordert nicht, es kämpft nicht gegen. Was es tut, ist stärker: Es existiert. Wenn 1.000 Menschen in diesem Modell leben und zeigen, dass es funktioniert – verändert das den gesellschaftlichen Diskurs. Nicht durch Überzeugung. Durch Demonstration.",
+    "politische_wirkung_text": "Das Back to Meaning Maximization Universum hat keinen politischen Auftrag im parteipolitischen Sinne. Es positioniert sich nicht, es fordert nicht, es kämpft nicht gegen. Was es tut, ist stärker: Es existiert. Wenn 1.000 Menschen in diesem Modell leben und zeigen, dass es funktioniert – verändert das den gesellschaftlichen Diskurs. Nicht durch Überzeugung. Durch Demonstration.",
     "sinnmaximierung_titel": "Sinnmaximierung",
     "sinnmaximierung_text": "Dieser Begriff stammt von Samuel Waldeck, Gründer von Shiftphone. «Das komplette Gegenteil ist für uns: Sinnmaximierung. Und wenn man das in einem Wort zusammenfassen müsste, dann wäre es dieses: Wertschätzung. Auf allen Ebenen, so gut wir es können.»"
   }

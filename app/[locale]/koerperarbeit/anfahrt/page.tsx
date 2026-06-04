@@ -43,7 +43,7 @@ export default function AnfahrtPage() {
             <MapPin size={24} style={{ color: 'var(--btb-rot)', flexShrink: 0, marginTop: 2 }} />
             <div>
               <p style={{ fontWeight: 700, fontSize: '1.1rem', color: 'var(--btb-dunkel)', marginBottom: '0.25rem' }}>
-                Back to Balance — Ganzheitliche Körperarbeit
+                Back to Meaning Maximization — Ganzheitliche Körperarbeit
               </p>
               <p style={{ fontSize: '1rem', color: 'var(--btb-dunkel)', lineHeight: 1.6 }}>
                 Hildastraße 12<br />
@@ -130,7 +130,7 @@ export default function AnfahrtPage() {
               src="https://www.openstreetmap.org/export/embed.html?bbox=7.836%2C47.992%2C7.843%2C47.996&layer=mapnik&marker=47.9938%2C7.8396"
               style={{ width: '100%', height: 350, border: 0 }}
               loading="lazy"
-              title="Standort Back to Balance — Hildastraße 12, Freiburg"
+              title="Standort Back to Meaning Maximization — Hildastraße 12, Freiburg"
             />
             <div style={{
               background: 'var(--btb-creme)',

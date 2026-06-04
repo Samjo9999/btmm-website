@@ -9,7 +9,7 @@ import { HeroImageLightbox } from '@/components/HeroImageLightbox'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Das Konzept – Back to Balance',
+  title: 'Das Konzept – Back to Meaning Maximization',
   description: 'Das BtB-Konzept: Gleicher Stundensatz, Pool-Dreiteilung, BtB-Coins, selbstverwaltete Zellen und internationale Vision.',
 }
 
@@ -78,7 +78,7 @@ export default async function KonzeptPage() {
               Was wäre, wenn faire Löhne und günstige Preise kein Widerspruch wären?
             </h2>
             <p style={{ lineHeight: 1.8, fontSize: '1.05rem', marginBottom: '1rem', textAlign: 'center', maxWidth: 660, margin: '0 auto 1rem' }}>
-              Im konventionellen Markt verteuert jede Lohnerhöhung das Produkt. Im Back to Balance System kommt der Lohn aus dem gemeinsamen Pool — Produktpreise decken nur Materialkosten. Der EK-Preis-Vorteil gilt für alle internen Leistungen und Produkte: Lebensmittel, Handwerk, Körperarbeit, Unterricht, Reparaturen, Wohnen. Je größer das Sortiment, desto mehr Ersparnis.
+              Im konventionellen Markt verteuert jede Lohnerhöhung das Produkt. Im Back to Meaning Maximization System kommt der Lohn aus dem gemeinsamen Pool — Produktpreise decken nur Materialkosten. Der EK-Preis-Vorteil gilt für alle internen Leistungen und Produkte: Lebensmittel, Handwerk, Körperarbeit, Unterricht, Reparaturen, Wohnen. Je größer das Sortiment, desto mehr Ersparnis.
             </p>
             <p style={{ lineHeight: 1.8, fontSize: '1.05rem', textAlign: 'center', maxWidth: 660, margin: '0 auto 2rem' }}>
               Eine Stunde ist eine Stunde — ob kochen, bauen, heilen oder programmieren. Der Ziel-Stundensatz liegt bei 20 € netto – ein Wert, der ein gutes Leben ohne Luxus ermöglicht und auch bei externer Marktmiete die Lebenshaltung deckt. Auch für die Mittelschicht ein Gewinn: höheres Netto und EK-Preise auf alles Interne. Im voll ausgebauten System decken 47 Stunden im Monat die gesamte Lebenshaltung.

@@ -4,8 +4,8 @@ import { SectionReveal } from '@/components/AnimatedCounter'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Impressum & Datenschutz – Back to Balance',
-  description: 'Impressum und Datenschutzerklärung von Back to Balance, Freiburg im Breisgau.',
+  title: 'Impressum & Datenschutz – Back to Meaning Maximization',
+  description: 'Impressum und Datenschutzerklärung von Back to Meaning Maximization, Freiburg im Breisgau.',
 }
 
 export default async function ImpressumPage() {

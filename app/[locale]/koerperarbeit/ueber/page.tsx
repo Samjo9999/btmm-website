@@ -13,7 +13,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Über den Begleiter – Körperarbeit Freiburg | BtB',
-  description: 'Samjo – Körperarbeiter und Begleiter bei Back to Balance in Freiburg. Ausbildung, Ansatz und Hintergrund.',
+  description: 'Samjo – Körperarbeiter und Begleiter bei Back to Meaning Maximization in Freiburg. Ausbildung, Ansatz und Hintergrund.',
 }
 
 export default async function UeberPage() {

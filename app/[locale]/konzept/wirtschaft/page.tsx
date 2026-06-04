@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Wirtschaft – BtB Konzept',
-  description: 'Pool, Dreiteilung, BtB-Coin, EK-Preis-Vorteil und Modellrechnungen: Das wirtschaftliche Fundament von Back to Balance.',
+  description: 'Pool, Dreiteilung, BtB-Coin, EK-Preis-Vorteil und Modellrechnungen: Das wirtschaftliche Fundament von Back to Meaning Maximization.',
 }
 
 export default async function WirtschaftPage() {

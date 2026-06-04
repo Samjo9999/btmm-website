@@ -2,13 +2,13 @@
 
 **Johannes-Samuel Gartzke · Version 1.1.0**
 
-> Diese Anleitung erklärt, wie das wirtschaftliche System des Back to Balance Universums im Alltag funktioniert – Schritt für Schritt.
+> Diese Anleitung erklärt, wie das wirtschaftliche System des Back to Meaning Maximization Universums im Alltag funktioniert – Schritt für Schritt.
 
 ---
 
 ## Grundprinzip: Lohn und Preis sind entkoppelt
 
-Im konventionellen Markt ist Lohn eine Kostenposition, die im Produktpreis weitergewälzt wird. Jede Lohnerhöhung verteuert das Produkt. **Im Back to Balance System gilt das nicht.** Der interne Produktpreis deckt nur externe Materialkosten – er enthält keine Arbeit.
+Im konventionellen Markt ist Lohn eine Kostenposition, die im Produktpreis weitergewälzt wird. Jede Lohnerhöhung verteuert das Produkt. **Im Back to Meaning Maximization System gilt das nicht.** Der interne Produktpreis deckt nur externe Materialkosten – er enthält keine Arbeit.
 
 Das bedeutet: **Hohe Löhne und günstige interne Preise sind kein Widerspruch.** Sie sind die natürliche Konsequenz der Poollogik.
 
@@ -121,7 +121,7 @@ Für den Aufbau einer Zelle kann ein **Direktkredit-Modell** eingesetzt werden: 
 
 > „Das komplette Gegenteil ist für uns: Sinnmaximierung. Und wenn man das in einem Wort zusammenfassen müsste, dann wäre es dieses: Wertschätzung." – Samuel Waldeck, Gründer von Shiftphone
 
-Das Back to Balance Universum maximiert nicht Gewinn, sondern Sinn. Jede wirtschaftliche Entscheidung wird an der Frage gemessen: **Dient das dem System, den Menschen und der Erde – oder nur dem Kontostand?**
+Das Back to Meaning Maximization Universum maximiert nicht Gewinn, sondern Sinn. Jede wirtschaftliche Entscheidung wird an der Frage gemessen: **Dient das dem System, den Menschen und der Erde – oder nur dem Kontostand?**
 
 ---
 

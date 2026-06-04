@@ -1,6 +1,6 @@
 {
   "titel": "Preguntas frecuentes",
-  "untertitel": "Respuestas a las preguntas más importantes sobre Back to Balance",
+  "untertitel": "Respuestas a las preguntas más importantes sobre Back to Meaning Maximization",
   "kategorien": {
     "allgemein": "General",
     "mitgliedschaft": "Membresía",
@@ -10,8 +10,8 @@
   },
   "fragen": {
     "was_ist_btb": {
-      "frage": "¿Qué es Back to Balance?",
-      "antwort": "Back to Balance (BtB) es un proyecto comunitario que desarrolla y pone en práctica un modelo económico alternativo. Combina la cooperación económica con el trabajo corporal somático y la construcción de comunidades locales."
+      "frage": "¿Qué es Back to Meaning Maximization?",
+      "antwort": "Back to Meaning Maximization (BtB) es un proyecto comunitario que desarrolla y pone en práctica un modelo económico alternativo. Combina la cooperación económica con el trabajo corporal somático y la construcción de comunidades locales."
     },
     "wie_mitmachen": {
       "frage": "¿Cómo puedo participar?",

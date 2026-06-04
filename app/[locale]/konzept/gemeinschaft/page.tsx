@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Gemeinschaft – BtB Konzept',
-  description: 'Zellen, Solidarfonds, Gleichwürdigkeit, Konsequenzsystem und Mitgliedsstufen: Die gemeinschaftlichen Grundlagen von Back to Balance.',
+  description: 'Zellen, Solidarfonds, Gleichwürdigkeit, Konsequenzsystem und Mitgliedsstufen: Die gemeinschaftlichen Grundlagen von Back to Meaning Maximization.',
 }
 
 export default async function GemeinschaftPage() {

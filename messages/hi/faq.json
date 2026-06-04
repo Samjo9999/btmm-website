@@ -1,6 +1,6 @@
 {
   "titel": "अक्सर पूछे जाने वाले प्रश्न",
-  "untertitel": "Back to Balance के बारे में सबसे महत्वपूर्ण प्रश्नों के उत्तर",
+  "untertitel": "Back to Meaning Maximization के बारे में सबसे महत्वपूर्ण प्रश्नों के उत्तर",
   "kategorien": {
     "allgemein": "सामान्य",
     "mitgliedschaft": "सदस्यता",
@@ -10,8 +10,8 @@
   },
   "fragen": {
     "was_ist_btb": {
-      "frage": "Back to Balance क्या है?",
-      "antwort": "Back to Balance (BtB) एक सामुदायिक परियोजना है जो एक वैकल्पिक आर्थिक मॉडल विकसित और परीक्षण करती है। यह आर्थिक सहयोग को दैहिक शारीरिक कार्य और स्थानीय समुदायों के निर्माण के साथ जोड़ती है।"
+      "frage": "Back to Meaning Maximization क्या है?",
+      "antwort": "Back to Meaning Maximization (BtB) एक सामुदायिक परियोजना है जो एक वैकल्पिक आर्थिक मॉडल विकसित और परीक्षण करती है। यह आर्थिक सहयोग को दैहिक शारीरिक कार्य और स्थानीय समुदायों के निर्माण के साथ जोड़ती है।"
     },
     "wie_mitmachen": {
       "frage": "मैं कैसे भाग ले सकता/सकती हूँ?",

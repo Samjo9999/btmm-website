@@ -1,4 +1,4 @@
-# Back to Balance – Eine kurze Einführung
+# Back to Meaning Maximization – Eine kurze Einführung
 
 **Johannes-Samuel Gartzke**
 
@@ -8,7 +8,7 @@
 
 > Was wäre, wenn du morgens aufstehst und weißt: Meine Arbeit trägt mich.
 
-Back to Balance ist ein genossenschaftlich organisiertes Wirtschaftssystem, in dem Menschen gemeinsam arbeiten, gemeinsam wirtschaften und gemeinsam leben – ohne dass Arbeit gegen Arbeit ausgespielt wird. Im Zentrum steht ein **Pool**, in den alle Einnahmen fließen. Aus diesem Pool wird alles finanziert: Vergütung, Infrastruktur, Soziales.
+Back to Meaning Maximization ist ein genossenschaftlich organisiertes Wirtschaftssystem, in dem Menschen gemeinsam arbeiten, gemeinsam wirtschaften und gemeinsam leben – ohne dass Arbeit gegen Arbeit ausgespielt wird. Im Zentrum steht ein **Pool**, in den alle Einnahmen fließen. Aus diesem Pool wird alles finanziert: Vergütung, Infrastruktur, Soziales.
 
 ### Die Dreiteilung
 

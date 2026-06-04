@@ -14,7 +14,7 @@ export function SupportChat() {
   const [nachrichten, setNachrichten] = useState<Nachricht[]>([
     {
       rolle: 'agent',
-      text: 'Hallo! Ich bin der BtB-Assistent und kenne alle Dokumente und Konzepte von Back to Balance. Stell mir deine Frage — ich versuche sie direkt zu beantworten.',
+      text: 'Hallo! Ich bin der BtB-Assistent und kenne alle Dokumente und Konzepte von Back to Meaning Maximization. Stell mir deine Frage — ich versuche sie direkt zu beantworten.',
     },
   ])
   const [laden, setLaden] = useState(false)

@@ -1,4 +1,4 @@
-# Back to Balance – Ein Universum im Entstehen
+# Back to Meaning Maximization – Ein Universum im Entstehen
 
 **Johannes-Samuel Gartzke · Version 16.1.0 — April 2026**
 
@@ -10,9 +10,9 @@
 
 Ich bin auf einem Hof aufgewachsen. Nicht als Idee, nicht als Experiment – als gelebtes Leben. Die happyfarm im Schwarzwald, in Oberkirch am Fuße des Schwarzwaldes gelegen, existiert seit 2003. Was dort entstand, lässt sich in keiner Kategorie richtig einordnen: Selbstversorgung mit Gemüse, Obst, Eiern und Milch. Käseproduktion aus einer Ziegenherde von zwanzig Tieren. Siebzig Hühner, vier Gänse, vier Wildpferde – alle dürfen friedlich leben bis sie eines natürlichen Todes sterben. Handwerk in den verschiedensten Formen. Körperarbeit, Coaching, Seminare, Umweltbildung. Eine Gemeinschaft von Menschen und Tieren, die miteinander leben, statt nebeneinander zu existieren.
 
-Der Name hat eine Geschichte. Aus einer Ausbildung in systemischer Körperarbeit entstand ein erstes Angebot – und mit ihm ein Name: Back to Balance. Zurück ins Gleichgewicht. Diese Körperarbeit nimmt den Menschen als Ganzes wahr. Der Körper ist ein System – alles steht in Beziehung, alles beeinflusst sich gegenseitig. Irgendwann wurde klar, dass dieser Name mehr beschreibt als eine Methode. Er beschreibt eine Haltung. Eine Vision. Ein Universum.
+Der Name hat eine Geschichte. Aus einer Ausbildung in systemischer Körperarbeit entstand ein erstes Angebot – und mit ihm ein Name: Back to Meaning Maximization. Zurück ins Gleichgewicht. Diese Körperarbeit nimmt den Menschen als Ganzes wahr. Der Körper ist ein System – alles steht in Beziehung, alles beeinflusst sich gegenseitig. Irgendwann wurde klar, dass dieser Name mehr beschreibt als eine Methode. Er beschreibt eine Haltung. Eine Vision. Ein Universum.
 
-Die happyfarm ist nicht das Back to Balance Universum. Sie ist seine Inspiration. Sie stellt keine Ressourcen bereit und ist nicht Teil der Struktur. Sie zeigt nur – still und täglich – dass ein anderes Leben möglich ist.
+Die happyfarm ist nicht das Back to Meaning Maximization Universum. Sie ist seine Inspiration. Sie stellt keine Ressourcen bereit und ist nicht Teil der Struktur. Sie zeigt nur – still und täglich – dass ein anderes Leben möglich ist.
 
 ---
 
@@ -20,7 +20,7 @@ Die happyfarm ist nicht das Back to Balance Universum. Sie ist seine Inspiration
 
 **Das System muss nicht perfekt ausgebaut sein um zu helfen. Es muss nur beginnen.**
 
-Fünf Menschen. Alle auf Bürgergeld, je 563 Euro im Monat. Kein Startkapital. Kein gemieteter Raum. Keine fertige App. Keine eingetragene Genossenschaft. Was hat das Back to Balance Universum diesen fünf Menschen heute zu bieten?
+Fünf Menschen. Alle auf Bürgergeld, je 563 Euro im Monat. Kein Startkapital. Kein gemieteter Raum. Keine fertige App. Keine eingetragene Genossenschaft. Was hat das Back to Meaning Maximization Universum diesen fünf Menschen heute zu bieten?
 
 **Der erste Schritt: eine Gewerbeanmeldung.** 30 Euro. Ein Vormittag. Ab diesem Moment öffnen sich die Türen der regionalen Bio-Großhändler – Ökoring, Terra Naturkost, Weiling. Fünf Menschen die bisher getrennt einkaufen, kaufen jetzt gemeinsam.
 
@@ -46,7 +46,7 @@ Wir leben in einer Zeit enormer Möglichkeiten und gleichzeitig tiefer Erschöpf
 
 Im konventionellen Markt ist Lohn eine Kostenposition die im Produktpreis weitergewälzt wird. Jede Lohnerhöhung verteuert das Produkt. **Faire Löhne und günstige Preise widersprechen sich strukturell** – das ist kein Versagen des Marktes, das ist seine Logik.
 
-Im Back to Balance System gilt das intern nicht. Der interne Produktpreis deckt nur externe Materialkosten – er enthält keine Arbeit. **Hohe Löhne und günstige interne Preise gleichzeitig** – das ist die natürliche Konsequenz der Poollogik.
+Im Back to Meaning Maximization System gilt das intern nicht. Der interne Produktpreis deckt nur externe Materialkosten – er enthält keine Arbeit. **Hohe Löhne und günstige interne Preise gleichzeitig** – das ist die natürliche Konsequenz der Poollogik.
 
 Der Kaufkraftgewinn durch EK-Preise ist keine Theorie. Er entsteht, weil Lohn und Produktpreis entkoppelt sind: Arbeit wird durch den Pool vergütet, Güter kosten nur ihren tatsächlichen Materialeinkaufspreis. Wer im System lebt, kauft nie zum Marktpreis – und das macht bei steigendem Stundensatz den Unterschied aus, der konventionell strukturell unmöglich ist.
 
@@ -54,7 +54,7 @@ Der EK-Preis-Vorteil gilt für **alle** internen Leistungen und Produkte – Leb
 
 ### Die rechtliche Form
 
-| Säule | Back to Balance eG | Back to Balance e.V. |
+| Säule | Back to Meaning Maximization eG | Back to Meaning Maximization e.V. |
 |---|---|---|
 | Rechtsform | Eingetragene Genossenschaft | Gemeinnütziger Verein |
 | Trägt | Wirtschaftliche Tätigkeiten, Pool, Vergütung | Bildung, soziale Projekte, ideelle Arbeit |
@@ -141,7 +141,7 @@ Sobald die Genossenschaft eigene Immobilien besitzt oder langfristig anmietet, w
 
 Im konventionellen System entscheiden Noten, Numerus Clausus und staatliche Zulassungen, wer einen Beruf ausüben darf. Das Ergebnis: Tausende kompetente Menschen werden ausgeschlossen, Kinder stehen ab dem Grundschulalter unter Leistungsdruck, und ein Studienplatz wird zum Engpass statt zum Recht.
 
-**Im Back to Balance Universum gilt intern: Wer es kann, darf es tun.**
+**Im Back to Meaning Maximization Universum gilt intern: Wer es kann, darf es tun.**
 
 Innerhalb der Genossenschaft erbringen Mitglieder Leistungen füreinander – als genossenschaftliche Selbsthilfe. Es gelten keine externen Zulassungsbeschränkungen für interne Tätigkeiten. Niemand führt geschützte Titel (Arzt, Rechtsanwalt), aber jeder kann als Begleiter, Berater, Praktiker oder Lehrende tätig sein – wenn die Kompetenz da ist.
 
@@ -161,7 +161,7 @@ Kinder können wieder Kinder sein. Kein Leistungsdruck ab Klasse 3 für den Gymn
 
 ### Warum mehr Praktiker besser sein können als weniger Spezialisten
 
-Ein System, das nur die vermeintlich Besten durchlässt, schließt 90 % der Kompetenz aus. Zehn Fachärzte geben einer Patientin zehn verschiedene Diagnosen. Zwanzig Praktiker, die sich austauschen, erkennen Muster. Mehr Augen sehen mehr. Das Back to Balance Universum setzt auf kollektive Kompetenz statt individuelle Spitzenleistung.
+Ein System, das nur die vermeintlich Besten durchlässt, schließt 90 % der Kompetenz aus. Zehn Fachärzte geben einer Patientin zehn verschiedene Diagnosen. Zwanzig Praktiker, die sich austauschen, erkennen Muster. Mehr Augen sehen mehr. Das Back to Meaning Maximization Universum setzt auf kollektive Kompetenz statt individuelle Spitzenleistung.
 
 ### Die Grenze
 
@@ -187,7 +187,7 @@ Dieser Begriff stammt von Samuel Waldeck, Gründer von Shiftphone aus Falkenberg
 
 ## 13. International – ein Horizont
 
-Das Back to Balance Universum will nichts verdrängen. Internationale Zellen in der Frühphase führen ihren eigenen lokalen Pool in der Heimatwährung – vollwertig im Netzwerk. Der vollständige Beitritt erfolgt wenn die deutsche Kernzelle selbsttragend ist.
+Das Back to Meaning Maximization Universum will nichts verdrängen. Internationale Zellen in der Frühphase führen ihren eigenen lokalen Pool in der Heimatwährung – vollwertig im Netzwerk. Der vollständige Beitritt erfolgt wenn die deutsche Kernzelle selbsttragend ist.
 
 ---
 
@@ -205,7 +205,7 @@ Das Back to Balance Universum will nichts verdrängen. Internationale Zellen in 
 
 ### Nachhaltigkeit im Detail
 
-Nachhaltigkeit ist kein Marketingwort. Im Back to Balance Universum ist sie eine Entscheidungsregel: **Wenn eine Handlung die Erde, die Gemeinschaft oder zukünftige Generationen schädigt, findet sie nicht statt – auch wenn sie billiger, bequemer oder profitabler wäre.**
+Nachhaltigkeit ist kein Marketingwort. Im Back to Meaning Maximization Universum ist sie eine Entscheidungsregel: **Wenn eine Handlung die Erde, die Gemeinschaft oder zukünftige Generationen schädigt, findet sie nicht statt – auch wenn sie billiger, bequemer oder profitabler wäre.**
 
 Das bedeutet konkret, dass Handel mit Konzernen, deren Geschäftsmodell auf systematischer Ausbeutung von Mensch, Natur oder Marktmacht beruht, **kategorisch ausgeschlossen** ist. Keine Ausnahme, kein Kompromiss, kein „aber es ist halt günstiger".
 
@@ -229,6 +229,6 @@ Das bedeutet konkret, dass Handel mit Konzernen, deren Geschäftsmodell auf syst
 
 ---
 
-*Das ist das Back to Balance Universum. Nicht fertig. Nicht perfekt. Aber ehrlich.*
+*Das ist das Back to Meaning Maximization Universum. Nicht fertig. Nicht perfekt. Aber ehrlich.*
 
 *Die Saat liegt noch im Kern. Aber du weißt jetzt, was in ihr steckt. Was sie braucht, um zu keimen, ist einfach: Menschen, die ihr Erde und Wasser geben.*

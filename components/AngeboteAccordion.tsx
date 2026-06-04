@@ -42,7 +42,7 @@ const SERVICES_API_BASE = 'https://xcngmshjuqoucdlgikao.supabase.co/functions/v1
 const FALLBACK_ANGEBOTE: Angebot[] = [
   {
     id: 'koerperarbeit-freiburg',
-    titel: 'Back to Balance Körperarbeit - 79102 Freiburg D',
+    titel: 'Back to Meaning Maximization Körperarbeit - 79102 Freiburg D',
     beschreibung: 'Tiefgreifende Wellnessmethode für den gesamten Bewegungsapparat. Sanfte Schwingungen bewirken einen Reset auf allen Gelenkebenen.',
     details: [
       'Besonders wohltuend bei Rückenbeschwerden, Verspannungen und Kopfschmerzen',
@@ -92,7 +92,7 @@ function servicesToAngebote(services: ServiceData[], vatEnabled: boolean, vatRat
 
     return {
       id: key,
-      titel: `Back to Balance ${category} - ${location}`,
+      titel: `Back to Meaning Maximization ${category} - ${location}`,
       beschreibung,
       details: details.length > 0 ? details : [
         'Einzelsitzungen und Pakete verfügbar',

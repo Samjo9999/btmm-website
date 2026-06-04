@@ -2,7 +2,7 @@
   "uebersicht": {
     "titel": "The BtB Concept",
     "untertitel": "A Universe in the Making",
-    "text": "Back to Balance is an economic system built on the fundamental principles of equal dignity, sustainability and non-violence. Not as a utopia – but as a concrete model that builds on two proven legal forms, calculates with real numbers and is honest about what it cannot yet deliver in its founding phase.",
+    "text": "Back to Meaning Maximization is an economic system built on the fundamental principles of equal dignity, sustainability and non-violence. Not as a utopia – but as a concrete model that builds on two proven legal forms, calculates with real numbers and is honest about what it cannot yet deliver in its founding phase.",
     "wirtschaft_titel": "Economy",
     "wirtschaft_text": "In the conventional market, fair wages and affordable prices are structurally contradictory. In the BtB system, they are the natural consequence: wages come from the pool, product prices cover only material costs.",
     "gemeinschaft_titel": "Community",
@@ -13,7 +13,7 @@
   "wirtschaft": {
     "titel": "Economy at BtB",
     "untertitel": "Fair wages and affordable prices – simultaneously",
-    "intro": "In the conventional market, wages are a cost item passed on in the product price. Every wage increase makes the product more expensive. Fair wages and affordable prices are structurally contradictory – this is not a failure of the market, it is its logic. Within the Back to Balance system, this does not apply internally.",
+    "intro": "In the conventional market, wages are a cost item passed on in the product price. Every wage increase makes the product more expensive. Fair wages and affordable prices are structurally contradictory – this is not a failure of the market, it is its logic. Within the Back to Meaning Maximization system, this does not apply internally.",
     "pool_titel": "The Shared Pool",
     "pool_text": "All income flows into a shared pool. What used to be borne alone as fixed costs is now carried collectively. If you earn 1,000 euros alone, you pay all costs yourself. If you earn 1,000 euros in the pool, you share those same costs with others – and get purchase prices on everything available in the system.",
     "pool_detail": "The internal product price covers only external material costs – it contains no labour. Labour is compensated through the pool, goods cost only their actual material purchase price. The higher the hourly rate rises, the more everyone earns – and internal products still don't get more expensive. Real purchasing power rises disproportionately with every new offering in the system.",
@@ -43,7 +43,7 @@
     "mittelschicht_text": "A skilled worker earning 22 euros gross per hour takes home about 15 euros net. In the BtB system, they receive 20 euros net – and buy everything internally at purchase prices: food, craftsmanship, housing, services. Real purchasing power rises far beyond what is possible in the conventional system. The effect: fewer working hours for the same standard of living – or the same effort for significantly more quality of life. The more middle class people join the system, the broader the range of offerings, the stronger the collective economic power – and the more obsolete a system built on competition and profit maximisation becomes.",
     "megafirma_titel": "The Cooperative as a Mega-Company",
     "megafirma_text": "What looks like a small community from the outside is, on the inside, a legal entity with the full market power of a large company. One business liability insurance for all. One organic certificate for the cooperative as a whole. Democratic structure as protection against external takeover.",
-    "megafirma_unesco": "The cooperative is the oldest and most proven form of collective self-help in Germany – declared an intangible cultural heritage by UNESCO. Back to Balance uses this form not out of tradition, but because it works."
+    "megafirma_unesco": "The cooperative is the oldest and most proven form of collective self-help in Germany – declared an intangible cultural heritage by UNESCO. Back to Meaning Maximization uses this form not out of tradition, but because it works."
   },
   "gemeinschaft": {
     "titel": "Community at BtB",
@@ -68,13 +68,13 @@
     "stufen_anwaerter": "Candidate: More time, participation in concrete projects. In return: purchase prices on selected services, guidance.",
     "stufen_vollmitglied": "Full member: Daily life, working hours, skills, time tracking. In return: full compensation, solidarity fund, voting rights, co-creation.",
     "bildung_titel": "Competence Over Certificates",
-    "bildung_text": "In the conventional system, grades, Numerus Clausus and state licences determine who may practise a profession. Inside the Back to Balance Universe a different principle applies: if you can do it, you may do it. Within the cooperative, members provide services to one another – as cooperative mutual aid. No external licensing restrictions apply to internal activities.",
+    "bildung_text": "In the conventional system, grades, Numerus Clausus and state licences determine who may practise a profession. Inside the Back to Meaning Maximization Universe a different principle applies: if you can do it, you may do it. Within the cooperative, members provide services to one another – as cooperative mutual aid. No external licensing restrictions apply to internal activities.",
     "bildung_nachweis": "Open access instead of Numerus Clausus. Internal proof of competence through practice and mentoring instead of state examinations. Experienced members accompany and confirm ability instead of official accreditation. Services are settled internally via Coins. Learning is work – compensated like any other hour.",
     "bildung_kinder": "Children can be children again. No performance pressure from year 3 for the grammar-school transition. No grade-point optimisation from year 10. Learning from curiosity, not from fear of the grade average. Anyone who wants to study medicine at 30 can do so – without competing against 18-year-olds with a 1.0 average.",
-    "bildung_kollektiv": "A system that only lets the supposedly best through excludes 90 % of competence. Ten specialists give a patient ten different diagnoses. Twenty practitioners who exchange ideas recognise patterns. More eyes see more. The Back to Balance Universe relies on collective competence rather than individual elite performance.",
+    "bildung_kollektiv": "A system that only lets the supposedly best through excludes 90 % of competence. Ten specialists give a patient ten different diagnoses. Twenty practitioners who exchange ideas recognise patterns. More eyes see more. The Back to Meaning Maximization Universe relies on collective competence rather than individual elite performance.",
     "bildung_grenze": "Externally, all legal requirements continue to apply. Anyone practising outside the system needs the corresponding licence. Internally the rule is: competence before certificate, mentoring before examination, access before selection.",
     "nicht_ist_titel": "What This System Is Not",
-    "nicht_kommunismus": "Not communism: In communism, property is forcibly collectivised – from above, through power. The Back to Balance Universe is the opposite. Every step is voluntary. Nobody is forced to share. And whoever leaves, leaves freely.",
+    "nicht_kommunismus": "Not communism: In communism, property is forcibly collectivised – from above, through power. The Back to Meaning Maximization Universe is the opposite. Every step is voluntary. Nobody is forced to share. And whoever leaves, leaves freely.",
     "nicht_anarchismus": "Not anarchism: The system has rules, a charter, organs, voting processes, consequences. It is a democratically constituted economic community.",
     "nicht_investment": "Not an investment vehicle: Cooperative shares cannot be traded. Whoever invests does so as a commitment – not as an investment.",
     "wohnraum_titel": "Housing Allocation",
@@ -89,16 +89,16 @@
   "international": {
     "titel": "BtB International",
     "untertitel": "Unity Instead of Dispersal",
-    "intro": "The Back to Balance Universe does not want to displace anything. The euro remains the external conversion currency. What is aspired to is a worldwide network under one shared system.",
+    "intro": "The Back to Meaning Maximization Universe does not want to displace anything. The euro remains the external conversion currency. What is aspired to is a worldwide network under one shared system.",
     "vision_titel": "The Global Vision",
     "vision_text": "International cells in the early phase run their own local pool in the home currency – fully part of the network: they vote, share knowledge, build modules. Full accession happens when three conditions are met: the German core cell is self-sustaining, a legal framework for cross-border transfers is clarified, and the international cell has demonstrated at least three periods of stable pool income.",
     "einheit_titel": "Unified System Instead of Open Source",
     "einheit_text": "An obvious idea would be: make the charter, app code and concept freely available for other cooperatives. This idea was examined and deliberately rejected. Five parallel 'BtB-like' cooperatives are weaker than one with five cells. The impact comes from unity – not from proliferation.",
-    "einheit_detail": "New cells worldwide join the Back to Balance Universe – under the same charter, with access to the shared app and the shared knowledge pool. They are part of the system, not a copy of it. That is the difference between strength and dispersal.",
+    "einheit_detail": "New cells worldwide join the Back to Meaning Maximization Universe – under the same charter, with access to the shared app and the shared knowledge pool. They are part of the system, not a copy of it. That is the difference between strength and dispersal.",
     "zellen_weltweit_titel": "Cells Worldwide",
     "zellen_weltweit_text": "Every new cell is a node in a worldwide network. Self-governed, but connected. The regulatory responsibility lies with each cell – it knows its local laws, its local needs, its local people.",
     "politische_wirkung_titel": "Political Impact Through Existence",
-    "politische_wirkung_text": "The Back to Balance Universe has no political mission in the party-political sense. It does not position itself, it does not demand, it does not fight against. What it does is stronger: it exists. When 1,000 people live in this model and show that it works – that changes the societal discourse. Not through persuasion. Through demonstration.",
+    "politische_wirkung_text": "The Back to Meaning Maximization Universe has no political mission in the party-political sense. It does not position itself, it does not demand, it does not fight against. What it does is stronger: it exists. When 1,000 people live in this model and show that it works – that changes the societal discourse. Not through persuasion. Through demonstration.",
     "sinnmaximierung_titel": "Meaning Maximization",
     "sinnmaximierung_text": "This term comes from Samuel Waldeck, founder of Shiftphone. 'The complete opposite for us is: meaning maximisation. And if you had to sum it up in one word, it would be: appreciation. On all levels, as best we can.'"
   }

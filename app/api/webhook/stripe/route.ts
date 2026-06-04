@@ -11,8 +11,8 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
   const istSpende = typ === 'spende'
 
   const betreff = istSpende
-    ? `Danke für deine Spende über ${betrag} € — Back to Balance`
-    : `Buchungsbestätigung: ${details.produkt_name || 'Körperarbeit'} — Back to Balance`
+    ? `Danke für deine Spende über ${betrag} € — Back to Meaning Maximization`
+    : `Buchungsbestätigung: ${details.produkt_name || 'Körperarbeit'} — Back to Meaning Maximization`
 
   const html = istSpende
     ? `
@@ -40,10 +40,10 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
           <em>Hinweis: BtB ist aktuell kein gemeinnütziger Verein — Spenden sind daher
           noch nicht steuerlich absetzbar.</em>
         </p>
-        <p style="line-height: 1.8;">Herzliche Grüße,<br/><strong>Das Back to Balance Team</strong></p>
+        <p style="line-height: 1.8;">Herzliche Grüße,<br/><strong>Das Back to Meaning Maximization Team</strong></p>
         <hr style="border: none; height: 1px; background: #f0e9b6; margin: 2rem 0;" />
         <p style="font-size: 0.8rem; opacity: 0.5; text-align: center;">
-          Back to Balance · Freiburg · <a href="https://backtobalance.online" style="color: #2a7cab;">backtobalance.online</a>
+          Back to Meaning Maximization · Freiburg · <a href="https://backtobalance.online" style="color: #2a7cab;">backtobalance.online</a>
         </p>
       </div>
     `
@@ -75,17 +75,17 @@ async function sendeBestaetigung(email: string, typ: string, betrag: number, det
             Termin vereinbaren
           </a>
         </p>
-        <p style="line-height: 1.8; margin-top: 1.5rem;">Herzliche Grüße,<br/><strong>Samjo — Back to Balance Körperarbeit</strong></p>
+        <p style="line-height: 1.8; margin-top: 1.5rem;">Herzliche Grüße,<br/><strong>Samjo — Back to Meaning Maximization Körperarbeit</strong></p>
         <hr style="border: none; height: 1px; background: #f0e9b6; margin: 2rem 0;" />
         <p style="font-size: 0.8rem; opacity: 0.5; text-align: center;">
-          Back to Balance · Freiburg · <a href="https://backtobalance.online" style="color: #2a7cab;">backtobalance.online</a>
+          Back to Meaning Maximization · Freiburg · <a href="https://backtobalance.online" style="color: #2a7cab;">backtobalance.online</a>
         </p>
       </div>
     `
 
   try {
     await resend.emails.send({
-      from: 'Back to Balance <noreply@backtobalance.online>',
+      from: 'Back to Meaning Maximization <noreply@backtobalance.online>',
       to: [email],
       subject: betreff,
       html,

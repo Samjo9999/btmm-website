@@ -31,17 +31,17 @@ const garamond = EB_Garamond({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Back to Balance – Wirtschaft, die trägt.',
-    template: '%s | Back to Balance',
+    default: 'Back to Meaning Maximization – Wirtschaft, die trägt.',
+    template: '%s | Back to Meaning Maximization',
   },
   description:
-    'Back to Balance verbindet wirtschaftliche Stärke mit menschlicher Würde. Somatische Körperarbeit, Gemeinschaft und ein alternatives Wirtschaftsmodell in Freiburg.',
+    'Back to Meaning Maximization verbindet wirtschaftliche Stärke mit menschlicher Würde. Somatische Körperarbeit, Gemeinschaft und ein alternatives Wirtschaftsmodell in Freiburg.',
   metadataBase: new URL('https://backtobalance.online'),
   openGraph: {
     type: 'website',
     locale: 'de_DE',
     url: 'https://backtobalance.online',
-    siteName: 'Back to Balance',
+    siteName: 'Back to Meaning Maximization',
     images: [{ url: '/og-image.png', width: 1200, height: 630 }],
   },
   twitter: { card: 'summary_large_image' },

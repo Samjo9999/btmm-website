@@ -203,7 +203,7 @@ async function main() {
 
             /* Footer */
             body::after {
-              content: 'Back to Balance · backtobalance.online';
+              content: 'Back to Meaning Maximization · backtobalance.online';
               display: block;
               text-align: center;
               font-size: 0.75rem;

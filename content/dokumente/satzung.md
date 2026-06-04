@@ -1,4 +1,4 @@
-# Back to Balance eG – Satzung der eingetragenen Genossenschaft
+# Back to Meaning Maximization eG – Satzung der eingetragenen Genossenschaft
 
 **Sitz: Freiburg im Breisgau · Entwurf 2026**
 
@@ -10,7 +10,7 @@
 
 ### § 1 Name, Sitz und Geschäftsjahr
 
-1. Die Genossenschaft trägt den Namen: **Back to Balance eG**.
+1. Die Genossenschaft trägt den Namen: **Back to Meaning Maximization eG**.
 2. Sie hat ihren Sitz in Freiburg im Breisgau.
 3. Das Geschäftsjahr ist das Kalenderjahr.
 
@@ -131,28 +131,28 @@
 
 ### § 23 Auflösung
 
-Auflösung nur mit 75 % Mehrheit der Generalversammlung. Verbleibendes Vermögen fällt an den Back to Balance e.V.
+Auflösung nur mit 75 % Mehrheit der Generalversammlung. Verbleibendes Vermögen fällt an den Back to Meaning Maximization e.V.
 
 ---
 
-*Back to Balance eG · Freiburg im Breisgau · Entwurf 2026*
+*Back to Meaning Maximization eG · Freiburg im Breisgau · Entwurf 2026*
 
 ---
 
-# Back to Balance e.V. – Satzung des gemeinnützigen Vereins
+# Back to Meaning Maximization e.V. – Satzung des gemeinnützigen Vereins
 
 **Sitz: Freiburg im Breisgau · Entwurf 2026**
 
-Der Verein ist die zweite Säule des Back to Balance Universums – er trägt was nicht wirtschaftlich ist, aber ebenso zum Kern gehört: Bildung, soziale Projekte, ökologische Initiativen, ideelle Arbeit.
+Der Verein ist die zweite Säule des Back to Meaning Maximization Universums – er trägt was nicht wirtschaftlich ist, aber ebenso zum Kern gehört: Bildung, soziale Projekte, ökologische Initiativen, ideelle Arbeit.
 
 ### § 2 Zweck
 
 Förderung von: Umwelt- und Klimaschutz; Bildung und Erziehung; Gesundheitspflege; Völkerverständigung; Bürgerschaftliches Engagement durch Gemeinschaftsbildung und Achtsamkeitspraxis.
 
-### § 9 Verhältnis zur Back to Balance eG
+### § 9 Verhältnis zur Back to Meaning Maximization eG
 
 Verein und Genossenschaft sind rechtlich eigenständig. Sie teilen die Grundwerte: **Die eG wirtschaftet, der e.V. wirkt.** Beide ergänzen sich.
 
 ---
 
-*Back to Balance e.V. · Freiburg im Breisgau · Entwurf 2026*
+*Back to Meaning Maximization e.V. · Freiburg im Breisgau · Entwurf 2026*

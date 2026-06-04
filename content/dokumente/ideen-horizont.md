@@ -8,7 +8,7 @@
 
 ## Einsamkeit
 
-Einsamkeit ist keine Randerscheinung. Sie ist eine der größten stillen Krisen unserer Zeit. Das Back to Balance Universum antwortet darauf nicht mit Programmen, sondern mit Struktur: **Gemeinsames Arbeiten, gemeinsames Essen, gemeinsames Leben.** Nicht erzwungen – aber ermöglicht. Wer Teil einer Zelle ist, ist nie allein, es sei denn, er will es sein.
+Einsamkeit ist keine Randerscheinung. Sie ist eine der größten stillen Krisen unserer Zeit. Das Back to Meaning Maximization Universum antwortet darauf nicht mit Programmen, sondern mit Struktur: **Gemeinsames Arbeiten, gemeinsames Essen, gemeinsames Leben.** Nicht erzwungen – aber ermöglicht. Wer Teil einer Zelle ist, ist nie allein, es sei denn, er will es sein.
 
 ---
 
@@ -26,7 +26,7 @@ Kinder wachsen in einem System auf, das Arbeit nicht als Last zeigt, sondern als
 
 ## Schönheit
 
-Schönheit ist kein Luxus. Sie ist ein Grundbedürfnis. Das Back to Balance Universum gestaltet seine Räume, seine Produkte, seine Kommunikation mit dem Anspruch, dass Ästhetik und Funktion zusammengehören. **Was wir bauen, soll schön sein – nicht teuer.**
+Schönheit ist kein Luxus. Sie ist ein Grundbedürfnis. Das Back to Meaning Maximization Universum gestaltet seine Räume, seine Produkte, seine Kommunikation mit dem Anspruch, dass Ästhetik und Funktion zusammengehören. **Was wir bauen, soll schön sein – nicht teuer.**
 
 ---
 
@@ -62,7 +62,7 @@ Das System verändert nicht durch Protest, sondern durch Existenz. **Es zeigt, d
 
 ## Einheitliches System statt Open Source
 
-Das Back to Balance Universum setzt auf ein **einheitliches, geschlossenes System** – nicht aus Kontrollbedürfnis, sondern aus Qualitätsbewusstsein. Ein System, das für alle gleich funktioniert, schützt vor Fragmentierung, vor Wildwuchs, vor dem Verlust gemeinsamer Standards.
+Das Back to Meaning Maximization Universum setzt auf ein **einheitliches, geschlossenes System** – nicht aus Kontrollbedürfnis, sondern aus Qualitätsbewusstsein. Ein System, das für alle gleich funktioniert, schützt vor Fragmentierung, vor Wildwuchs, vor dem Verlust gemeinsamer Standards.
 
 ---
 
@@ -92,7 +92,7 @@ Jedes Mitglied entwickelt über die Zeit einen eigenen **Kompetenzbaum** – ein
 
 ## Linux der Genossenschaftsökonomie
 
-Das Back to Balance Universum versteht sich als **Linux der Genossenschaftsökonomie** – ein stabiles Betriebssystem für gemeinschaftliches Wirtschaften.
+Das Back to Meaning Maximization Universum versteht sich als **Linux der Genossenschaftsökonomie** – ein stabiles Betriebssystem für gemeinschaftliches Wirtschaften.
 
 ### KI-Modul-Generator
 

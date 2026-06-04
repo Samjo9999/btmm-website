@@ -28,7 +28,7 @@ export function Footer() {
               color: 'var(--btb-creme)',
               marginBottom: '0.75rem',
             }}>
-              Back to Balance
+              Back to Meaning Maximization
             </div>
             <p style={{ fontSize: '0.9rem', opacity: 0.7, lineHeight: 1.6, marginBottom: '1rem' }}>
               {t('footer.tagline')}

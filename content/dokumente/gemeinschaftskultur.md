@@ -1,8 +1,8 @@
 # Leben im System – Eine Einladung zur inneren Haltung
 
-**Johannes-Samuel Gartzke · Gemeinschaftskultur im Back to Balance Universum**
+**Johannes-Samuel Gartzke · Gemeinschaftskultur im Back to Meaning Maximization Universum**
 
-> Das Back to Balance Universum ist mehr als ein Wirtschaftsmodell. Es ist eine Lebenshaltung. Dieses Dokument beschreibt, wie wir miteinander leben wollen – nicht als Regelwerk, sondern als Einladung.
+> Das Back to Meaning Maximization Universum ist mehr als ein Wirtschaftsmodell. Es ist eine Lebenshaltung. Dieses Dokument beschreibt, wie wir miteinander leben wollen – nicht als Regelwerk, sondern als Einladung.
 
 ---
 
@@ -16,7 +16,7 @@ Nikotin ist eine Suchtsubstanz, die den Körper schädigt und die Umgebung belas
 
 ### Alkohol
 
-Alkohol ist gesellschaftlich akzeptiert, aber das macht ihn nicht weniger schädlich. **Im Back to Balance Universum ist Alkohol kein Bestandteil des Gemeinschaftslebens.** Wer trinkt, tut das im Privaten – die Gemeinschaftsräume bleiben frei davon.
+Alkohol ist gesellschaftlich akzeptiert, aber das macht ihn nicht weniger schädlich. **Im Back to Meaning Maximization Universum ist Alkohol kein Bestandteil des Gemeinschaftslebens.** Wer trinkt, tut das im Privaten – die Gemeinschaftsräume bleiben frei davon.
 
 ---
 

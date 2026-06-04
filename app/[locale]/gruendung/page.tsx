@@ -9,13 +9,13 @@ import { ContactForm } from '@/components/ContactForm'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Gründung – Back to Balance eG',
-  description: 'Die Gründung der Back to Balance Genossenschaft. Ein offener Brief an die 7 Gründungsmitglieder. Werde Teil der Bewegung.',
+  title: 'Gründung – Back to Meaning Maximization eG',
+  description: 'Die Gründung der Back to Meaning Maximization Genossenschaft. Ein offener Brief an die 7 Gründungsmitglieder. Werde Teil der Bewegung.',
 }
 
 const schritte = [
   { schritt: '1', titel: 'Gründungsmitglieder finden', text: '7 Menschen, die diese Idee mittragen. Kein Zeitdruck — wir wachsen in dem Tempo, das zu uns passt.' },
-  { schritt: '2', titel: 'Gründungsversammlung & Notar', text: 'Ein Termin, eine Unterschrift, 100 € Einlage. Die Back to Balance eG wird beim Genossenschaftsregister Freiburg eingetragen.' },
+  { schritt: '2', titel: 'Gründungsversammlung & Notar', text: 'Ein Termin, eine Unterschrift, 100 € Einlage. Die Back to Meaning Maximization eG wird beim Genossenschaftsregister Freiburg eingetragen.' },
   { schritt: '3', titel: 'Prüfverband & Aufbau', text: 'Mitgliedschaft im BWGV, Gewerbeanmeldung, erste Großhandelseinkäufe. Die operative Arbeit übernehmen die, die Zeit haben.' },
   { schritt: '4', titel: 'Die erste Zelle lebt', text: 'Gemeinsamer Einkauf, erste interne Leistungen, Stundenbuch. BtB im Rohformat — noch ohne App, aber real.' },
   { schritt: '5', titel: 'Wachstum', text: 'App geht live, Pool füllt sich, Stundensatz steigt. Weitere Mitglieder und Zellen kommen dazu.' },
@@ -70,7 +70,7 @@ export default async function GruendungPage() {
                 Wenn du diesen Brief liest, dann vielleicht weil du spürst, dass etwas anders sein könnte. Dass Wirtschaft nicht so sein muss, wie sie ist. Dass Zusammenarbeit auf Augenhöhe möglich ist. Dass Fürsorge und wirtschaftliche Stärke keine Gegensätze sind.
               </p>
               <p>
-                Back to Balance entsteht gerade. Nicht als fertiges System, das von oben eingeführt wird, sondern als lebendiger Prozess, der von den Menschen geprägt wird, die es aufbauen.
+                Back to Meaning Maximization entsteht gerade. Nicht als fertiges System, das von oben eingeführt wird, sondern als lebendiger Prozess, der von den Menschen geprägt wird, die es aufbauen.
               </p>
               <p>
                 Wir suchen 7 Gründungsmitglieder für die Genossenschaft. Und hier ist die ehrliche Nachricht: <strong>Du musst nicht sofort Vollzeit einsteigen.</strong> Was wir brauchen, sind 7 Menschen, die diese Idee mittragen — auch wenn du anfangs nur bei der Gründungsversammlung dabei bist und das System im Hintergrund wachsen lässt.

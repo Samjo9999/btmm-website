@@ -11,8 +11,8 @@ import { SupportChat } from '@/components/SupportChat'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'FAQ – Häufige Fragen | Back to Balance',
-  description: 'Häufige Fragen zu Back to Balance, Mitgliedschaft, Körperarbeit, Spenden und der BtB-App.',
+  title: 'FAQ – Häufige Fragen | Back to Meaning Maximization',
+  description: 'Häufige Fragen zu Back to Meaning Maximization, Mitgliedschaft, Körperarbeit, Spenden und der BtB-App.',
 }
 
 export default async function FaqPage() {

@@ -37,7 +37,7 @@ export async function POST(request: NextRequest) {
             currency: 'eur',
             unit_amount: data.spende_betrag * 100,
             product_data: {
-              name: 'Spende an Back to Balance',
+              name: 'Spende an Back to Meaning Maximization',
               description: `Spende über ${data.spende_betrag} € — Danke für deine Unterstützung!`,
             },
           },

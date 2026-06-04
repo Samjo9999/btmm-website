@@ -8,7 +8,7 @@ import { HeroImageLightbox } from '@/components/HeroImageLightbox'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Die BtB-App – Back to Balance',
+  title: 'Die BtB-App – Back to Meaning Maximization',
   description: 'Die BtB-App für Mitglieder: Pool, Coins, Workspace, Abstimmung und Berufsmodule. Login unter app.backtobalance.online.',
 }
 

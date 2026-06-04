@@ -18,7 +18,7 @@ interface Angebot {
 const angebote: Angebot[] = [
   {
     id: 'koerperarbeit-freiburg',
-    titel: 'Back to Balance Körperarbeit Freiburg',
+    titel: 'Back to Meaning Maximization Körperarbeit Freiburg',
     beschreibung: 'Tiefgreifende Wellnessmethode für den gesamten Bewegungsapparat. Sanfte Schwingungen bewirken einen Reset auf allen Gelenkebenen. Besonders wohltuend bei Rückenbeschwerden, Verspannungen, Kopfschmerzen und zur Geburtsvorbereitung.',
     ort: 'Freiburg',
     kategorie: 'Körperarbeit',

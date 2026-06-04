@@ -13,7 +13,7 @@ export function getStripe(): Stripe {
 
 export const PRODUKTE = {
   spende: {
-    name: 'Spende an Back to Balance',
+    name: 'Spende an Back to Meaning Maximization',
     description: 'Unterstütze den Aufbau einer gerechteren Wirtschaft.',
   },
   erstsitzung: {

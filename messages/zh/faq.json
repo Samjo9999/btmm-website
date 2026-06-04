@@ -1,6 +1,6 @@
 {
   "titel": "常见问题",
-  "untertitel": "关于 Back to Balance 最重要问题的解答",
+  "untertitel": "关于 Back to Meaning Maximization 最重要问题的解答",
   "kategorien": {
     "allgemein": "常规",
     "mitgliedschaft": "会员",
@@ -10,8 +10,8 @@
   },
   "fragen": {
     "was_ist_btb": {
-      "frage": "什么是 Back to Balance？",
-      "antwort": "Back to Balance (BtB) 是一个社区项目，致力于开发和实践一种替代性经济模式。它将经济合作与身体疗愈以及本地社区建设相结合。"
+      "frage": "什么是 Back to Meaning Maximization？",
+      "antwort": "Back to Meaning Maximization (BtB) 是一个社区项目，致力于开发和实践一种替代性经济模式。它将经济合作与身体疗愈以及本地社区建设相结合。"
     },
     "wie_mitmachen": {
       "frage": "我如何参与？",

@@ -55,7 +55,7 @@ export function Header({ locale }: { locale: Locale }) {
         <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', textDecoration: 'none', flexShrink: 0 }}>
           <Image
             src="/logo.png"
-            alt="Back to Balance Logo"
+            alt="Back to Meaning Maximization Logo"
             width={44}
             height={44}
             style={{ objectFit: 'contain' }}
@@ -67,7 +67,7 @@ export function Header({ locale }: { locale: Locale }) {
             color: 'var(--btb-dunkel)',
             display: 'none',
           }} className="hidden md:block">
-            Back to Balance
+            Back to Meaning Maximization
           </span>
         </Link>
 

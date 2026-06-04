@@ -1,4 +1,4 @@
-# Back to Balance – Website Cursor Prompt
+# Back to Meaning Maximization – Website Cursor Prompt
 
 **Framework: Next.js 14 · Deployment: Vercel · Domain: backtobalance.online**
 

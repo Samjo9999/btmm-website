@@ -147,7 +147,7 @@ export default function BuchungsbedingungenPage() {
               <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>
                 <strong>Anbieter:</strong><br />
                 Johannes-Samuel Gartzke<br />
-                Back to Balance<br />
+                Back to Meaning Maximization<br />
                 Hildastr. 12, 79102 Freiburg im Breisgau<br />
                 E-Mail: back.to.balance.gartzke@gmail.com<br />
                 Telefon: 0176 44453687

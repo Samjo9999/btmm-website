@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'International – BtB Konzept',
-  description: 'Einheitliches System, weltweite Zellen und politische Wirkung durch Existenz: Die internationale Vision von Back to Balance.',
+  description: 'Einheitliches System, weltweite Zellen und politische Wirkung durch Existenz: Die internationale Vision von Back to Meaning Maximization.',
 }
 
 export default async function InternationalPage() {

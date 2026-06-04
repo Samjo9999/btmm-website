@@ -9,8 +9,8 @@ import { ContactForm } from '@/components/ContactForm'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Mitmachen – Back to Balance',
-  description: 'Werde Teil von Back to Balance: Unterstützer ab 50€/Jahr, Fördermitglied ab 1.000€/Jahr, oder Vollmitglied der Genossenschaft.',
+  title: 'Mitmachen – Back to Meaning Maximization',
+  description: 'Werde Teil von Back to Meaning Maximization: Unterstützer ab 50€/Jahr, Fördermitglied ab 1.000€/Jahr, oder Vollmitglied der Genossenschaft.',
 }
 
 export default async function MitmachenPage() {
@@ -194,7 +194,7 @@ export default async function MitmachenPage() {
                   Vollmitglied
                 </h2>
                 <p style={{ fontSize: '0.85rem', color: 'var(--btb-dunkel)', opacity: 0.6, marginBottom: '1rem' }}>
-                  Back to Balance eG — Alltag, Arbeitszeit, Mitgestaltung
+                  Back to Meaning Maximization eG — Alltag, Arbeitszeit, Mitgestaltung
                 </p>
                 <div style={{
                   fontSize: '2rem',

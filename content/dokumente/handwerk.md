@@ -1,8 +1,8 @@
 # Handwerk & Zulassungen
 
-**Johannes-Samuel Gartzke · Ergänzung zum Back to Balance Konzept**
+**Johannes-Samuel Gartzke · Ergänzung zum Back to Meaning Maximization Konzept**
 
-> Dieses Dokument klärt die wichtigsten handwerksrechtlichen und gewerblichen Fragen für den Aufbau einer Back to Balance Zelle.
+> Dieses Dokument klärt die wichtigsten handwerksrechtlichen und gewerblichen Fragen für den Aufbau einer Back to Meaning Maximization Zelle.
 
 ---
 

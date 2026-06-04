@@ -1,6 +1,6 @@
 {
   "titel": "الأسئلة الشائعة",
-  "untertitel": "إجابات على أهم الأسئلة حول Back to Balance",
+  "untertitel": "إجابات على أهم الأسئلة حول Back to Meaning Maximization",
   "kategorien": {
     "allgemein": "عام",
     "mitgliedschaft": "العضوية",
@@ -10,8 +10,8 @@
   },
   "fragen": {
     "was_ist_btb": {
-      "frage": "ما هو Back to Balance؟",
-      "antwort": "Back to Balance (BtB) هو مشروع مجتمعي يطوّر ويختبر نموذجًا اقتصاديًا بديلًا."
+      "frage": "ما هو Back to Meaning Maximization؟",
+      "antwort": "Back to Meaning Maximization (BtB) هو مشروع مجتمعي يطوّر ويختبر نموذجًا اقتصاديًا بديلًا."
     },
     "wie_mitmachen": {
       "frage": "كيف يمكنني المشاركة؟",

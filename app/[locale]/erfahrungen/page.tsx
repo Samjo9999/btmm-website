@@ -38,7 +38,7 @@ export default function ErfahrungenPage() {
             fontWeight: 700,
             marginBottom: '0.5rem',
           }}>
-            Erfahrungen mit Back to Balance
+            Erfahrungen mit Back to Meaning Maximization
           </h1>
           <p style={{ fontSize: '1.2rem', opacity: 0.9 }}>
             Was unsere Gemeinschaft bewegt

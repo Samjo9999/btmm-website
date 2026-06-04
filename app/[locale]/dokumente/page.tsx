@@ -11,8 +11,8 @@ import { join } from 'path'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Dokumente – Back to Balance',
-  description: 'Konzeptpapiere, Satzungsentwürfe und weitere Dokumente von Back to Balance als Leseansicht.',
+  title: 'Dokumente – Back to Meaning Maximization',
+  description: 'Konzeptpapiere, Satzungsentwürfe und weitere Dokumente von Back to Meaning Maximization als Leseansicht.',
 }
 
 async function getDokumente() {

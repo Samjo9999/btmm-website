@@ -21,12 +21,12 @@ const MD_DIR = path.join(ROOT, 'content', 'dokumente')
 
 const mapping = {
   'BTB_Konzept_v15_0_0.pdf': 'konzept.md',
-  'BackToBalance_Satzung_2026.pdf': 'satzung.md',
+  'BackToBalance_Satzung_2028.pdf': 'satzung.md',
   'BtB_Einfuehrung.pdf': 'einfuehrung.md',
   'BtB_Wirtschaften_Anleitung_v1_1_0.pdf': 'wirtschaften.md',
   'BTB_Ideen_Horizont_v2_0_0.pdf': 'ideen-horizont.md',
   'BtB_Gemeinschaftskultur.pdf': 'gemeinschaftskultur.md',
-  'BtB_Spendenaufruf_2026.pdf': 'spendenaufruf.md',
+  'BtB_Spendenaufruf_2028.pdf': 'spendenaufruf.md',
   'BtB_Handwerk_Ergaenzung.pdf': 'handwerk.md',
 }
 

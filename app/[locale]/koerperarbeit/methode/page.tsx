@@ -12,7 +12,7 @@ import contactData from '@/data/contact.json'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Methode – Körperarbeit Freiburg | BtB',
+  title: 'Methode – Körperarbeit Freiburg | BtMM',
   description: 'Die BtMM-Methode der Körperarbeit: achtsame Präsenz, Begleitung statt Führung, Integration. Ganzheitliche Körperarbeit Freiburg.',
 }
 

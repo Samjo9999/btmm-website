@@ -20,7 +20,7 @@ const EDGE_URL =
   'https://xcngmshjuqoucdlgikao.supabase.co/functions/v1/website-agent'
 
 const QUICK_ACTIONS = [
-  'Was ist BtB?',
+  'Was ist BtMM?',
   'Mitglied werden',
   'Kontakt',
 ]
@@ -550,7 +550,7 @@ export function ChatWidget() {
                   flexShrink: 0,
                 }}
               >
-                Powered by <strong style={{ color: '#2a7cab' }}>BtB</strong>
+                Powered by <strong style={{ color: '#2a7cab' }}>BtMM</strong>
               </div>
             </>
           )}

@@ -1,6 +1,6 @@
 # Ein Ruf an alle, die anders leben wollen
 
-**Johannes-Samuel Gartzke · Spendenaufruf 2026**
+**Johannes-Samuel Gartzke · Spendenaufruf**
 
 ---
 

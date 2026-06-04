@@ -64,7 +64,7 @@ export default async function KonzeptPage() {
         </div>
       </section>
 
-      {/* Einführung — Was ist BtB? */}
+      {/* Einführung — Was ist BtMM? */}
       <section className="section" style={{ background: 'var(--btb-weiss)' }}>
         <div className="container-btb" style={{ maxWidth: 800 }}>
           <SectionReveal>
@@ -95,7 +95,7 @@ export default async function KonzeptPage() {
             {[
               { icon: Scale, label: 'Gleicher Stundensatz', detail: '1 Stunde = 1 Stunde, egal welcher Beruf', color: 'var(--btb-rot)' },
               { icon: TrendingUp, label: 'Pool-Dreiteilung', detail: '⅓ Vergütung · ⅓ Reinvestition · ⅓ Sozial', color: 'var(--btb-rot)' },
-              { icon: Heart, label: 'BtB-Coin', detail: '1 Coin = 1 Stunde — internes Tauschmittel', color: 'var(--btb-blau)' },
+              { icon: Heart, label: 'BtMM-Coin', detail: '1 Coin = 1 Stunde — internes Tauschmittel', color: 'var(--btb-blau)' },
               { icon: Users, label: 'Selbstverwaltete Zellen', detail: 'Demokratisch, dezentral, eigenverantwortlich', color: 'var(--btb-blau)' },
               { icon: Shield, label: 'Solidarfonds', detail: 'Schwangerschaft, Krankheit, Übergänge', color: 'var(--btb-oliv)' },
               { icon: Globe, label: 'Weltweit ein System', detail: 'Keine Kopie — Teil des Netzwerks', color: 'var(--btb-oliv)' },
@@ -151,7 +151,7 @@ export default async function KonzeptPage() {
                 text: t('uebersicht.wirtschaft_text'),
                 href: '/konzept/wirtschaft',
                 color: 'var(--btb-rot)',
-                highlights: ['Pool & Dreiteilung', 'Gleicher Stundensatz', 'BtB-Coin', 'EK-Preis-Vorteil', 'Modellrechnungen'],
+                highlights: ['Pool & Dreiteilung', 'Gleicher Stundensatz', 'BtMM-Coin', 'EK-Preis-Vorteil', 'Modellrechnungen'],
               },
               {
                 icon: <Users size={40} style={{ color: 'var(--btb-blau)' }} />,

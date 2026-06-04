@@ -53,7 +53,7 @@ export default function BuchungsbedingungenPage() {
         <div className="container-btb" style={{ maxWidth: 800 }}>
           <div className="prose-btb">
             <p style={{ opacity: 0.7, marginBottom: '2rem' }}>
-              Stand: April 2026
+              Stand: aktuell
             </p>
 
             <h2 style={headingStyle}>

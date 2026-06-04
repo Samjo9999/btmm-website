@@ -164,6 +164,9 @@ export default async function NachhaltigkeitPage() {
               <li>Lebensmittel regional und saisonal — nicht global und genmanipuliert</li>
               <li>Energie erneuerbar — oder rational reduziert</li>
             </ul>
+            <p style={{ lineHeight: 1.8, fontSize: '1rem', marginBottom: '1rem', marginTop: '1.5rem', paddingTop: '1.5rem', borderTop: '1px solid var(--btb-creme)' }}>
+              <strong>Unsere Anforderung an Partner und Anbieter:</strong> Wir wählen nur Lieferanten und Partner, die echte Nachhaltigkeits- und Fairness-Standards erfüllen. Das bedeutet: Transparente Arbeitsbedingungen, faire Löhne, ökologische Verantwortung und Verzicht auf Ausbeutungspraktiken. Partner, die reine Profitmaximierung verfolgen und Mensch oder Natur ausbeuten, passen nicht in unser System. Das ist kein Marketing-Statement — es ist eine Geschäftsbedingung.
+            </p>
           </SectionReveal>
         </div>
       </section>

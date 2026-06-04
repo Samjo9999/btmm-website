@@ -1,6 +1,6 @@
 # Back to Meaning Maximization eG – Satzung der eingetragenen Genossenschaft
 
-**Sitz: Freiburg im Breisgau · Entwurf 2026**
+**Sitz: Freiburg im Breisgau · Entwurf**
 
 *Dieser Entwurf dient als inhaltliche Grundlage und ist vor der Einreichung durch einen auf Genossenschaftsrecht spezialisierten Notar oder Rechtsanwalt zu prüfen.*
 
@@ -135,13 +135,13 @@ Auflösung nur mit 75 % Mehrheit der Generalversammlung. Verbleibendes Vermögen
 
 ---
 
-*Back to Meaning Maximization eG · Freiburg im Breisgau · Entwurf 2026*
+*Back to Meaning Maximization eG · Freiburg im Breisgau · Entwurf*
 
 ---
 
 # Back to Meaning Maximization e.V. – Satzung des gemeinnützigen Vereins
 
-**Sitz: Freiburg im Breisgau · Entwurf 2026**
+**Sitz: Freiburg im Breisgau · Entwurf**
 
 Der Verein ist die zweite Säule des Back to Meaning Maximization Universums – er trägt was nicht wirtschaftlich ist, aber ebenso zum Kern gehört: Bildung, soziale Projekte, ökologische Initiativen, ideelle Arbeit.
 
@@ -155,4 +155,4 @@ Verein und Genossenschaft sind rechtlich eigenständig. Sie teilen die Grundwert
 
 ---
 
-*Back to Meaning Maximization e.V. · Freiburg im Breisgau · Entwurf 2026*
+*Back to Meaning Maximization e.V. · Freiburg im Breisgau · Entwurf*

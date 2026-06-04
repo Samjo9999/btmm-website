@@ -13,7 +13,7 @@ import contactData from '@/data/contact.json'
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Kontakt & Anfahrt – Körperarbeit Freiburg | BtB',
+  title: 'Kontakt & Anfahrt – Körperarbeit Freiburg | BtMM',
   description: 'Kontakt für BtMM-Körperarbeit in Freiburg. Adresse, Telefon, E-Mail und Anfahrt.',
 }
 

@@ -59,7 +59,7 @@ export default async function HomePage() {
               alt="Back to Meaning Maximization Logo"
               width={160}
               height={160}
-              style={{ margin: '0 auto', filter: 'drop-shadow(0 2px 8px rgba(0,0,0,0.4))' }}
+              style={{ margin: '0 auto', filter: 'drop-shadow(0 0 24px rgba(157, 78, 221, 0.7)) drop-shadow(0 0 12px rgba(157, 78, 221, 0.5))' }}
               priority
             />
           </div>
